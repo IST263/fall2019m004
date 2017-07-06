@@ -1,0 +1,13 @@
+site_name: IST 263, Fall 2017 - M05
+theme: cinder
+
+pages:
+- Home: 'index.md'
+- Weekly Schedule:
+  - Week 1 : 'schedule/week01.md'
+- FAQ:
+  - Submit Homework: 'submit-howto.md'
+  - Getting your Computer Ready: 'computer-setup.md'
+- Projects:
+  - Individual Project: 'projects/individual.md'
+  - Group Project: 'projects/group-project.md'
