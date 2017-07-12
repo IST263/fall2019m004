@@ -1,4 +1,4 @@
-# Welcome to IST 263 (M05)
+# Welcome to IST 263, Section M05
 Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & deadlines listed in this website are applicable only to Section M05 students.**
 
 <!-- 

@@ -5,6 +5,7 @@ pages:
 - Home: 'index.md'
 - Weekly Schedule:
   - Week 1 : 'schedule/week01.md'
+  - Week 2 : 'schedule/week02.md'
 - FAQ:
   - Submit Homework: 'submit-howto.md'
   - Getting your Computer Ready: 'computer-setup.md'
