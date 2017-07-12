@@ -27,9 +27,9 @@ Monday & Wednesday 12:45pm - 2:05pm
 
 
 ## Questions / Discussions / Contacting the Instructor
-This class will use Slack as the primary platform for all forms of communication. All registered students will receive an invite to join the class's Slack team. It is a free service. 
-<p>**Slack Team URL - [https://ist263-m005.slack.com/](https://ist263-m005.slack.com/)**  </p
-<p>*If you must you can send a message to the Instructor via Blackboard.*</p>
+This class will use Gitter as the primary platform for group discussions. All registered students will receive an invite to join the class's Gitter team. It is a free service. 
+<p>**Gitter Team URL - [https://gitter.im/IST-263-M005](https://gitter.im/IST-263-M005/)**  </p
+<p>*If you must, you can direct message the instructor on Gitter and/or send a message via Blackboard.*</p>
 
 ## Instructor
 

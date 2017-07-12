@@ -35,3 +35,6 @@ After this class you should be able to
     - [Install & Configure git & gitHub](/computer-setup/#git-github)
 2. Make sure you can login to SAGE at [https://sage.syr.edu](https://sage.syr.edu)
 3. Review the [Individual Project](/projects/individual/) assignment
+4. Create your resume in MS. Word or as a PDF.
+    - Copy it into the 'homework' folder in Week 01
+5. Commit to git and push to GitHub
