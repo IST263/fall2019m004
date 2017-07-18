@@ -1,3 +1,5 @@
+# Week 1
+
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
@@ -38,8 +40,4 @@ We will go over the course syllabus. We will spend some time discussing strategi
     - Sign into class discussion forum on [Gitter](https://gitter.im/iSchool-Syracuse-IST-263/F17-M005)
 2. Make sure you can login to SAGE at [https://sage.syr.edu](https://sage.syr.edu)
 3. Review the [Individual Project](/projects/individual/) assignment
-4. Create your resume in MS. Word or as a PDF.
-    - Copy it into the 'homework' folder in Week 01
-5. List the new terminologies you learnt this week, see in your course folder under week-01/homework
-6. Commit to git and push to GitHub
-7. Do the pre-class reading for next class
+
