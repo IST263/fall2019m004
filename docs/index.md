@@ -1,5 +1,5 @@
-# Welcome to IST 263, Section M05
-Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & deadlines listed in this website are applicable only to Section M05 students.**
+# Welcome to IST 263, Section M005
+Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & deadlines listed in this website are applicable only to Section M005 students.**
 
 <!-- 
 ## This week ##
@@ -22,13 +22,13 @@ After successfully completing this course you will be able to
 - Consider entrepreneurial opportunities in respect to web design, issues such as web 2.0, HTML5, web technologies and related issues  
 
 ## Classroom & Meeting Times
-Hinds Hall, Room 010  
+Hinds Hall, Room 011   
 Monday & Wednesday 12:45pm - 2:05pm
 
 
 ## Questions / Discussions / Contacting the Instructor
 This class will use Gitter as the primary platform for group discussions. All registered students will receive an invite to join the class's Gitter team. It is a free service. 
-<p>**Gitter Team URL - [https://gitter.im/IST-263-M005](https://gitter.im/IST-263-M005/)**  </p
+<p>**Gitter Team URL - [https://gitter.im/iSchool-Syracuse-IST-263/F17-M005](https://gitter.im/iSchool-Syracuse-IST-263/F17-M005)**  </p
 <p>*If you must, you can direct message the instructor on Gitter and/or send a message via Blackboard.*</p>
 
 ## Instructor

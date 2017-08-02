@@ -6,9 +6,9 @@ In this assignment you will be working in groups of 3 where you will
 
 - Research an advanced topic, 
 - Create a one or two page website and 
-- Give a 10 minute presentation to your peers in class. 
+- Give a 15 minute presentation to your peers in class. 
 
-A list of advanced topics will be announced in class during week 10. Each group will have the opportunity to pick their topic of interest via a random lottery. You have the freedom to come up with your own topic. In such instances the topic will have to be approved by the instructor.
+A list of advanced topics will be announced in class during week 10. Each group will have the opportunity to pick their topic of interest via a random lottery on Week 11. You have the freedom to come up with your own topic. In such instances the topic will have to be discussed with and approved by the instructor.
 
 
 Each group will get their own GitHub repo/folder to facilitate collaboration. You will be submitting your project work via this repo/folder.

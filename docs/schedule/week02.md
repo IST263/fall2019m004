@@ -6,21 +6,20 @@ After this week you should be able to
 - Describe HTML
 - Create, edit and view hypertext documents
 
-## Class Slides 
-### Monday
+---
+## Monday
+
+#### Class Slides 
+
 - &lt; No class &gt;
 
-### Wednesday
-- &lt; Not yet available &gt;
 
 ---  
-## [W2, Mon]
-&lt; No class &gt;
 
 
-## [W2, Wed] HTML
+## Wednesday - HTML
 
-### <i class="fa fa-book"></i>&nbsp;Reading List ###
+#### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
 - Pre-Class
     - [HTML Background](http://ryanstutorials.net/html-tutorial/html-background.php)
@@ -29,7 +28,12 @@ After this week you should be able to
     - [HTML5](https://www.w3schools.com/html/)
     - [Introduction](https://www.w3schools.com/html/html_intro.asp)
 
-## Homework ###
+#### Class Slides 
+- &lt; Not yet available &gt;
+
+---  
+
+## Homework due this week ###
 
 1. List the new terminologies you learnt this week, see in your course folder under week-02/homework
 2. Create your resume in MS. Word or as a PDF.

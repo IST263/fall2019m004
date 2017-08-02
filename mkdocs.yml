@@ -1,5 +1,6 @@
-site_name: IST 263, Fall 2017 - M05
+site_name: IST 263, Fall 2017 - M005
 theme: cinder
+copyright: Copyright 2017 by Avinash Kadaji
 
 pages:
 - Home: 'index.md'
@@ -7,6 +8,16 @@ pages:
   - Week 1 : 'schedule/week01.md'
   - Week 2 : 'schedule/week02.md'
   - Week 3 : 'schedule/week03.md'
+  - Week 4 : 'schedule/week04.md' 
+  - Week 5 : 'schedule/week05.md'  
+  - Week 6 : 'schedule/week06.md'   
+  - Week 7 : 'schedule/week07.md'   
+  - Week 8 : 'schedule/week08.md'   
+  - Week 9 : 'schedule/week09.md'   
+  - Week 10 : 'schedule/week10.md'   
+  - Week 11 : 'schedule/week11.md'   
+  - Week 12 : 'schedule/week12.md'   
+  - Week 13 : 'schedule/week13.md'     
 - FAQ:
   - Submit Homework: 'submit-howto.md'
   - Getting your Computer Ready: 'computer-setup.md'
