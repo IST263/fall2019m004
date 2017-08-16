@@ -3,11 +3,10 @@
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
-- Describe benefits of jQuery
-- Use simple jQuery plugins
+- Describe how Javascript can be used to make the web page interactive
 
 ---  
-## Monday -  jQuery
+## Monday -  Intro. to Javascript 
 
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
@@ -20,7 +19,7 @@ After this week you should be able to
 - &lt; Not yet available &gt;
 
 ---  
-## Wednesday -  Individual Project Due
+## Wednesday -  Javascript & DOM 
 
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
@@ -34,6 +33,8 @@ After this week you should be able to
 ---  
 
 ## Homework due this week ###
-1. Come up with your final project group team
+1. Work on your individual project, commit update to GitHub
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class
+
+

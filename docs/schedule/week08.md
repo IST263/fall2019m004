@@ -4,7 +4,6 @@
 After this week you should be able to 
 
 - Use Bootstrap CSS Components
-- Use HTML Form elements to collect & submit user information
 
 ---  
 ## Monday -  Mid-term Exam
@@ -22,18 +21,21 @@ After this week you should be able to
 - &lt; Not yet available &gt;
 
 ---  
-## Wednesday -  HTML Form
+
+## Wednesday - Bootstrap (BS)
 
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
 - Pre-Class
-    - [HTML Forms, Introduction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
+    - [BS, Get Started](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
 
 - Post-Class
-    - [HTML5 Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/HTML5_updates)
-
+    - [BS, Jumbotron](https://www.w3schools.com/bootstrap/bootstrap_jumbotron_header.asp)
+    - [BS, Panels](https://www.w3schools.com/bootstrap/bootstrap_panels.asp)
+    
 #### Class Slides 
 - &lt; Not yet available &gt;
+
 
 ---  
 

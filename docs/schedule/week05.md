@@ -43,6 +43,7 @@ After this week you should be able to
 ## Homework due this week ###
 1. Create a wireframe for your resume
 2. Implement the wireframe
-4. Commit homework to GitHub.
+3. Review the HTML files in next week's Monday folder
+4. Commit homework to GitHub
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class

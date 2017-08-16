@@ -3,31 +3,40 @@
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
-- Describe how Javascript can be used to make the web page interactive
+- Use Bootstrap CSS Components
 
 ---  
-## Monday -  Intro. to Javascript 
-
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
-
-- Pre-Class  
-        
-- Post-Class  
-        
-#### Class Slides 
-
-- &lt; Not yet available &gt;
-
----  
-## Wednesday -  Javascript & DOM 
+## Monday -  Bootstrap Components 
 
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
 - Pre-Class
-    
+    - [BS, Classes Reference](https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp)
+
 - Post-Class
+    - [BS, Buttons](https://www.w3schools.com/bootstrap/bootstrap_buttons.asp)
+    - [BS, Tables](https://www.w3schools.com/bootstrap/bootstrap_tables.asp)
+    - [BS, Lists](https://www.w3schools.com/bootstrap/bootstrap_list_groups.asp)
+
+#### Class Slides 
+- &lt; Not yet available &gt;
+
+---
+
+## Wednesday -  Bootstrap Layouts
+
+#### <i class="fa fa-book"></i>&nbsp;Reading List ###
+
+- Pre-Class  
+    - [Grids](https://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp)
+    - [Grids Examples](https://www.w3schools.com/bootstrap/bootstrap_grid_examples.asp)
+    - [Theme 1 Example](https://www.w3schools.com/bootstrap/trybs_theme_me_complete.htm)
+    
+- Post-Class          
+    - [Bootstrap, Theme 2](https://www.w3schools.com/bootstrap/trybs_theme_band_full.htm)
     
 #### Class Slides 
+
 - &lt; Not yet available &gt;
 
 ---  

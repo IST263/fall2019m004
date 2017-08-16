@@ -33,6 +33,5 @@ After this week you should be able to
 ---  
 
 ## Homework due this week ###
-1. Work on your final project, commit work to GitHub
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class

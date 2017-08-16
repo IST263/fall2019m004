@@ -9,8 +9,20 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 ---
 -->
 
+
 ## Course Objectives 
 In this course will be explore the principles for construction and publication of multimedia documents for the World Wide Web. We will incorporate a user-based approach to planning, design, implementation, and management in distributed network environments, with an entrepreneurial focus.
+
+
+## Classroom & Meeting Times
+Hinds Hall, Room 011   
+Monday & Wednesday 12:45pm - 2:05pm
+
+## Office Hours
+Hinds Hall, Room 239, Tuesday 3:00pm - 5:00pm  
+Or   
+Email me for appointments
+
 
 ## Learning Outcomes
 After successfully completing this course you will be able to  
@@ -20,10 +32,6 @@ After successfully completing this course you will be able to
 - Understand at a basic and intermediate level the workings of the Internet and Web applications  
 - Understand at an intermediate or expert level key Web technologies including HTML, CSS, Javascript  
 - Consider entrepreneurial opportunities in respect to web design, issues such as web 2.0, HTML5, web technologies and related issues  
-
-## Classroom & Meeting Times
-Hinds Hall, Room 011   
-Monday & Wednesday 12:45pm - 2:05pm
 
 
 ## Questions / Discussions / Contacting the Instructor
