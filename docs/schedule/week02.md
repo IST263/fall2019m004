@@ -9,9 +9,7 @@ After this week you should be able to
 ---
 ## Monday
 
-#### Class Slides 
-
-- &lt; No class &gt;
+ Labor Day, No class
 
 
 ---  
@@ -35,9 +33,10 @@ After this week you should be able to
 
 ## Homework due this week ###
 
-1. List the new terminologies you learnt this week, see in your course folder under week-02/homework
-2. Create your resume in MS. Word or as a PDF.
-    - Copy it into the 'homework' folder in Week 01
+1. Finish the [computer setup](computer-setup/)
+2. List the new terminologies you learnt this week, see in your course folder under `week-02/homework`
+3. Create your resume in MS Word or as a PDF.
+    - Copy it into the homework folder in Week 02 
 3. [Commit to git and push to GitHub](/submit-howto/#submittingcommitting-your-homework)
 4. Do the pre-class reading for next class
 
