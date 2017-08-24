@@ -1,7 +1,10 @@
 site_name: IST 263, Fall 2017 - M005
 theme: cinder
 copyright: Copyright 2017 by Avinash Kadaji
-
+google_analytics:
+  - UA-105238264-1
+  - auto
+  
 pages:
 - Home: 'index.md'
 - Weekly Schedule:
@@ -19,8 +22,8 @@ pages:
   - Week 12 : 'schedule/week12.md'   
   - Week 13 : 'schedule/week13.md'     
 - FAQ:
-  - Submit Homework: 'submit-howto.md'
   - Getting your Computer Ready: 'computer-setup.md'
+  - Submit Homework & Pull Feedback: 'submit-howto.md'
 - Projects:
   - Individual Project: 'projects/individual.md'
   - Group Project: 'projects/group-project.md'

@@ -21,7 +21,7 @@ Monday & Wednesday 12:45pm - 2:05pm
 ## Office Hours
 Hinds Hall, Room 239, Tuesday 3:00pm - 5:00pm  
 Or   
-Email me for appointments
+Email me at akadajis[@]syr[.]edu for appointments
 
 
 ## Learning Outcomes

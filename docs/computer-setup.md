@@ -31,7 +31,7 @@ git is a program that you install on **your computer** which can be used to keep
 
 ### GitHub
 
-GitHub is a web-based git. It complements git in ways that makes it possible for multiple people to work on a single project simultaneously. It also provides a way to store your code remotely. 
+GitHub is a web-based git server. It complements git in ways that makes it possible for a team of developers to contribute to a single project. It also provides a way to store your code remotely. 
 
 Follow these steps to configure your computer
 
