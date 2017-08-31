@@ -7,6 +7,7 @@ google_analytics:
   
 pages:
 - Home: 'index.md'
+- Syllabus: 'syllabus.md'
 - Weekly Schedule:
   - Week 1 : 'schedule/week01.md'
   - Week 2 : 'schedule/week02.md'

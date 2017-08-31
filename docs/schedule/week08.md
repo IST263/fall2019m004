@@ -6,7 +6,7 @@ After this week you should be able to
 - Use Bootstrap CSS Components
 
 ---  
-## Monday -  Mid-term Exam
+## Monday -  Midterm Exam
 
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
 

@@ -8,30 +8,31 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 
 ---
 -->
+## Weekly Schedule
 
 
-## Course Objectives 
-In this course will be explore the principles for construction and publication of multimedia documents for the World Wide Web. We will incorporate a user-based approach to planning, design, implementation, and management in distributed network environments, with an entrepreneurial focus.
+ Week # | Learning Outcomes, Readings & Homework Due
+ -------------  |
+[Week 1](schedule/week01.md) | [How does the web work?](schedule/week01.md)
+[Week 2](schedule/week02.md) | [HTML](schedule/week02.md)
+[Week 3](schedule/week03.md) | [More HTML](schedule/week03.md)
+[Week 4](schedule/week04.md) | [Introduction to CSS](schedule/week04.md)
+[Week 5](schedule/week05.md) | [Web Development Lifecycle](schedule/week05.md)
+[Week 6](schedule/week06.md) | [CSS Layouts & Responsive Design](schedule/week06.md)
+[Week 7](schedule/week07.md) | [Guest Lecture & HTML Forms](schedule/week07.md)
+[Week 8](schedule/week08.md) | [Midterm Exam & CSS Frameworks](schedule/week08.md)
+
+
+## Office Hours
+Hinds Hall, Room 239, Tuesday 3:00pm - 5:00pm  
+Or   
+Email me at akadajis at syr dot edu for appointments
+
 
 
 ## Classroom & Meeting Times
 Hinds Hall, Room 011   
 Monday & Wednesday 12:45pm - 2:05pm
-
-## Office Hours
-Hinds Hall, Room 239, Tuesday 3:00pm - 5:00pm  
-Or   
-Email me at akadajis[@]syr[.]edu for appointments
-
-
-## Learning Outcomes
-After successfully completing this course you will be able to  
-
-
-- Memorize key terms and definitions related to common web technologies  
-- Understand at a basic and intermediate level the workings of the Internet and Web applications  
-- Understand at an intermediate or expert level key Web technologies including HTML, CSS, Javascript  
-- Consider entrepreneurial opportunities in respect to web design, issues such as web 2.0, HTML5, web technologies and related issues  
 
 
 ## Questions / Discussions / Contacting the Instructor
@@ -39,7 +40,7 @@ This class will use Gitter as the primary platform for group discussions. All re
 <p>**Gitter Team URL - [https://gitter.im/iSchool-Syracuse-IST-263/F17-M005](https://gitter.im/iSchool-Syracuse-IST-263/F17-M005)**  </p
 <p>*If you must, you can direct message the instructor on Gitter and/or send a message via Blackboard.*</p>
 
-## Instructor
+## About the Instructor
 
 <p><img src="http://ist256.syr.edu/images/kadaji.jpg" align="right">Mr. Kadaji is currently the Assistant Director of Information Systems at Syracuse University Project Advance (SUPA). He joined SUPA in 2005 when he was hired to design a program management system, a project that soon grew into a full-time commitment. Today, he is responsible for the design, development and maintenance of Project Advance’s registration, records, billing, and administrative systems. Among the programs he has launched are Syllabus Maker and an Evaluation and Assessment (IES) tool. </p>
 
