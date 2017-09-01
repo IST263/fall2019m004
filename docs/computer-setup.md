@@ -89,32 +89,12 @@ This final step will walk you through downloading the class folder/repo from Git
 ## 4. Setup or Cloning Class Folder on your laptop
 ** These final steps will walk you through downloading the course folder from GitHub onto your computer **
 
-### If you are on a Mac ###
 1. Launch the Github Client that you have installed on your computer
 
-2. After the client has launched, click on the '+' sign then on 'Clone'. See the pic below.
-
-3. You should see your course folder in the list. Click on it and then click `Clone IST263/f170-ist263-something` button.    
-        *If you don't see your course folder then repeat steps listed in '[Setup Class Folder](#3-setup-class-folder-aka-repo-on-github)'. If you have tried that already see the instructor or a classmate.*
-    
-![Alt](/images/github-accept-assignment-part4.png "GitHub Project Accept Page 4")
-
-4. When you click on `Clone Repository` it will open a window in your Finder or Windows Explorer. Browse to your 'My Documents' or 'Desktop' or Any Folder where you save all your course materials. When you are there click on 'Clone'. 
-
-5. You have successfully cloned your class folder onto your laptop. 
-
-6. Browse to the folder and you should see a new folder titled 'f17-ist263-yourname'. Click on it and you will see the course syllabus and other documents.  
-![Alt](/images/github-accept-assignment-part5.png "GitHub Project Accept Page 5")
-
-
-### If you are on a Windows PC ###
-
-1. Launch the Github Client that you have installed on your computer
-
-2. After the client has launched, click on the 'Clone a repository' button.  
-![Alt](/images/github-accept-assignment-part7.png "GitHub Project Accept Page 7")
+2. After the client has launched, click on the 'Clone a repository' button. You can also click on 'File' -> 'Clone Repository'  
 
 3. Paste the URL you copied in step 3.6 into the box.
+![Alt](/images/github-accept-assignment-part7.png "GitHub Project Accept Page 7")
 
 4. Local Path refers to the folder on your computer where you want the course folder to reside. Click 'Choose' and browse to say your 'My Documents' folder
 

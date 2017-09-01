@@ -27,16 +27,16 @@ After this week you should be able to
     - [Introduction](https://www.w3schools.com/html/html_intro.asp)
 
 #### Class Slides 
-- &lt; Not yet available &gt;
+- [Week 2 Slides](/slides/ist263-w2.pdf)
 
 ---  
 
-## Homework due this week ###
+## Homework due this week, Points Worth - 1.00 ##
 
-1. Finish the [computer setup](computer-setup/)
 2. List the new terminologies you learnt this week, see in your course folder under `week-02/homework`
 3. Create your resume in MS Word or as a PDF.
     - Copy it into the homework folder in Week 02 
-3. [Commit to git and push to GitHub](/submit-howto/#submittingcommitting-your-homework)
-4. Do the pre-class reading for next class
+3. [Commit to git and Push to GitHub](/submit-howto/#submittingcommitting-your-homework)
+
+
 

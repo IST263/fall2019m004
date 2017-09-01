@@ -36,9 +36,9 @@ More information on each of the above criteria is below.
 This project is intended to be completed in weekly sprints/chunks. You are expected to commit weekly work or updates into GitHub. There should be at a minimum of 1 weekly commit starting at Week 3 before the final project is complete. Below is the list of project milestones.
 
 
- Due By | Milestone | Deliverable 
+ Due By | Milestone | Deliverable(s) 
 ------------ | -------------  |
-Week 2 - 3 | Come up with website topic | Submit half page project proposal
+Week 2 - 3 | Come up with a website topic | Submit half page project proposal
 Week 3 - 5 | Research and collect website content and graphic media (images, video, etc.) | You can collect the content in a MS. Word doc or text file. If you are using copyrighted images and/or video make sure you cite them accordingly.
 Week 4 - 6 | Create, Submit and Revise Wireframes | Wireframes 
 Week 5 - 10 | Implement/Code the website | Website

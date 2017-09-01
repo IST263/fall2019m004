@@ -45,11 +45,11 @@ Because there are several course objectives I will assess your performance on se
 
 &nbsp; | BB Code | Total Points
  -------------  | | 
-Class / Forum Participation | CPP | 10
-Weekly Assignments | | 20 
-Midterm Exam | | 15
-[Individual Project](projects/individual/) | | 35
-[Final Group Project](projects/group-project/) | | 20  
+Class / Forum Participation | CPP + CPP Lost | 10
+Weekly Assignments | W* | 20 
+Midterm Exam | MTE | 15
+[Individual Project](projects/individual/) | INDVPRJ | 35
+[Final Group Project](projects/group-project/) | GRPPRJ | 20  
 | | 100
 
 
