@@ -5,7 +5,17 @@ I will compile and update the list every week.
 
 ## Week 1 - Anatomy of the Web
 
-- No questions yet
+- What is the difference between HTTP & HTTPS?
+- What does URL stand for?
+- What are the benefits of using HTTPS?
+- What is the difference between the web and the internet?
+- What role does DNS play in the Internet?
+- What does status code 400 mean?
+- What is an IP address?
+- What is HTTP and what purpose does it serve?
+- What is a sub-domain? What is a top-level domain (TLD)?
+- What is hypertext?
+- What is a web server?
 
 ## Week 2
 
