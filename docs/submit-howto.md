@@ -62,17 +62,17 @@ Follow these steps to pull the homework points & feedback
 
 1. Launch the GitHub desktop client. 
 
-2. It should look something like the pic below.
+2. It should look something like the pic below. Select your class repo by clicking on it.
 ![Alt](/images/github-pull-assignment-part1.png "GitHub Pull Page 1")
 
 3. Click 'Pull Origin' or 'Sync'. You can also click on 'Repository' -> 'Pull' from the application menu bar.
 
-4. Click on 'History' tab to see that changes posted by the Instructor have been downloaded. 
+4. Click on 'History' tab to see that changes posted by the Instructor. 
 ![Alt](/images/github-pull-assignment-part2.png "GitHub Pull Page 2")
 
-5. Open the course folder in your file browser and look for a file 'grade.txt' in the week's folder. 
+5. If a feedback was posted to a HTML file you'll need to open that file in VS Code or Notepad++ to see the comments. If a grade was assigned look for a file 'grades.txt' in the homework folder for that week.
 
-6. If the due date hasn't passed you can revise the homework and resubmit.
+6. If the home due date hasn't passed you can revise the homework and resubmit.
 
 --- 
 
