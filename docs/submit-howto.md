@@ -32,6 +32,9 @@ I assume you have done and saved your work in the class folder. Follow these ste
 
 6. Congratuations you just committed your work to GitHub.
 
+---  
+
+
 ## How to check if homework has been submitted
 
 Below are some of the ways you can check to make sure the homework has been successfully submitted.
@@ -50,6 +53,7 @@ Launch your GitHub desktop application, select your repository from the list. Th
 
 I have setup a custom notification to email me and you (the person submitting the homework) when a commit is posted. This should be instantaneous and mostly reliable.
 
+---  
 
 ## Pulling homework feedback & points
     The instructor has cloned every student's course folder on his workstation as well. That allows him to view and evaluate your committed work. After the homework is evaluated he will add notes/comments to your file(s) and assign the homework points. 
@@ -58,10 +62,10 @@ Follow these steps to pull the homework points & feedback
 
 1. Launch the GitHub desktop client. 
 
-2. On a Windows PC it should look something like the pic below.
+2. It should look something like the pic below.
 ![Alt](/images/github-pull-assignment-part1.png "GitHub Pull Page 1")
 
-3. Click 'Pull Origin' or 'Sync' (if you are on a Mac)
+3. Click 'Pull Origin' or 'Sync'. You can also click on 'Repository' -> 'Pull' from the application menu bar.
 
 4. Click on 'History' tab to see that changes posted by the Instructor have been downloaded. 
 ![Alt](/images/github-pull-assignment-part2.png "GitHub Pull Page 2")
@@ -69,3 +73,27 @@ Follow these steps to pull the homework points & feedback
 5. Open the course folder in your file browser and look for a file 'grade.txt' in the week's folder. 
 
 6. If the due date hasn't passed you can revise the homework and resubmit.
+
+--- 
+
+## Resolving Conflicts
+
+With this pulling and pushing of code there is bound to be conflicts. Conflicts arise when you try to push code into GitHub but there are changes to the code on GitHub in the same module/vicinity which have been posted by the Instructor. 
+
+Avoiding this is the best fix. As a rule of thumb you should always 'pull' the latest code from GitHub prior to any coding session. At the end of the every coding session you should commit and push your code.
+
+Now that you have a conflict lets figure out how to resolve it.
+
+1. I assume you have committed your code but you got the error while trying to push the changes to GitHub.
+
+2. The pic below shows how a file gets modified when a conflict appears.  
+![Alt](/images/github-resolve-conflict.png "GitHub Resolve Conflict")
+Text between '<<<<<< HEAD', '========' and '>>>>>> origin/master' represents the conflict in the file between the local repository versus the remote server aka GitHub. 
+
+3. You now have to review the file and choose how the text/code should appear by deleting/editing the text.
+
+4. Make sure you remove the lines that have the above symbols.
+
+5. Repeat steps 2 and 3 for each conflict that's reported.
+
+5. Once you have reviewed and resolved all conflicts follow the steps to Commit and Push code as you would normally do.

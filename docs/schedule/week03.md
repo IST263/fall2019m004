@@ -23,7 +23,7 @@ After this week you should be able to
 
 #### Class Slides 
 
-- &lt; Not yet available &gt;
+- [Week 3.1 Slides](/slides/ist263-w3-1.pdf)
 
 
 ### Homework Due next class  
@@ -45,7 +45,7 @@ After this week you should be able to
 
 #### Class Slides 
 
-- &lt; Not yet available &gt;
+- [Week 3.2 Slides](/slides/ist263-w3-2.pdf)
 
 ---   
 

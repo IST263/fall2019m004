@@ -6,19 +6,11 @@ than using the typical LMS. It will seem foreign when you start but be a little 
 
 If you have used programs like MS-Word, you have used an IDE. IDEs are specialized programs that provide features and tools that make your development process efficient. Just like you would use MS-Word to write and format papers, resumes, or letters we will use something similar in this class to write HTML, CSS and some Javascript.  
 
+### VS Code
 
-### I am using a Mac
+You can download the **free** version from <a href="https://code.visualstudio.com/download" target="_blank">https://code.visualstudio.com/download</a>. Choose the correct installer based on your computer OS.
 
-- Coda (<a href="https://panic.com/coda/" target="_blank">https://panic.com/coda/</a>)  
-    You can download the **free** version from <a href="https://panic.com/coda/" target="_blank">https://panic.com/coda/</a>. Once the download is complete, launch the installer and follow the steps.
-
-
-### I am on a Windows  
-
-- Notepad++ (<a href="https://notepad-plus-plus.org/download/v7.3.3.html" target="_blank">https://notepad-plus-plus.org/download/v7.3.3.html</a>)  
-    You can download the **free** version from <a href="https://notepad-plus-plus.org/download/v7.3.3.html" target="_blank">https://notepad-plus-plus.org/download/v7.3.3.html</a>. Once the download is complete, launch the installer and follow the steps.
-
-
+ Once the download is complete, launch the installer and follow the steps.
 
 ## 2. Git & GitHub
 
@@ -26,7 +18,7 @@ These are 2 different tools - don't let the names confuse you. Below is a brief 
 
 ### git
 
-git is a program that you install on **your computer** which can be used to keep track of changes in any set of files. It is a version control system primarily used in software development. You might have used the 'Track Changes' feature in MS-Word - git does all that and lot more.
+git is a program that you install on **your computer** which can be used to keep track of changes in any set of files. It is a distributed version control system primarily used in software development. You might have used the 'Track Changes' feature in MS-Word - git does all that and a lot lot more.
 
 
 ### GitHub
