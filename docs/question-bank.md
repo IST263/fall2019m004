@@ -19,6 +19,16 @@ I will compile and update the list every week.
 
 ## Week 2
 
+- When someone types in the address of a website into a browser, how does the browser know the right IP address to send a request to?
+- What is the difference between an element and a tag in HTML?
+- What are the components of HTML ? What are HTML tags?
+- What is the difference between a tag and an element?
+- What are the cornerstone technologies of the WWW?
+- What does HTML stand for? and how is it different than CSS? (what do both of them do?)
+- What is the difference between HTML and CSS?
+- What are the different purposes of HTML, CSS and Javascript?
+
+
 ## Week 3
 
 ## Week 4
