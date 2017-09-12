@@ -49,11 +49,11 @@ After this week you should be able to
 
 ---   
 
-## Homework due this week ###
+## Homework due this week, Points worth - 4.00 ###
 
-1. List the new terminologies you learnt this week, see in your course folder under 'week-03/homework'
+1. List the new terminologies you learnt this week, see in your course folder under `week-03/homework`
 2. Markup your resume with HTML and save it as a web page.
-3. Create individual pages for your internships or hobbies and link to them from the main web page.
+3. Create individual pages for your internships or hobbies and link to them from the main resume web page.
 4. Commit homework to GitHub.
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class
