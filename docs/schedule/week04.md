@@ -22,7 +22,7 @@ After this week you should be able to
     
 #### Class Slides 
 
-- &lt; Not yet available &gt;
+- [Week 4.1 Slides](/slides/ist263-w4-1.pdf)
 
 ---  
 ## Wednesday - More CSS
@@ -36,11 +36,11 @@ After this week you should be able to
 - Post-Class
     - [Web Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
     - [Cascading](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
-    - [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model)     
+    - [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model) - Look through the sample files and experiment with CSS short-hand    
 
 
 #### Class Slides 
-- &lt; Not yet available &gt;
+- [Week 4.2 Slides](/slides/ist263-w4-2.pdf)
 
 ---  
 ## Homework due this week ###
