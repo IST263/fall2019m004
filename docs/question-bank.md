@@ -29,7 +29,18 @@ I will compile and update the list every week.
 - What are the different purposes of HTML, CSS and Javascript?
 
 
-## Week 3
+## Week 3  
+
+- What HTML tag will produce a list with bullets but no numbers or letters?
+- What tag is used to make links?
+- What is the difference between external and internal links?
+- What are the elements needed to markup a table in HTML?
+- What is the difference between HTML and CSS?
+- What does href stand for? How is it used?
+- What tag do you use to insert an image? What's the purpose of the 'alt' attribute?
+- What is an internal page anchor?
+- What is semantic HTML?
+
 
 ## Week 4
 
