@@ -16,10 +16,12 @@ After this week you should be able to
 - Post-Class
     - [Website Development Process](https://xbsoftware.com/blog/website-development-process-full-guide/)
     - [Good Website Design Principles](https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/)
+    - [awwwards.com](http://awwwards.com)
+    - [dribbble.com](http://dribbble.com)
 
 #### Class Slides 
 
-- &lt; Not yet available &gt;
+- [Week 5.1 Slides](/slides/ist263-w5-1.pdf)
 
 ---  
 ## Wednesday -  CSS Layouts
@@ -27,23 +29,23 @@ After this week you should be able to
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
 - Pre-Class
-    - [CSS Layouts](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+    - [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model)
+    <!-- - [CSS Layouts](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout) -->
 
 
 - Post-Class
     - [Document & Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
     - [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
-    - [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+    - 
     
 #### Class Slides 
-- &lt; Not yet available &gt;
+- [Week 5.2 Slides](/slides/ist263-w5-2.pdf)
 
 ---  
 
-## Homework due this week ###
+## Homework due this week, Points worth 3 ###
 1. Create a wireframe for your resume
-2. Implement the wireframe
-3. Review the HTML files in next week's Monday folder
+2. Use the tags we learnt in 'Semantic HTML' & divs to implement the wireframe
 4. Commit homework to GitHub
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class
