@@ -43,9 +43,8 @@ After this week you should be able to
 
 ---  
 
-## Homework due this week, Points worth 3 ###
+## Homework due this week ###
 1. Create a wireframe for your resume
-2. Use the tags we learnt in 'Semantic HTML' & divs to implement the wireframe
-4. Commit homework to GitHub
+1. Look through the samples in the your course folder to understand 'float'
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class

@@ -44,6 +44,14 @@ I will compile and update the list every week.
 
 ## Week 4
 
+- Describe the benefits of an external style sheet compared to an internal/embedded style sheet.
+- Q: Identify the css selector, property and value in: A: p {font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;}
+- What are internet cookies?
+- What does CSS stand for, and what is the difference between an internal CSS and an external CSS.
+- What does CSS stand for?
+- What is a DOM tree?
+
+
 ## Week 5
 
 ## Week 6
