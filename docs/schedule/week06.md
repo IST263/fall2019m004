@@ -7,19 +7,16 @@ After this week you should be able to
 - Use Bootstrap CSS framework
 
 ---  
-## Monday -  Review CSS Examples
+## Monday -  Grid System
 
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
-- Pre-Class
-    - Review HTML Files in Course folder
-
 - Post-Class
-    
+    - Review HTML Files in Course folder
 
 #### Class Slides 
 
-- &lt; Not yet available &gt;
+- [Week 6.1 Slides](/slides/ist263-w6-1.pdf)
 
 ---  
 ## Wednesday -  Responsive Design
