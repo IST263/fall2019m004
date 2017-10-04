@@ -54,6 +54,13 @@ I will compile and update the list every week.
 
 ## Week 5
 
+- What is the purpose of wireframing a website before designing it?
+- What is the difference between a block and inline element? 
+- What is the first step of developing a website?
+- What are the three types of web structures?
+- What is the difference between a classname and an id in CSS?
+
+
 ## Week 6
 
 ## Week 7

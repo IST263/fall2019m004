@@ -24,6 +24,7 @@ After this week you should be able to
 - [Week 5.1 Slides](/slides/ist263-w5-1.pdf)
 
 ---  
+
 ## Wednesday -  CSS Layouts
 
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###

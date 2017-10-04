@@ -18,8 +18,8 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 [Week 3](schedule/week03.md) | [More HTML](schedule/week03.md)
 [Week 4](schedule/week04.md) | [Introduction to CSS](schedule/week04.md)
 [Week 5](schedule/week05.md) | [Web Development Lifecycle](schedule/week05.md)
-[Week 6](schedule/week06.md) | [CSS Layouts & Responsive Design](schedule/week06.md)
-[Week 7](schedule/week07.md) | [Guest Lecture & HTML Forms](schedule/week07.md)
+[Week 6](schedule/week06.md) | [CSS Layouts ](schedule/week06.md)
+[Week 7](schedule/week07.md) | [Guest Lecture & Responsive Design](schedule/week07.md)
 [Week 8](schedule/week08.md) | [Midterm Exam & CSS Frameworks](schedule/week08.md)
 
 
