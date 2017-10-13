@@ -16,10 +16,6 @@ After this week you should be able to
 - Post-Class  
         - None
 
-#### Class Slides 
-
-- &lt; Not yet available &gt;
-
 ---  
 ## Wednesday -  Responsive Design
 
@@ -35,22 +31,8 @@ After this week you should be able to
     - [Responsive Design - Demo 2](https://www.w3schools.com/w3css/tryw3css_templates_architect.htm)
 
 ### Class Slides 
-- &lt; Not yet available &gt;
+- [Week 7.2 Slides](/slides/ist263-w7-2.pdf)
 
-<!--
-## Wednesday -  Exam Review & HTML Form
-
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
-
-- Pre-Class
-    - [HTML Forms, Introduction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
-
-- Post-Class
-    - [HTML5 Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/HTML5_updates)
-
-#### Class Slides 
-- &lt; Not yet available &gt;
--->
 
 ---  
 

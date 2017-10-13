@@ -3,22 +3,22 @@
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
-- Use Bootstrap CSS Components
+- Use HTML Forms
+- Start to use Bootstrap CSS Components
 
 ---  
-## Monday -  Midterm Exam
+## Monday -  Midterm Exam & HTML Forms
 
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
-- Pre-Class  
-        - Weekly Class Notes
+- Pre-Class
+    - [HTML Forms, Introduction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
 
-- Post-Class  
-        - None
+- Post-Class
+    - [HTML5 Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/HTML5_updates)
 
 #### Class Slides 
-
-- &lt; Not yet available &gt;
+- [Week 8.1 Slides](/slides/ist263-w8-1.pdf)
 
 ---  
 

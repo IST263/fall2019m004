@@ -20,8 +20,8 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 [Week 5](schedule/week05.md) | [Web Development Lifecycle](schedule/week05.md)
 [Week 6](schedule/week06.md) | [CSS Layouts ](schedule/week06.md)
 [Week 7](schedule/week07.md) | [Guest Lecture & Responsive Design](schedule/week07.md)
-[Week 8](schedule/week08.md) | [Midterm Exam & CSS Frameworks](schedule/week08.md)
-
+[Week 8](schedule/week08.md) | [Midterm Exam & HTML Forms](schedule/week08.md)
+[Week 9](schedule/week09.md) | [CSS Frameworks](schedule/week09.md)
 
 ## Office Hours
 Hinds Hall, Room 239, Tuesday 3:00pm - 5:00pm  
