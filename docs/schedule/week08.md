@@ -21,7 +21,7 @@ After this week you should be able to
 - [Week 8.1 Slides](/slides/ist263-w8-1.pdf)
 
 ---  
-
+<!-- 
 ## Wednesday - Bootstrap (BS)
 
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
@@ -31,11 +31,11 @@ After this week you should be able to
 
 - Post-Class
     - [BS, Jumbotron](https://www.w3schools.com/bootstrap/bootstrap_jumbotron_header.asp)
-    - [BS, Panels](https://www.w3schools.com/bootstrap/bootstrap_panels.asp)
+    - [BS, Starter Samples]([Week 8](schedule/week08.md) | [Midterm Exam, HTML Forms](schedule/week08.md))
     
 #### Class Slides 
-- &lt; Not yet available &gt;
-
+- [Week 8.2 Slides](/slides/ist263-w8-2.pdf)
+-->
 
 ---  
 

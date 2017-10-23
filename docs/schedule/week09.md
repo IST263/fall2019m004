@@ -6,6 +6,22 @@ After this week you should be able to
 - Use Bootstrap CSS Components
 
 ---  
+
+## Monday - Bootstrap (BS)
+
+#### <i class="fa fa-book"></i>&nbsp;Reading List ###
+
+- Pre-Class
+    - [BS, Get Started](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
+
+- Post-Class
+    - [BS, Jumbotron](https://www.w3schools.com/bootstrap/bootstrap_jumbotron_header.asp)
+    - [BS, Starter Samples]([Week 8](schedule/week08.md) | [Midterm Exam, HTML Forms](schedule/week08.md))
+    
+#### Class Slides 
+- [Week 9.1 Slides](/slides/ist263-w9-1.pdf)
+
+<!--
 ## Monday -  Bootstrap Components 
 
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
@@ -20,7 +36,7 @@ After this week you should be able to
 
 #### Class Slides 
 - &lt; Not yet available &gt;
-
+-->
 ---
 
 ## Wednesday -  Bootstrap Layouts

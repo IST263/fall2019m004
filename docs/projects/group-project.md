@@ -1,6 +1,19 @@
 
 # Group Project / Adv. Topic Presentations
 
+## Project Ideas
+
+- CSS3 Animations
+- Web Accessibility Guidelines (WAG)
+- LESS
+- Content Management Systems (CMS)
+- Advanced Boostrap Components
+- Advanced Boostrap Components
+- Making a design responsive
+- Making a design responsive
+- Chrome Dev Console: User guide  
+
+
 
 In this assignment you will be working in groups of 3 where you will 
 
@@ -43,6 +56,7 @@ Your website at a minimum should have the following
 - Brief introduction to the topic
 - References to external resources for further reading
 - Example code(s) and/or use case(s)
+- Short video tutorials (if applicable)
 - Limitations when applicable
 
 Refer to [Individual Project - Website Grading Criteria](/projects/individual/#final-website) for information on how the website will be evaluated.

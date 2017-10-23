@@ -1,13 +1,9 @@
 # Welcome to IST 263, Section M005
 Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & deadlines listed in this website are applicable only to Section M005 students.**
 
-<!-- 
-## This week ##
-
-** This course is not yet active **
-
+## The [group project topic ideas](projects/group-project.md) area now posted.  
 ---
--->
+
 ## Weekly Schedule
 
 
@@ -20,8 +16,11 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 [Week 5](schedule/week05.md) | [Web Development Lifecycle](schedule/week05.md)
 [Week 6](schedule/week06.md) | [CSS Layouts ](schedule/week06.md)
 [Week 7](schedule/week07.md) | [Guest Lecture & Responsive Design](schedule/week07.md)
-[Week 8](schedule/week08.md) | [Midterm Exam & HTML Forms](schedule/week08.md)
-[Week 9](schedule/week09.md) | [CSS Frameworks](schedule/week09.md)
+[Week 8](schedule/week08.md) | [Midterm Exam, HTML Forms](schedule/week08.md)
+[Week 9](schedule/week09.md) | [Bootstrap](schedule/week09.md)
+
+
+<!-- [Week 9](schedule/week09.md) | [CSS Frameworks](schedule/week09.md) -->
 
 ## Office Hours
 Hinds Hall, Room 239, Tuesday 3:00pm - 5:00pm  
@@ -34,11 +33,12 @@ Email me at akadajis at syr dot edu for appointments
 Hinds Hall, Room 011   
 Monday & Wednesday 12:45pm - 2:05pm
 
-
+<!--
 ## Questions / Discussions / Contacting the Instructor
 This class will use Gitter as the primary platform for group discussions. All registered students will receive an invite to join the class's Gitter team. It is a free service. 
 <p>**Gitter Team URL - [https://gitter.im/iSchool-Syracuse-IST-263/F17-M005](https://gitter.im/iSchool-Syracuse-IST-263/F17-M005)**  </p
 <p>*If you must, you can direct message the instructor on Gitter and/or send a message via Blackboard.*</p>
+-->
 
 ## About the Instructor
 
