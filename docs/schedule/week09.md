@@ -53,7 +53,7 @@ After this week you should be able to
     
 #### Class Slides 
 
-- &lt; Not yet available &gt;
+- [Week 9.2 Slides](/slides/ist263-w9-2.pdf)
 
 ---  
 
