@@ -1,7 +1,7 @@
 # Welcome to IST 263, Section M005
 Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & deadlines listed in this website are applicable only to Section M005 students.**
 
-## The [group project topic ideas](projects/group-project.md) area now posted.  
+## The [group project topics](projects/group-project.md) area now posted.  
 ---
 
 ## Weekly Schedule
@@ -18,6 +18,7 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 [Week 7](schedule/week07.md) | [Guest Lecture & Responsive Design](schedule/week07.md)
 [Week 8](schedule/week08.md) | [Midterm Exam, HTML Forms](schedule/week08.md)
 [Week 9](schedule/week09.md) | [Bootstrap](schedule/week09.md)
+[Week 10](schedule/week10.md) | [JavaScript](schedule/week10.md)
 
 
 <!-- [Week 9](schedule/week09.md) | [CSS Frameworks](schedule/week09.md) -->

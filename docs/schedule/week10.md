@@ -11,29 +11,27 @@ After this week you should be able to
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
 - Pre-Class  
+    - [JS Overview](http://www.afterhoursprogramming.com/tutorial/JavaScript/Overview/)  
         
 - Post-Class  
-        
+    - [DOM Events List](https://www.w3schools.com/jsref/dom_obj_event.asp)
+    - [JS Introduction](http://www.afterhoursprogramming.com/tutorial/JavaScript/Introduction/)  
+
+
 #### Class Slides 
 
-- &lt; Not yet available &gt;
+- [Week 10.1 Slides](/slides/ist263-w10-1.pdf)
 
 ---  
-## Wednesday -  Javascript & DOM 
+## Wednesday -  Indv. Project Troubleshooting  
 
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
+We will dedicate class to help troubleshoot your project.
 
-- Pre-Class
-    
-- Post-Class
-    
-#### Class Slides 
-- &lt; Not yet available &gt;
 
 ---  
 
 ## Homework due this week ###
-1. Work on your individual project, commit update to GitHub
+1. **Individual project is due in GitHub by midnight Saturday**
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class
 
