@@ -3,15 +3,32 @@
 
 ## Project Ideas
 
-- CSS3 Animations
-- Web Accessibility Guidelines (WAG)
+- ~~CSS3 Animations~~
+- ~~Web Accessibility Guidelines (WAG)~~
 - LESS
-- Content Management Systems (CMS)
-- Advanced Boostrap Components
-- Advanced Boostrap Components
-- Making a design responsive
-- Making a design responsive
+- ~~Content Management Systems (CMS)~~
+- ~~Advanced Boostrap Components~~
+- ~~Advanced Boostrap Components~~
+- ~~Making design(s) responsive~~
+- ~~Making design(s) responsive~~
 - Chrome Dev Console: User guide  
+
+
+### The group project presentations will be on **Dec 4 & Dec 6, 2017**  ###
+
+## Project Groups  
+
+
+
+ Group # | Members | Topic | Presentation |
+ -------------  | |  |
+1. | Jen, Heidi & Garrett | CSS3 Animations | Dec 6
+2. | Mason & Jason | Advanced Boostrap Components | Dec 6
+3. | Julia, Cerinn & Christopher | Making design(s) responsive | Dec 4
+4. | Sharon, Amanda & Taj | Making design(s) responsive | Dec 4
+5. | Justin & Nick | Advanced Boostrap Components | Dec 4
+6. | Shruti, Ivanny & Justin | WAG | Dec 4
+7. | Tyler, Steven & Diminov | CMS | Dec 6
 
 
 
@@ -28,7 +45,7 @@ Each group will get their own GitHub repo/folder to facilitate collaboration. Yo
 
 ### What is the grading rubrik for this project? ###
 
-This project has a total point value of 35. This is divided as follows
+This project has a total point value of 20. This is divided as follows
 
  &nbsp; | Criteria | Max. Points 
 ------------ | -------------  |
@@ -40,7 +57,7 @@ More information on each of the above criteria is below.
 
 
 ### Collaborative Development ###
-Apart from testing your independent learning skills this project gives you the opportunity to collobrate and work as a team. You will have 2 weeks to 
+Apart from testing your independent learning skills this project gives you the opportunity to collobrate and work as a team. You will have 3 weeks to 
 
 - Research, 
 - Design and implement a website and 
