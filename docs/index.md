@@ -27,7 +27,7 @@ The [group project topics](projects/group-project.md) area now posted.
 Week 11 | Javascript Basics
 Week 12 | Intro. to jQuery
 Week 13 | Thanksgiving Break - No Classes
-Week 14 | Guest Presentation
+[Week 14](schedule/week14.md) | [More JScript, Google Charts, Guest Presentation](schedule/week14.md)
 Week 15 | Group Presentations
 
 

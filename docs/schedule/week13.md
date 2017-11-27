@@ -1,17 +1,38 @@
-# Week 13
+# Week 14
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
-- Give a short presentation on your assigned advanced research topic
+- Use simple jQuery plugins
 
 ---  
-## Monday -  Final Project Group Presentations
-#### <i class="fa fa-book"></i>&nbsp;Presentation Order
-- Not yet available
+## Monday -  More jQuery
+
+#### <i class="fa fa-book"></i>&nbsp;Reading List ###
+
+- Pre-Class  
+    - Pre-Research on advanced topics
+        
+- Post-Class  
+        
+#### Class Slides 
+
+- &lt; Not yet available &gt;
 
 ---  
-## Wednesday -  Final Project Group Presentations
+## Wednesday -  jQuery Plugins
 
-#### <i class="fa fa-book"></i>&nbsp;Presentation Order
-- Not yet available
+#### <i class="fa fa-book"></i>&nbsp;Reading List ###
+
+- Pre-Class
+    
+- Post-Class
+    
+#### Class Slides 
+- &lt; Not yet available &gt;
+
+---  
+
+## Homework due this week ###
+5. Complete SAGE survey (you will receive an email when the window opens)
+6. Do the pre-class reading for next class
