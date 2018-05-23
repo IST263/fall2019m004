@@ -1,0 +1,919 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to IST 263, Section M005\n\n\nWelcome to Intro. to Front-end Web Development at the iSchool. \nDue dates & deadlines listed in this website are applicable only to Section M005 students.\n\n\nThe \ngroup project topics\n area now posted.\n\n\nThe group project presentations will be on \nDec 4 & Dec 6, 2017\n\n\n\n\nWeekly Schedule\n\n\n\n\n\n\n\n\nWeek #\n\n\nLearning Outcomes, Readings & Homework Due\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\nHow does the web work?\n\n\n\n\n\n\nWeek 2\n\n\nHTML\n\n\n\n\n\n\nWeek 3\n\n\nMore HTML\n\n\n\n\n\n\nWeek 4\n\n\nIntroduction to CSS\n\n\n\n\n\n\nWeek 5\n\n\nWeb Development Lifecycle\n\n\n\n\n\n\nWeek 6\n\n\nCSS Layouts \n\n\n\n\n\n\nWeek 7\n\n\nGuest Lecture & Responsive Design\n\n\n\n\n\n\nWeek 8\n\n\nMidterm Exam, HTML Forms\n\n\n\n\n\n\nWeek 9\n\n\nBootstrap\n\n\n\n\n\n\nWeek 10\n\n\nJavaScript\n\n\n\n\n\n\nWeek 11\n\n\nJavascript Basics\n\n\n\n\n\n\nWeek 12\n\n\nIntro. to jQuery\n\n\n\n\n\n\nWeek 13\n\n\nThanksgiving Break - No Classes\n\n\n\n\n\n\nWeek 14\n\n\nMore JScript, Google Charts, Guest Presentation\n\n\n\n\n\n\nWeek 15\n\n\nGroup Presentations\n\n\n\n\n\n\n\n\n\n\n\nOffice Hours\n\n\nHinds Hall, Room 239, Tuesday 3:00pm - 5:00pm\n\nOr \n\nEmail me at akadajis at syr dot edu for appointments\n\n\nClassroom & Meeting Times\n\n\nHinds Hall, Room 011 \n\nMonday & Wednesday 12:45pm - 2:05pm\n\n\n\n\n\nAbout the Instructor\n\n\nMr. Kadaji is currently the Assistant Director of Information Systems at Syracuse University Project Advance (SUPA). He joined SUPA in 2005 when he was hired to design a program management system, a project that soon grew into a full-time commitment. Today, he is responsible for the design, development and maintenance of Project Advance\u2019s registration, records, billing, and administrative systems. Among the programs he has launched are Syllabus Maker and an Evaluation and Assessment (IES) tool. \n\n\n\nMr. Kadaji is also the co-founder and CTO of Canusia Solutions Inc., a software company based in Syracuse, NY that provides program management systems to higher educational institutions all over the US.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-ist-263-section-m005",
+            "text": "Welcome to Intro. to Front-end Web Development at the iSchool.  Due dates & deadlines listed in this website are applicable only to Section M005 students.  The  group project topics  area now posted.",
+            "title": "Welcome to IST 263, Section M005"
+        },
+        {
+            "location": "/#the-group-project-presentations-will-be-on-dec-4-dec-6-2017",
+            "text": "",
+            "title": "The group project presentations will be on Dec 4 &amp; Dec 6, 2017"
+        },
+        {
+            "location": "/#weekly-schedule",
+            "text": "Week #  Learning Outcomes, Readings & Homework Due      Week 1  How does the web work?    Week 2  HTML    Week 3  More HTML    Week 4  Introduction to CSS    Week 5  Web Development Lifecycle    Week 6  CSS Layouts     Week 7  Guest Lecture & Responsive Design    Week 8  Midterm Exam, HTML Forms    Week 9  Bootstrap    Week 10  JavaScript    Week 11  Javascript Basics    Week 12  Intro. to jQuery    Week 13  Thanksgiving Break - No Classes    Week 14  More JScript, Google Charts, Guest Presentation    Week 15  Group Presentations",
+            "title": "Weekly Schedule"
+        },
+        {
+            "location": "/#office-hours",
+            "text": "Hinds Hall, Room 239, Tuesday 3:00pm - 5:00pm \nOr  \nEmail me at akadajis at syr dot edu for appointments",
+            "title": "Office Hours"
+        },
+        {
+            "location": "/#classroom-meeting-times",
+            "text": "Hinds Hall, Room 011  \nMonday & Wednesday 12:45pm - 2:05pm",
+            "title": "Classroom &amp; Meeting Times"
+        },
+        {
+            "location": "/#about-the-instructor",
+            "text": "Mr. Kadaji is currently the Assistant Director of Information Systems at Syracuse University Project Advance (SUPA). He joined SUPA in 2005 when he was hired to design a program management system, a project that soon grew into a full-time commitment. Today, he is responsible for the design, development and maintenance of Project Advance\u2019s registration, records, billing, and administrative systems. Among the programs he has launched are Syllabus Maker and an Evaluation and Assessment (IES) tool.   Mr. Kadaji is also the co-founder and CTO of Canusia Solutions Inc., a software company based in Syracuse, NY that provides program management systems to higher educational institutions all over the US.",
+            "title": "About the Instructor"
+        },
+        {
+            "location": "/syllabus/",
+            "text": "Course Objectives\n\n\nIn this course will be explore the principles for construction and publication of multimedia documents for the World Wide Web. We will incorporate a user-based approach to planning, design, implementation, and management in distributed network environments, with an entrepreneurial focus.\n\n\nClassroom & Meeting Times\n\n\nHinds Hall, Room 011 \n\nMonday & Wednesday 12:45pm - 2:05pm\n\n\nLearning Outcomes\n\n\nAfter successfully completing this course you will be able to  \n\n\n\n\nMemorize key terms and definitions related to common web technologies  \n\n\nUnderstand at a basic and intermediate level the workings of the Internet and Web applications  \n\n\nUnderstand at an intermediate or expert level key Web technologies including HTML, CSS, Javascript  \n\n\nConsider entrepreneurial opportunities in respect to web design, issues such as web 2.0, HTML5, web technologies and related issues  \n\n\n\n\nCourse Schedule\n\n\n\n\n\n\n\n\nWeek #\n\n\nTopic Covered\n\n\n\n\n\n\n\n\n\n\n1 - 2\n\n\nAnatomy of the Web\n\n\n\n\n\n\n2 - 3\n\n\nHTML Basics\n\n\n\n\n\n\n3 - 4\n\n\nCSS Basics\n\n\n\n\n\n\n4 - 7\n\n\nWireframes, Layout & Frameworks\n\n\n\n\n\n\n8\n\n\nMidterm Exam\n\n\n\n\n\n\n8 - 11\n\n\nFrameworks, Javascript, jQuery\n\n\n\n\n\n\n10\n\n\nIndividual Project Due\n\n\n\n\n\n\n11 - 13\n\n\nAdvanced Topics\n\n\n\n\n\n\n14\n\n\nGroup Presentations\n\n\n\n\n\n\n\n\nTextbook\n\n\nReadings in this course will be assigned from a variety of sources including textbooks,\nblogs and industry publications. All readings will be posted on the class website. It is not\nrequired that you purchase a textbook for this course.\n\n\nAssessment, Points & Grade Rubric\n\n\nBecause there are several course objectives I will assess your performance on several measures.\n\n\n\n\n\n\n\n\n\u00a0\n\n\nBB Code\n\n\nTotal Points\n\n\n\n\n\n\n\n\n\n\nClass / Forum Participation\n\n\nCPP + CPP Lost\n\n\n10\n\n\n\n\n\n\nWeekly Assignments\n\n\nW*\n\n\n20\n\n\n\n\n\n\nMidterm Exam\n\n\nMTE\n\n\n15\n\n\n\n\n\n\nIndividual Project\n\n\nINDVPRJ\n\n\n35\n\n\n\n\n\n\nFinal Group Project\n\n\nGRPPRJ\n\n\n20\n\n\n\n\n\n\n\n\n\n\n100\n\n\n\n\n\n\n\n\nClass / Forum Participation\n\n\nYou will be asked to summarize topics in class on a regular basis. That combined with\nthoughtful questions and responses in class and in the digital forum will count towards\nparticipation points.\n\n\nMidterm Exam\n\n\nThis will be a closed book exam. This is used to evaluate your recall and understanding\nof course material, as well as your ability to apply it to new situations.\n\n\nWeekly Assignments\n\n\nMost weeks you will have some form of assignment. It could be summarizing some\nreading material, and/or writing HTML/CSS/Javascript.\n\n- Each assignment will be weighted differently.\n\n- All weekly assignments are due by midnight (EST) Saturday of the week they are assigned.\n\n- Assignments should be submitted via Git. Anything emailed or sent via Blackboard will receive a zero.  \n\n\nIndividual Project\n\n\nThis project will be due around week 10 and will be a culmination of everything learnt\nfrom week 1 - 10. You will be required to work parts of it each week starting week 1.\n\n\nFinal / Group Project\n\n\nYou are encouraged to work in groups (up to 3) to complete the final project. Each\ngroup will be required to give one 10 minute presentation on an advanced topic along\nwith creating a one HTML page overview. Details will be discussed in class.\n\n\nSAGE - Self Assessment\n\n\nSAGE is a required online self-assessment. Each week you\u2019ll answer questions focused\non course-related behaviors that I believe are essential for success. Once you\u2019ve done\nso you\u2019ll be able to see the pattern of your responses in the context of the patterns of\nothers in the class My hope is that this will help you by continuously reminding you of\nthe actions that make for success.\n\nNOTE: NONE of the information submitted in these reports will be used in the\ndetermination of your grade - so be honest with yourself and me.\n\n\nFinal Grade Calculation\n\n\n\n\n\n\n\n\nGrade\n\n\nPoints Earned\n\n\n\n\n\n\n\n\n\n\nA\n\n\n> 95\n\n\n\n\n\n\nA-\n\n\n91 - 95\n\n\n\n\n\n\nB+\n\n\n86 - 90\n\n\n\n\n\n\nB\n\n\n81 - 85\n\n\n\n\n\n\nB-\n\n\n76 - 80\n\n\n\n\n\n\nC+\n\n\n71 - 75\n\n\n\n\n\n\nC\n\n\n66 - 70\n\n\n\n\n\n\nC-\n\n\n61 - 65\n\n\n\n\n\n\nD\n\n\n56 - 60\n\n\n\n\n\n\nF\n\n\n< 56\n\n\n\n\n\n\n\n\nAttendance\n\n\nStudents are expected to attend class each week for the full period unless otherwise\nexcused. Attendance will be recorded each class but will not count towards class\ngrades. It is the responsibility of students without a university-approved absences to\nobtain notes/assignments from missed classes.\n\n\nBlackboard\n\n\nSyracuse University\u2019s Blackboard system will be used for announcements. You can\naccess blackboard at: \nblackboard.syr.edu\n and you can log in with you NetID and\npassword.\n\n\nLate Work\n\n\nGitHub timestamps all submitted work. Any work submitted late will be evaluated but no\npoints will be awarded. Refer to Section \u2018Weekly Assignments\u2019 in Page 3 that discusses\nassignment submission.\n\n\nTechnology Requirements\n\n\nEach of the following technology requirements are mandatory. You must set them up as\ntheir use is essential to your grade in the course.\n\n\nBring Your Own Device\n\n\nThis course uses the BYOD (Bring Your Own Device) model. The expectations are that\nyou own a notebook computer and you will bring it to every class fully charged. If you\ndon\u2019t own a notebook computer you can borrow one from the iSchool using your SUID.\nYou will be expected to install software on your notebook computer. Instructions will be\nprovided.\n\n\nGitHub & Gitter\n\n\nThis course will use GitHub Classroom https://classroom.github.com/ for exchanging\nsource code.\n\n\nGitter (https://gitter.im/IST-263-M005) will serve as the course forum/message board/\ncollaboration space. Both are free services. Registered students will receive an\ninvitation to join within the first week of class.\n\n\nIntegrated Development Environment (IDE)\n\n\nThis course will require the use of an IDE. Based on your notebook operating system\nselect one from the list below.\n\n\n\n\n\n\n\n\nMac\n\n\nWindows\n\n\n\n\n\n\n\n\n\n\nCoda (Free Version) or VS Code\n\n\nNotepad++ or VS Code\n\n\n\n\n\n\n\n\nA Strategy for Success\n\n\n\n\nDo the assigned reading for the week before the week begins  \n\n\nMaster the objectives as you work your way through the reading  \n\n\nIdentify what you don\u2019t understand  \n\n\nCome to class  \n\n\nAs we go through the material, if you still don\u2019t understand something\u2026ASK A QUESTION!  \n\n\nTake efficient notes  \n\n\nDo not copy the slides into your notes. They will be made available to you  \n\n\nRemember key points and why these points are key  \n\n\nRecognize the thread that weaves these points together  \n\n\nIf you still don\u2019t get something GET HELP. Go to office hours  \n\n\nPractice the assignments  \n\n\n\n\nUniversity-Mandated Course Policies\n\n\nAcademic-Integrity Policy\n\n\nSchool of Information Studies (iSchool) Syracuse University Syracuse University\u2019s academic integrity policy reflects the high value that we, as a university community, place on honesty in academic work. The policy in effect at\nthe School of Information Studies defines our expectations for academic honesty and\nholds students accountable for the integrity of all work they submit. Students should\nunderstand that it is their responsibility to learn about course-specific expectations, as\nwell as about university-wide academic integrity expectations. The pilot policy governs\nappropriate citation and use of sources, the integrity of work submitted in exams and\nassignments, and the veracity of signatures on attendance sheets and other verification\nof participation in class activities. The pilot policy also prohibits students from submitting\nthe same work in more than one class without receiving written authorization in advance\nfrom both instructors. Under the pilot policy, students found in violation are subject to\ngrade sanctions determined by the course instructor and non-grade sanctions\ndetermined by the School or College where the course is offered. SU students are\nrequired to read an online summary of the university\u2019s academic integrity expectations\nand provide an electronic signature agreeing to abide by them twice a year during preterm\ncheck-in on MySlice. For more information, see \nhttp://academicintegrity.syr.edu\n.\n\n\nDisability-Related Accommodations\n\n\nSyracuse University values diversity and inclusion; we are committed to a climate of\nmutual respect and full participation. If you believe that you need accommodations for a\ndisability, please contact the Office of Disability Services (ODS),\ndisabilityservices.syr.edu, located at 804 University Avenue, room 309, or call\n315.443.4498 for an appointment to discuss your needs and the process for requesting\naccommodations. ODS is responsible for coordinating disability-related\naccommodations and will issue \u201cAccommodation Authorization Letters\u201d to students as\nappropriate. Since accommodations may require early planning and generally are not\nprovided retroactively, please contact ODS as soon as possible. Our goal at the iSchool\nis to create learning environments that are useable, equitable, inclusive and welcoming.\nIf there are aspects of the instruction or design of this course that result in barriers to\nyour inclusion or accurate assessment or achievement, please meet with me to discuss\nadditional strategies beyond official accommodations that may be helpful to your\nsuccess.\n\n\nReligious Observances Policy:\n\n\nSU\u2019s religious observances policy, found at supolicies.syr.edu/emp_ben/\nreligious_observance.htm , recognizes the diversity of faiths represented in the campus School of Information Studies (iSchool) Syracuse University\ncommunity and protects the rights of students, faculty, and staff to observe religious holy\ndays according to their tradition. Under the policy, students should have an opportunity\nto make up any examination, study, or work requirements that may be missed due to a\nreligious observance provided they notify their instructors no later than the end of the\nsecond week of classes through an online notification form in MySlice listed under\nStudent Services/Enrollment/My Religious Observances/Add a Notification.",
+            "title": "Syllabus"
+        },
+        {
+            "location": "/syllabus/#course-objectives",
+            "text": "In this course will be explore the principles for construction and publication of multimedia documents for the World Wide Web. We will incorporate a user-based approach to planning, design, implementation, and management in distributed network environments, with an entrepreneurial focus.",
+            "title": "Course Objectives"
+        },
+        {
+            "location": "/syllabus/#classroom-meeting-times",
+            "text": "Hinds Hall, Room 011  \nMonday & Wednesday 12:45pm - 2:05pm",
+            "title": "Classroom &amp; Meeting Times"
+        },
+        {
+            "location": "/syllabus/#learning-outcomes",
+            "text": "After successfully completing this course you will be able to     Memorize key terms and definitions related to common web technologies    Understand at a basic and intermediate level the workings of the Internet and Web applications    Understand at an intermediate or expert level key Web technologies including HTML, CSS, Javascript    Consider entrepreneurial opportunities in respect to web design, issues such as web 2.0, HTML5, web technologies and related issues",
+            "title": "Learning Outcomes"
+        },
+        {
+            "location": "/syllabus/#course-schedule",
+            "text": "Week #  Topic Covered      1 - 2  Anatomy of the Web    2 - 3  HTML Basics    3 - 4  CSS Basics    4 - 7  Wireframes, Layout & Frameworks    8  Midterm Exam    8 - 11  Frameworks, Javascript, jQuery    10  Individual Project Due    11 - 13  Advanced Topics    14  Group Presentations",
+            "title": "Course Schedule"
+        },
+        {
+            "location": "/syllabus/#textbook",
+            "text": "Readings in this course will be assigned from a variety of sources including textbooks,\nblogs and industry publications. All readings will be posted on the class website. It is not\nrequired that you purchase a textbook for this course.",
+            "title": "Textbook"
+        },
+        {
+            "location": "/syllabus/#assessment-points-grade-rubric",
+            "text": "Because there are several course objectives I will assess your performance on several measures.     \u00a0  BB Code  Total Points      Class / Forum Participation  CPP + CPP Lost  10    Weekly Assignments  W*  20    Midterm Exam  MTE  15    Individual Project  INDVPRJ  35    Final Group Project  GRPPRJ  20      100",
+            "title": "Assessment, Points &amp; Grade Rubric"
+        },
+        {
+            "location": "/syllabus/#class-forum-participation",
+            "text": "You will be asked to summarize topics in class on a regular basis. That combined with\nthoughtful questions and responses in class and in the digital forum will count towards\nparticipation points.",
+            "title": "Class / Forum Participation"
+        },
+        {
+            "location": "/syllabus/#midterm-exam",
+            "text": "This will be a closed book exam. This is used to evaluate your recall and understanding\nof course material, as well as your ability to apply it to new situations.",
+            "title": "Midterm Exam"
+        },
+        {
+            "location": "/syllabus/#weekly-assignments",
+            "text": "Most weeks you will have some form of assignment. It could be summarizing some\nreading material, and/or writing HTML/CSS/Javascript. \n- Each assignment will be weighted differently. \n- All weekly assignments are due by midnight (EST) Saturday of the week they are assigned. \n- Assignments should be submitted via Git. Anything emailed or sent via Blackboard will receive a zero.",
+            "title": "Weekly Assignments"
+        },
+        {
+            "location": "/syllabus/#individual-project",
+            "text": "This project will be due around week 10 and will be a culmination of everything learnt\nfrom week 1 - 10. You will be required to work parts of it each week starting week 1.",
+            "title": "Individual Project"
+        },
+        {
+            "location": "/syllabus/#final-group-project",
+            "text": "You are encouraged to work in groups (up to 3) to complete the final project. Each\ngroup will be required to give one 10 minute presentation on an advanced topic along\nwith creating a one HTML page overview. Details will be discussed in class.",
+            "title": "Final / Group Project"
+        },
+        {
+            "location": "/syllabus/#sage-self-assessment",
+            "text": "SAGE is a required online self-assessment. Each week you\u2019ll answer questions focused\non course-related behaviors that I believe are essential for success. Once you\u2019ve done\nso you\u2019ll be able to see the pattern of your responses in the context of the patterns of\nothers in the class My hope is that this will help you by continuously reminding you of\nthe actions that make for success. \nNOTE: NONE of the information submitted in these reports will be used in the\ndetermination of your grade - so be honest with yourself and me.",
+            "title": "SAGE - Self Assessment"
+        },
+        {
+            "location": "/syllabus/#final-grade-calculation",
+            "text": "Grade  Points Earned      A  > 95    A-  91 - 95    B+  86 - 90    B  81 - 85    B-  76 - 80    C+  71 - 75    C  66 - 70    C-  61 - 65    D  56 - 60    F  < 56",
+            "title": "Final Grade Calculation"
+        },
+        {
+            "location": "/syllabus/#attendance",
+            "text": "Students are expected to attend class each week for the full period unless otherwise\nexcused. Attendance will be recorded each class but will not count towards class\ngrades. It is the responsibility of students without a university-approved absences to\nobtain notes/assignments from missed classes.",
+            "title": "Attendance"
+        },
+        {
+            "location": "/syllabus/#blackboard",
+            "text": "Syracuse University\u2019s Blackboard system will be used for announcements. You can\naccess blackboard at:  blackboard.syr.edu  and you can log in with you NetID and\npassword.",
+            "title": "Blackboard"
+        },
+        {
+            "location": "/syllabus/#late-work",
+            "text": "GitHub timestamps all submitted work. Any work submitted late will be evaluated but no\npoints will be awarded. Refer to Section \u2018Weekly Assignments\u2019 in Page 3 that discusses\nassignment submission.",
+            "title": "Late Work"
+        },
+        {
+            "location": "/syllabus/#technology-requirements",
+            "text": "Each of the following technology requirements are mandatory. You must set them up as\ntheir use is essential to your grade in the course.",
+            "title": "Technology Requirements"
+        },
+        {
+            "location": "/syllabus/#bring-your-own-device",
+            "text": "This course uses the BYOD (Bring Your Own Device) model. The expectations are that\nyou own a notebook computer and you will bring it to every class fully charged. If you\ndon\u2019t own a notebook computer you can borrow one from the iSchool using your SUID.\nYou will be expected to install software on your notebook computer. Instructions will be\nprovided.",
+            "title": "Bring Your Own Device"
+        },
+        {
+            "location": "/syllabus/#github-gitter",
+            "text": "This course will use GitHub Classroom https://classroom.github.com/ for exchanging\nsource code.  Gitter (https://gitter.im/IST-263-M005) will serve as the course forum/message board/\ncollaboration space. Both are free services. Registered students will receive an\ninvitation to join within the first week of class.",
+            "title": "GitHub &amp; Gitter"
+        },
+        {
+            "location": "/syllabus/#integrated-development-environment-ide",
+            "text": "This course will require the use of an IDE. Based on your notebook operating system\nselect one from the list below.     Mac  Windows      Coda (Free Version) or VS Code  Notepad++ or VS Code",
+            "title": "Integrated Development Environment (IDE)"
+        },
+        {
+            "location": "/syllabus/#a-strategy-for-success",
+            "text": "Do the assigned reading for the week before the week begins    Master the objectives as you work your way through the reading    Identify what you don\u2019t understand    Come to class    As we go through the material, if you still don\u2019t understand something\u2026ASK A QUESTION!    Take efficient notes    Do not copy the slides into your notes. They will be made available to you    Remember key points and why these points are key    Recognize the thread that weaves these points together    If you still don\u2019t get something GET HELP. Go to office hours    Practice the assignments",
+            "title": "A Strategy for Success"
+        },
+        {
+            "location": "/syllabus/#university-mandated-course-policies",
+            "text": "",
+            "title": "University-Mandated Course Policies"
+        },
+        {
+            "location": "/syllabus/#academic-integrity-policy",
+            "text": "School of Information Studies (iSchool) Syracuse University Syracuse University\u2019s academic integrity policy reflects the high value that we, as a university community, place on honesty in academic work. The policy in effect at\nthe School of Information Studies defines our expectations for academic honesty and\nholds students accountable for the integrity of all work they submit. Students should\nunderstand that it is their responsibility to learn about course-specific expectations, as\nwell as about university-wide academic integrity expectations. The pilot policy governs\nappropriate citation and use of sources, the integrity of work submitted in exams and\nassignments, and the veracity of signatures on attendance sheets and other verification\nof participation in class activities. The pilot policy also prohibits students from submitting\nthe same work in more than one class without receiving written authorization in advance\nfrom both instructors. Under the pilot policy, students found in violation are subject to\ngrade sanctions determined by the course instructor and non-grade sanctions\ndetermined by the School or College where the course is offered. SU students are\nrequired to read an online summary of the university\u2019s academic integrity expectations\nand provide an electronic signature agreeing to abide by them twice a year during preterm\ncheck-in on MySlice. For more information, see  http://academicintegrity.syr.edu .",
+            "title": "Academic-Integrity Policy"
+        },
+        {
+            "location": "/syllabus/#disability-related-accommodations",
+            "text": "Syracuse University values diversity and inclusion; we are committed to a climate of\nmutual respect and full participation. If you believe that you need accommodations for a\ndisability, please contact the Office of Disability Services (ODS),\ndisabilityservices.syr.edu, located at 804 University Avenue, room 309, or call\n315.443.4498 for an appointment to discuss your needs and the process for requesting\naccommodations. ODS is responsible for coordinating disability-related\naccommodations and will issue \u201cAccommodation Authorization Letters\u201d to students as\nappropriate. Since accommodations may require early planning and generally are not\nprovided retroactively, please contact ODS as soon as possible. Our goal at the iSchool\nis to create learning environments that are useable, equitable, inclusive and welcoming.\nIf there are aspects of the instruction or design of this course that result in barriers to\nyour inclusion or accurate assessment or achievement, please meet with me to discuss\nadditional strategies beyond official accommodations that may be helpful to your\nsuccess.",
+            "title": "Disability-Related Accommodations"
+        },
+        {
+            "location": "/syllabus/#religious-observances-policy",
+            "text": "SU\u2019s religious observances policy, found at supolicies.syr.edu/emp_ben/\nreligious_observance.htm , recognizes the diversity of faiths represented in the campus School of Information Studies (iSchool) Syracuse University\ncommunity and protects the rights of students, faculty, and staff to observe religious holy\ndays according to their tradition. Under the policy, students should have an opportunity\nto make up any examination, study, or work requirements that may be missed due to a\nreligious observance provided they notify their instructors no later than the end of the\nsecond week of classes through an online notification form in MySlice listed under\nStudent Services/Enrollment/My Religious Observances/Add a Notification.",
+            "title": "Religious Observances Policy:"
+        },
+        {
+            "location": "/schedule/week01/",
+            "text": "Week 1\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nDescribe the steps needed to succeed in class\n\n\nDescribe the World Wide Web\n\n\nExplain how the web works\n\n\nMemorize the key components that make the web what it is\n\n\n\n\n\n\nMonday - Course Overview\n\n\nWe will go over the course syllabus. We will spend some time discussing strategies to succeed in this class. Finally, if you haven't setup your computer we will do that. \n\n\nClass Slides\n\n\n\n\nWeek 1.1 Slides\n\n\n\n\n\n\nWednesday - Anatomy of the Web\n\n\n\u00a0Reading List\n\n\n\n\nPre-Class\n\n\nBackground of the web\n\n\n\n\n\n\nPost-Class\n\n\nWeb - Basic Concepts\n\n\nHow does the web work?\n\n\nVideo - The Web is not the Net\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 1.2 Slides\n\n\n\n\n\n\nHomework due this week\n\n\n\n\nIf you haven't already done it - get your computer ready for class.\n\n\nInstall an IDE\n\n\nInstall & Configure git & gitHub\n\n\nSign into class discussion forum on \nGitter\n\n\n\n\n\n\nMake sure you can login to SAGE at \nhttps://sage.syr.edu\n\n\nReview the class syllabus\n\n\nReview the \nIndividual Project\n assignment",
+            "title": "Week 1"
+        },
+        {
+            "location": "/schedule/week01/#week-1",
+            "text": "",
+            "title": "Week 1"
+        },
+        {
+            "location": "/schedule/week01/#learning-outcomes",
+            "text": "After this week you should be able to    Describe the steps needed to succeed in class  Describe the World Wide Web  Explain how the web works  Memorize the key components that make the web what it is",
+            "title": "&nbsp;Learning Outcomes"
+        },
+        {
+            "location": "/schedule/week01/#monday-course-overview",
+            "text": "We will go over the course syllabus. We will spend some time discussing strategies to succeed in this class. Finally, if you haven't setup your computer we will do that.",
+            "title": "Monday - Course Overview"
+        },
+        {
+            "location": "/schedule/week01/#class-slides",
+            "text": "Week 1.1 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week01/#wednesday-anatomy-of-the-web",
+            "text": "",
+            "title": "Wednesday - Anatomy of the Web"
+        },
+        {
+            "location": "/schedule/week01/#reading-list",
+            "text": "Pre-Class  Background of the web    Post-Class  Web - Basic Concepts  How does the web work?  Video - The Web is not the Net",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week01/#class-slides_1",
+            "text": "Week 1.2 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week01/#homework-due-this-week",
+            "text": "If you haven't already done it - get your computer ready for class.  Install an IDE  Install & Configure git & gitHub  Sign into class discussion forum on  Gitter    Make sure you can login to SAGE at  https://sage.syr.edu  Review the class syllabus  Review the  Individual Project  assignment",
+            "title": "Homework due this week"
+        },
+        {
+            "location": "/schedule/week02/",
+            "text": "Week 2\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nDescribe HTML\n\n\nCreate, edit and view hypertext documents\n\n\n\n\n\n\nMonday\n\n\nLabor Day, No class\n\n\n\n\nWednesday - HTML\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class\n\n\n\n\nHTML Background\n\n\n\n\n\n\n\n\nPost-Class\n\n\n\n\nHTML5\n\n\nIntroduction\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 2 Slides\n\n\n\n\n\n\nHomework due this week, Points Worth - 1.00\n\n\n\n\nList the new terminologies you learnt this week, see in your course folder under \nweek-02/homework\n\n\nCreate your resume in MS Word or as a PDF.\n\n\nCopy it into the homework folder in Week 02 \n\n\n\n\n\n\nCommit to git and Push to GitHub",
+            "title": "Week 2"
+        },
+        {
+            "location": "/schedule/week02/#week-2",
+            "text": "",
+            "title": "Week 2"
+        },
+        {
+            "location": "/schedule/week02/#learning-outcomes",
+            "text": "After this week you should be able to    Describe HTML  Create, edit and view hypertext documents",
+            "title": "&nbsp;Learning Outcomes"
+        },
+        {
+            "location": "/schedule/week02/#monday",
+            "text": "Labor Day, No class",
+            "title": "Monday"
+        },
+        {
+            "location": "/schedule/week02/#wednesday-html",
+            "text": "",
+            "title": "Wednesday - HTML"
+        },
+        {
+            "location": "/schedule/week02/#reading-list",
+            "text": "Pre-Class   HTML Background     Post-Class   HTML5  Introduction",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week02/#class-slides",
+            "text": "Week 2 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week02/#homework-due-this-week-points-worth-100",
+            "text": "List the new terminologies you learnt this week, see in your course folder under  week-02/homework  Create your resume in MS Word or as a PDF.  Copy it into the homework folder in Week 02     Commit to git and Push to GitHub",
+            "title": "Homework due this week, Points Worth - 1.00"
+        },
+        {
+            "location": "/schedule/week03/",
+            "text": "Week 3\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nCreate, edit and view hypertext documents\n\n\n\n\n\n\nMonday - More HTML\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class\n\n\n\n\nHTML Overview\n\n\n\n\n\n\n\n\nPost-Class    \n\n\n\n\nHTML Tags\n. Pick any 5 tags from the list and learn more about them.\n\n\nHTML Tags\n\n\nHTML Quiz\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 3.1 Slides\n\n\n\n\nHomework Due next class\n\n\n5 students will be randomly chosen to present on a HTML tag\n\n\n\n\nWednesday - HTML Hands-on Exercises\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class  \n\n\n\n\nMarking up a letter\n\n\n\n\n\n\n\n\nPost-Class\n\n\n\n\nReview past reading materials, and class notes\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 3.2 Slides\n\n\n\n\n\n\nHomework due this week, Points worth - 4.00\n\n\n\n\nList the new terminologies you learnt this week, see in your course folder under \nweek-03/homework\n\n\nMarkup your resume with HTML and save it as a web page.\n\n\nCreate individual pages for your internships or hobbies and link to them from the main resume web page.\n\n\nCommit homework to GitHub.\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class",
+            "title": "Week 3"
+        },
+        {
+            "location": "/schedule/week03/#week-3",
+            "text": "",
+            "title": "Week 3"
+        },
+        {
+            "location": "/schedule/week03/#learning-outcomes",
+            "text": "After this week you should be able to    Create, edit and view hypertext documents",
+            "title": "&nbsp;Learning Outcomes"
+        },
+        {
+            "location": "/schedule/week03/#monday-more-html",
+            "text": "",
+            "title": "Monday - More HTML"
+        },
+        {
+            "location": "/schedule/week03/#reading-list",
+            "text": "Pre-Class   HTML Overview     Post-Class       HTML Tags . Pick any 5 tags from the list and learn more about them.  HTML Tags  HTML Quiz",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week03/#class-slides",
+            "text": "Week 3.1 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week03/#homework-due-next-class",
+            "text": "5 students will be randomly chosen to present on a HTML tag",
+            "title": "Homework Due next class"
+        },
+        {
+            "location": "/schedule/week03/#wednesday-html-hands-on-exercises",
+            "text": "",
+            "title": "Wednesday - HTML Hands-on Exercises"
+        },
+        {
+            "location": "/schedule/week03/#reading-list_1",
+            "text": "Pre-Class     Marking up a letter     Post-Class   Review past reading materials, and class notes",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week03/#class-slides_1",
+            "text": "Week 3.2 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week03/#homework-due-this-week-points-worth-400",
+            "text": "List the new terminologies you learnt this week, see in your course folder under  week-03/homework  Markup your resume with HTML and save it as a web page.  Create individual pages for your internships or hobbies and link to them from the main resume web page.  Commit homework to GitHub.  Complete SAGE survey (you will receive an email when the window opens)  Do the pre-class reading for next class",
+            "title": "Homework due this week, Points worth - 4.00"
+        },
+        {
+            "location": "/schedule/week04/",
+            "text": "Week 4\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nDescribe CSS\n\n\nWrite CSS to style hypertext documents\n\n\nUse Chrome Developer console\n\n\n\n\n\n\nMonday -  CSS Introduction\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class\n\n\n\n\nCSS Introduction\n\n\n\n\n\n\n\n\nPost-Class\n\n\n\n\nCSS Tutorial on MDN\n\n\nHow CSS works\n\n\nMore CSS\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 4.1 Slides\n\n\n\n\n\n\nWednesday - More CSS\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class\n\n\n\n\nFundamental Text and Font Styling\n\n\nSelectors\n\n\n\n\n\n\n\n\nPost-Class\n\n\n\n\nCSS Tutorial on W3Schools\n\n\nWeb Fonts\n\n\nBox Model\n. Look through the sample files and experiment with CSS short-hand    \n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 4.2 Slides\n\n\n\n\n\n\nHomework due this week, Points worth 5\n\n\n\n\nCopy the resume you created last week into \nWeek-04/homework\n\n\nStyle your resume that you created last week with CSS. Use an external CSS file\n\n\nUse a Google font\n\n\nMake the resume colorful, use a color scheme from coolors. Get creative\n\n\nCommit homework to GitHub.\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class",
+            "title": "Week 4"
+        },
+        {
+            "location": "/schedule/week04/#week-4",
+            "text": "",
+            "title": "Week 4"
+        },
+        {
+            "location": "/schedule/week04/#learning-outcomes",
+            "text": "After this week you should be able to    Describe CSS  Write CSS to style hypertext documents  Use Chrome Developer console",
+            "title": "&nbsp;Learning Outcomes"
+        },
+        {
+            "location": "/schedule/week04/#monday-css-introduction",
+            "text": "",
+            "title": "Monday -  CSS Introduction"
+        },
+        {
+            "location": "/schedule/week04/#reading-list",
+            "text": "Pre-Class   CSS Introduction     Post-Class   CSS Tutorial on MDN  How CSS works  More CSS",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week04/#class-slides",
+            "text": "Week 4.1 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week04/#wednesday-more-css",
+            "text": "",
+            "title": "Wednesday - More CSS"
+        },
+        {
+            "location": "/schedule/week04/#reading-list_1",
+            "text": "Pre-Class   Fundamental Text and Font Styling  Selectors     Post-Class   CSS Tutorial on W3Schools  Web Fonts  Box Model . Look through the sample files and experiment with CSS short-hand",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week04/#class-slides_1",
+            "text": "Week 4.2 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week04/#homework-due-this-week-points-worth-5",
+            "text": "Copy the resume you created last week into  Week-04/homework  Style your resume that you created last week with CSS. Use an external CSS file  Use a Google font  Make the resume colorful, use a color scheme from coolors. Get creative  Commit homework to GitHub.  Complete SAGE survey (you will receive an email when the window opens)  Do the pre-class reading for next class",
+            "title": "Homework due this week, Points worth 5"
+        },
+        {
+            "location": "/schedule/week05/",
+            "text": "Week 5\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nDescribe different phases in a website development cycle\n\n\nImplement webpage layouts from wireframes using CSS & HTML\n\n\n\n\nMonday - Document & Website Structure\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class\n\n\n\n\nWeb Development Life Cycle\n\n\n\n\n\n\n\n\nPost-Class\n\n\n\n\nWebsite Development Process\n\n\nGood Website Design Principles\n\n\nawwwards.com\n\n\ndribbble.com\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 5.1 Slides\n\n\n\n\n\n\nWednesday -  CSS Layouts\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class\n\n\n\n\nBox Model\n\n\n\n\n\n\n\n\n\n\nPost-Class\n\n\n\n\nDocument & Website Structure\n\n\nFloats\n\n\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 5.2 Slides\n\n\n\n\n\n\nHomework due this week\n\n\n\n\nCreate a wireframe for your resume\n\n\nLook through the samples in the your course folder to understand 'float'\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class",
+            "title": "Week 5"
+        },
+        {
+            "location": "/schedule/week05/#week-5",
+            "text": "",
+            "title": "Week 5"
+        },
+        {
+            "location": "/schedule/week05/#learning-outcomes",
+            "text": "After this week you should be able to    Describe different phases in a website development cycle  Implement webpage layouts from wireframes using CSS & HTML",
+            "title": "&nbsp;Learning Outcomes"
+        },
+        {
+            "location": "/schedule/week05/#monday-document-website-structure",
+            "text": "",
+            "title": "Monday - Document &amp; Website Structure"
+        },
+        {
+            "location": "/schedule/week05/#reading-list",
+            "text": "Pre-Class   Web Development Life Cycle     Post-Class   Website Development Process  Good Website Design Principles  awwwards.com  dribbble.com",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week05/#class-slides",
+            "text": "Week 5.1 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week05/#wednesday-css-layouts",
+            "text": "",
+            "title": "Wednesday -  CSS Layouts"
+        },
+        {
+            "location": "/schedule/week05/#reading-list_1",
+            "text": "Pre-Class   Box Model      Post-Class   Document & Website Structure  Floats",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week05/#class-slides_1",
+            "text": "Week 5.2 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week05/#homework-due-this-week",
+            "text": "Create a wireframe for your resume  Look through the samples in the your course folder to understand 'float'  Complete SAGE survey (you will receive an email when the window opens)  Do the pre-class reading for next class",
+            "title": "Homework due this week"
+        },
+        {
+            "location": "/schedule/week06/",
+            "text": "Week 6\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nDescribe responsive design\n\n\nUse Bootstrap CSS framework\n\n\n\n\n\n\nMonday -  Grid System\n\n\n\u00a0Reading List\n\n\n\n\nPost-Class\n\n\nReview HTML Files in Course folder\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 6.1 Slides\n\n\n\n\nWednesday - More Grid System\n\n\n\u00a0Reading List\n\n\n\n\nPost-Class\n\n\nReview HTML Files in Course folder\n\n\n\n\n\n\n\n\nHomework due this week, Points worth 5\n\n\n\n\nImplement the 2 templates that you can find in \nweek-06/Wednesday/\n as HTML files\n\n\nCommit homework to GitHub\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class\n\n\n\n\n\n\n<!--\n\n\nWednesday -  Responsive Design\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class   \n\n\n\n\nResponsive Design - Introduction\n\n\n\n\n\n\n\n\nPost-Class\n\n\n\n\nThe Viewport\n\n\nGrid View\n\n\nResponsive Design - Demo 1\n\n\nResponsive Design - Demo 2\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\n< Not yet available >\n\n\n\n\n\n\nHomework due this week\n\n\n\n\nMake your resume responsive\n\n\nCommit homework to GitHub\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class\n\n\n\n\n-->",
+            "title": "Week 6"
+        },
+        {
+            "location": "/schedule/week06/#week-6",
+            "text": "",
+            "title": "Week 6"
+        },
+        {
+            "location": "/schedule/week06/#learning-outcomes",
+            "text": "After this week you should be able to    Describe responsive design  Use Bootstrap CSS framework",
+            "title": "&nbsp;Learning Outcomes"
+        },
+        {
+            "location": "/schedule/week06/#monday-grid-system",
+            "text": "",
+            "title": "Monday -  Grid System"
+        },
+        {
+            "location": "/schedule/week06/#reading-list",
+            "text": "Post-Class  Review HTML Files in Course folder",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week06/#class-slides",
+            "text": "Week 6.1 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week06/#wednesday-more-grid-system",
+            "text": "",
+            "title": "Wednesday - More Grid System"
+        },
+        {
+            "location": "/schedule/week06/#reading-list_1",
+            "text": "Post-Class  Review HTML Files in Course folder",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week06/#homework-due-this-week-points-worth-5",
+            "text": "Implement the 2 templates that you can find in  week-06/Wednesday/  as HTML files  Commit homework to GitHub  Complete SAGE survey (you will receive an email when the window opens)  Do the pre-class reading for next class    <!--",
+            "title": "Homework due this week, Points worth 5"
+        },
+        {
+            "location": "/schedule/week06/#wednesday-responsive-design",
+            "text": "",
+            "title": "Wednesday -  Responsive Design"
+        },
+        {
+            "location": "/schedule/week06/#reading-list_2",
+            "text": "Pre-Class      Responsive Design - Introduction     Post-Class   The Viewport  Grid View  Responsive Design - Demo 1  Responsive Design - Demo 2",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week06/#class-slides_1",
+            "text": "< Not yet available >",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week06/#homework-due-this-week",
+            "text": "Make your resume responsive  Commit homework to GitHub  Complete SAGE survey (you will receive an email when the window opens)  Do the pre-class reading for next class   -->",
+            "title": "Homework due this week"
+        },
+        {
+            "location": "/schedule/week07/",
+            "text": "Week 7\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nUse HTML Form elements to collect & submit user information\n\n\n\n\n\n\nMonday -  Guest Lecture by Prof. Michael Clarke\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class\n\n        - None\n\n\n\n\n\n\nPost-Class\n\n        - None\n\n\n\n\n\n\n\n\nWednesday -  Responsive Design\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class   \n\n\n\n\nResponsive Design - Introduction\n\n\n\n\n\n\n\n\nPost-Class\n\n\n\n\nThe Viewport\n\n\nGrid View\n\n\nResponsive Design - Demo 1\n\n\nResponsive Design - Demo 2\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 7.2 Slides\n\n\n\n\n\n\nHomework due this week\n\n\n\n\nWork on your individual project, commit update to GitHub\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class",
+            "title": "Week 7"
+        },
+        {
+            "location": "/schedule/week07/#week-7",
+            "text": "",
+            "title": "Week 7"
+        },
+        {
+            "location": "/schedule/week07/#learning-outcomes",
+            "text": "After this week you should be able to    Use HTML Form elements to collect & submit user information",
+            "title": "&nbsp;Learning Outcomes"
+        },
+        {
+            "location": "/schedule/week07/#monday-guest-lecture-by-prof-michael-clarke",
+            "text": "",
+            "title": "Monday -  Guest Lecture by Prof. Michael Clarke"
+        },
+        {
+            "location": "/schedule/week07/#reading-list",
+            "text": "Pre-Class \n        - None    Post-Class \n        - None",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week07/#wednesday-responsive-design",
+            "text": "",
+            "title": "Wednesday -  Responsive Design"
+        },
+        {
+            "location": "/schedule/week07/#reading-list_1",
+            "text": "Pre-Class      Responsive Design - Introduction     Post-Class   The Viewport  Grid View  Responsive Design - Demo 1  Responsive Design - Demo 2",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week07/#class-slides",
+            "text": "Week 7.2 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week07/#homework-due-this-week",
+            "text": "Work on your individual project, commit update to GitHub  Complete SAGE survey (you will receive an email when the window opens)  Do the pre-class reading for next class",
+            "title": "Homework due this week"
+        },
+        {
+            "location": "/schedule/week08/",
+            "text": "Week 8\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nUse HTML Forms\n\n\nStart to use Bootstrap CSS Components\n\n\n\n\n\n\nMonday -  Midterm Exam & HTML Forms\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class\n\n\n\n\nHTML Forms, Introduction\n\n\n\n\n\n\n\n\nPost-Class\n\n\n\n\nHTML5 Forms\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 8.1 Slides\n\n\n\n\n\n\n<!-- \n\n\nWednesday - Bootstrap (BS)\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class\n\n\n\n\nBS, Get Started\n\n\n\n\n\n\n\n\nPost-Class\n\n\n\n\nBS, Jumbotron\n\n\nBS, Starter Samples\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 8.2 Slides\n\n-->\n\n\n\n\n\n\nHomework due this week\n\n\n\n\nWork on your individual project, commit update to GitHub\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class",
+            "title": "Week 8"
+        },
+        {
+            "location": "/schedule/week08/#week-8",
+            "text": "",
+            "title": "Week 8"
+        },
+        {
+            "location": "/schedule/week08/#learning-outcomes",
+            "text": "After this week you should be able to    Use HTML Forms  Start to use Bootstrap CSS Components",
+            "title": "&nbsp;Learning Outcomes"
+        },
+        {
+            "location": "/schedule/week08/#monday-midterm-exam-html-forms",
+            "text": "",
+            "title": "Monday -  Midterm Exam &amp; HTML Forms"
+        },
+        {
+            "location": "/schedule/week08/#reading-list",
+            "text": "Pre-Class   HTML Forms, Introduction     Post-Class   HTML5 Forms",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week08/#class-slides",
+            "text": "Week 8.1 Slides    <!--",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week08/#wednesday-bootstrap-bs",
+            "text": "",
+            "title": "Wednesday - Bootstrap (BS)"
+        },
+        {
+            "location": "/schedule/week08/#reading-list_1",
+            "text": "Pre-Class   BS, Get Started     Post-Class   BS, Jumbotron  BS, Starter Samples",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week08/#class-slides_1",
+            "text": "Week 8.2 Slides \n-->",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week08/#homework-due-this-week",
+            "text": "Work on your individual project, commit update to GitHub  Complete SAGE survey (you will receive an email when the window opens)  Do the pre-class reading for next class",
+            "title": "Homework due this week"
+        },
+        {
+            "location": "/schedule/week09/",
+            "text": "Week 9\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nUse Bootstrap CSS Components\n\n\n\n\n\n\nMonday - Bootstrap (BS)\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class\n\n\n\n\nBS, Get Started\n\n\n\n\n\n\n\n\nPost-Class\n\n\n\n\nBS, Jumbotron\n\n\nBS, Starter Samples\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 9.1 Slides\n\n\n\n\n\n\n\n\n\nWednesday -  Bootstrap Layouts\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class  \n\n\n\n\nGrids\n\n\nGrids Examples\n\n\nTheme 1 Example\n\n\n\n\n\n\n\n\nPost-Class          \n\n\n\n\nBootstrap, Theme 2\n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 9.2 Slides\n\n\n\n\n\n\nHomework due this week\n\n\n\n\nWork on your individual project, commit update to GitHub\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class",
+            "title": "Week 9"
+        },
+        {
+            "location": "/schedule/week09/#week-9",
+            "text": "",
+            "title": "Week 9"
+        },
+        {
+            "location": "/schedule/week09/#learning-outcomes",
+            "text": "After this week you should be able to    Use Bootstrap CSS Components",
+            "title": "&nbsp;Learning Outcomes"
+        },
+        {
+            "location": "/schedule/week09/#monday-bootstrap-bs",
+            "text": "",
+            "title": "Monday - Bootstrap (BS)"
+        },
+        {
+            "location": "/schedule/week09/#reading-list",
+            "text": "Pre-Class   BS, Get Started     Post-Class   BS, Jumbotron  BS, Starter Samples",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week09/#class-slides",
+            "text": "Week 9.1 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week09/#wednesday-bootstrap-layouts",
+            "text": "",
+            "title": "Wednesday -  Bootstrap Layouts"
+        },
+        {
+            "location": "/schedule/week09/#reading-list_1",
+            "text": "Pre-Class     Grids  Grids Examples  Theme 1 Example     Post-Class             Bootstrap, Theme 2",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week09/#class-slides_1",
+            "text": "Week 9.2 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week09/#homework-due-this-week",
+            "text": "Work on your individual project, commit update to GitHub  Complete SAGE survey (you will receive an email when the window opens)  Do the pre-class reading for next class",
+            "title": "Homework due this week"
+        },
+        {
+            "location": "/schedule/week10/",
+            "text": "Week 10\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nDescribe how Javascript can be used to make the web page interactive\n\n\n\n\n\n\nMonday -  Intro. to Javascript\n\n\n\u00a0Reading List\n\n\n\n\n\n\nPre-Class  \n\n\n\n\nJS Overview\n  \n\n\n\n\n\n\n\n\nPost-Class  \n\n\n\n\nDOM Events List\n\n\nJS Introduction\n  \n\n\n\n\n\n\n\n\nClass Slides\n\n\n\n\nWeek 10.1 Slides\n\n\n\n\n\n\nWednesday -  Indv. Project Troubleshooting\n\n\nWe will dedicate class to help troubleshoot your project.\n\n\n\n\nHomework due this week\n\n\n\n\nIndividual project is due in GitHub by midnight Saturday\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class",
+            "title": "Week 10"
+        },
+        {
+            "location": "/schedule/week10/#week-10",
+            "text": "",
+            "title": "Week 10"
+        },
+        {
+            "location": "/schedule/week10/#learning-outcomes",
+            "text": "After this week you should be able to    Describe how Javascript can be used to make the web page interactive",
+            "title": "&nbsp;Learning Outcomes"
+        },
+        {
+            "location": "/schedule/week10/#monday-intro-to-javascript",
+            "text": "",
+            "title": "Monday -  Intro. to Javascript"
+        },
+        {
+            "location": "/schedule/week10/#reading-list",
+            "text": "Pre-Class     JS Overview        Post-Class     DOM Events List  JS Introduction",
+            "title": "&nbsp;Reading List"
+        },
+        {
+            "location": "/schedule/week10/#class-slides",
+            "text": "Week 10.1 Slides",
+            "title": "Class Slides"
+        },
+        {
+            "location": "/schedule/week10/#wednesday-indv-project-troubleshooting",
+            "text": "We will dedicate class to help troubleshoot your project.",
+            "title": "Wednesday -  Indv. Project Troubleshooting"
+        },
+        {
+            "location": "/schedule/week10/#homework-due-this-week",
+            "text": "Individual project is due in GitHub by midnight Saturday  Complete SAGE survey (you will receive an email when the window opens)  Do the pre-class reading for next class",
+            "title": "Homework due this week"
+        },
+        {
+            "location": "/schedule/week14/",
+            "text": "Week 14\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nUse simple jQuery plugins\n\n\nUse Google Charts\n\n\n\n\n\n\nMonday -  More JScript, Google Charts\n\n\nResources\n\n\n\n\n50 jQuery Plugins\n\n\nGoogle Charts, Quickstart\n\n\nForm Methods\n\n\nAJAX & jQuery\n\n\n\n\n\n\nWednesday -  Guest Presentation\n\n\n\n\nHomework due this week\n\n\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nGet ready for your group presentations",
+            "title": "Week 14"
+        },
+        {
+            "location": "/schedule/week14/#week-14",
+            "text": "",
+            "title": "Week 14"
+        },
+        {
+            "location": "/schedule/week14/#learning-outcomes",
+            "text": "After this week you should be able to    Use simple jQuery plugins  Use Google Charts",
+            "title": "&nbsp;Learning Outcomes"
+        },
+        {
+            "location": "/schedule/week14/#monday-more-jscript-google-charts",
+            "text": "",
+            "title": "Monday -  More JScript, Google Charts"
+        },
+        {
+            "location": "/schedule/week14/#resources",
+            "text": "50 jQuery Plugins  Google Charts, Quickstart  Form Methods  AJAX & jQuery",
+            "title": "Resources"
+        },
+        {
+            "location": "/schedule/week14/#wednesday-guest-presentation",
+            "text": "",
+            "title": "Wednesday -  Guest Presentation"
+        },
+        {
+            "location": "/schedule/week14/#homework-due-this-week",
+            "text": "Complete SAGE survey (you will receive an email when the window opens)  Get ready for your group presentations",
+            "title": "Homework due this week"
+        },
+        {
+            "location": "/computer-setup/",
+            "text": "In this class you will use tools and workflows that web developers use in the industry. Also, it is a lot more efficient\nthan using the typical LMS. It will seem foreign when you start but be a little patient & persistant.\n\n\n1. Integrated Development Environment (IDE)\n\n\nIf you have used programs like MS-Word, you have used an IDE. IDEs are specialized programs that provide features and tools that make your development process efficient. Just like you would use MS-Word to write and format papers, resumes, or letters we will use something similar in this class to write HTML, CSS and some Javascript.  \n\n\nVS Code\n\n\nYou can download the \nfree\n version from \nhttps://code.visualstudio.com/download\n. Choose the correct installer based on your computer OS.\n\n\nOnce the download is complete, launch the installer and follow the steps.\n\n\n2. Git & GitHub\n\n\nThese are 2 different tools - don't let the names confuse you. Below is a brief explanation of what they are \n\n\ngit\n\n\ngit is a program that you install on \nyour computer\n which can be used to keep track of changes in any set of files. It is a distributed version control system primarily used in software development. You might have used the 'Track Changes' feature in MS-Word - git does all that and a lot lot more.\n\n\nGitHub\n\n\nGitHub is a web-based git server. It complements git in ways that makes it possible for a team of developers to contribute to a single project. It also provides a way to store your code remotely. \n\n\nFollow these steps to configure your computer\n\n\nSetting up Git & GitHub\n\n\n\n\n\n\nSignup for a Free GitHub Account. \nIf you already have a GitHub Account skip to step 2\n\n\n\n\nGo to \ngithub.com\n\n\nClick Signup \n\n\nChoose a username like \nnetid-su\n. Ex: My username would be \nakadajis-su\n\n\nYou can use your SU email \n\n\nClick 'Create an Account'\n\n\nIn the next page choose 'Unlimited Public repositories for free' plan.\n\n\nClick 'Continue'\n\n\nChoose the appropriate boxes in the next step\n\n\nClick 'Submit'  \n\n\nYou should have received an email from GitHub. Open the email and click 'Verify your email address' to complete the process. You now have a GitHub account. \n\n\nYou will need your GitHub username and password in Step 2  \n\n\n\n\n\n\n\n\nInstalling GitHub Desktop Client\n\n\n\n\nGo to \ndesktop.github.com\n\n\nDownload the program installer for your version of the OS. \n\n\nOnce the download is complete, launch it and follow the steps to install it\n\n\nAfter it is installed click on 'Sign into GitHub' and enter you GitHub username and password that you created in Step 1\n\n\nIn the 'Configure Git' screen enter your Name and Email and click 'Continue'\n\n\nClick 'Finish' to complete GitHub & Git installation\n\n\n\n\n\n\n\n\nYou need now login into the GitHub Desktop client.\n\n\n\n\nLaunch GitHub client\n\n\nUnder the 'File' menu click on 'Options'\n\n\nClick 'Sign in'\n\n\n\n\n\n\n\n\n3. Setup Class Folder aka Repo on GitHub\n\n\nThis final step will walk you through downloading the class folder/repo from GitHub.     \n\n\n These first 5 steps will create your course folder/repo on GitHub \n\n\n\n\n\n\nClick the link \nhttps://goo.gl/d7Ke5i\n to get started.\n\n\n\n\n\n\nYou will be asked to signin with your GitHub username and password if you are not signed in. \n\n\n\n\n\n\nYou will see a page like the one shown below. Click on 'Accept this assignment'.\n\n\n\n\n\n\n\nThat will take you to a page like this.\n\n\n\n\n\n\n\nClicking on the link (yours will be similar) will bring to a page like this. If you see this you are almost there.\n\n\n\n\n\n\n\n\nCopy the Repo URL\n\n\n\n\n\n\n\n4. Setup or Cloning Class Folder on your laptop\n\n\n These final steps will walk you through downloading the course folder from GitHub onto your computer \n\n\n\n\n\n\nLaunch the Github Client that you have installed on your computer\n\n\n\n\n\n\nAfter the client has launched, click on the 'Clone a repository' button. You can also click on 'File' -> 'Clone Repository'  \n\n\n\n\n\n\nPaste the URL you copied in step 3.6 into the box.\n\n\n\n\n\n\n\nLocal Path refers to the folder on your computer where you want the course folder to reside. Click 'Choose' and browse to say your 'My Documents' folder\n\n\n\n\n\n\nClick 'Clone'\n\n\n\n\n\n\nGood work. You are done...cloning the class repo.",
+            "title": "Getting your Computer Ready"
+        },
+        {
+            "location": "/computer-setup/#1-integrated-development-environment-ide",
+            "text": "If you have used programs like MS-Word, you have used an IDE. IDEs are specialized programs that provide features and tools that make your development process efficient. Just like you would use MS-Word to write and format papers, resumes, or letters we will use something similar in this class to write HTML, CSS and some Javascript.",
+            "title": "1. Integrated Development Environment (IDE)"
+        },
+        {
+            "location": "/computer-setup/#vs-code",
+            "text": "You can download the  free  version from  https://code.visualstudio.com/download . Choose the correct installer based on your computer OS.  Once the download is complete, launch the installer and follow the steps.",
+            "title": "VS Code"
+        },
+        {
+            "location": "/computer-setup/#2-git-github",
+            "text": "These are 2 different tools - don't let the names confuse you. Below is a brief explanation of what they are",
+            "title": "2. Git &amp; GitHub"
+        },
+        {
+            "location": "/computer-setup/#git",
+            "text": "git is a program that you install on  your computer  which can be used to keep track of changes in any set of files. It is a distributed version control system primarily used in software development. You might have used the 'Track Changes' feature in MS-Word - git does all that and a lot lot more.",
+            "title": "git"
+        },
+        {
+            "location": "/computer-setup/#github",
+            "text": "GitHub is a web-based git server. It complements git in ways that makes it possible for a team of developers to contribute to a single project. It also provides a way to store your code remotely.   Follow these steps to configure your computer",
+            "title": "GitHub"
+        },
+        {
+            "location": "/computer-setup/#setting-up-git-github",
+            "text": "Signup for a Free GitHub Account.  If you already have a GitHub Account skip to step 2   Go to  github.com  Click Signup   Choose a username like  netid-su . Ex: My username would be  akadajis-su  You can use your SU email   Click 'Create an Account'  In the next page choose 'Unlimited Public repositories for free' plan.  Click 'Continue'  Choose the appropriate boxes in the next step  Click 'Submit'    You should have received an email from GitHub. Open the email and click 'Verify your email address' to complete the process. You now have a GitHub account.   You will need your GitHub username and password in Step 2       Installing GitHub Desktop Client   Go to  desktop.github.com  Download the program installer for your version of the OS.   Once the download is complete, launch it and follow the steps to install it  After it is installed click on 'Sign into GitHub' and enter you GitHub username and password that you created in Step 1  In the 'Configure Git' screen enter your Name and Email and click 'Continue'  Click 'Finish' to complete GitHub & Git installation     You need now login into the GitHub Desktop client.   Launch GitHub client  Under the 'File' menu click on 'Options'  Click 'Sign in'",
+            "title": "Setting up Git &amp; GitHub"
+        },
+        {
+            "location": "/computer-setup/#3-setup-class-folder-aka-repo-on-github",
+            "text": "This final step will walk you through downloading the class folder/repo from GitHub.        These first 5 steps will create your course folder/repo on GitHub     Click the link  https://goo.gl/d7Ke5i  to get started.    You will be asked to signin with your GitHub username and password if you are not signed in.     You will see a page like the one shown below. Click on 'Accept this assignment'.    That will take you to a page like this.    Clicking on the link (yours will be similar) will bring to a page like this. If you see this you are almost there.     Copy the Repo URL",
+            "title": "3. Setup Class Folder aka Repo on GitHub"
+        },
+        {
+            "location": "/computer-setup/#4-setup-or-cloning-class-folder-on-your-laptop",
+            "text": "These final steps will walk you through downloading the course folder from GitHub onto your computer     Launch the Github Client that you have installed on your computer    After the client has launched, click on the 'Clone a repository' button. You can also click on 'File' -> 'Clone Repository'      Paste the URL you copied in step 3.6 into the box.    Local Path refers to the folder on your computer where you want the course folder to reside. Click 'Choose' and browse to say your 'My Documents' folder    Click 'Clone'    Good work. You are done...cloning the class repo.",
+            "title": "4. Setup or Cloning Class Folder on your laptop"
+        },
+        {
+            "location": "/submit-howto/",
+            "text": "The steps in this page describe how to submit your homework, and pull homework grades and comments. \n\n\nMake sure you have completed ALL the steps to \nGetting your computer ready\n.\n\n\n\n\u00a0\n\n\nCouple of things to keep in mind\n\n\n\n\nYou can submit aka commit your work as often as you want. \n\n\nI encourage you to commit your work everytime you work on it even if you have  partially finished it. \n\n\nCommitting code onto GitHub will ensure that there is a backup of your work\n\n\nGit will ONLY track your work that is done in the course folder you have setup\n\n\n\n\nSubmitting/Committing your homework\n\n\nI assume you have done and saved your work in the class folder. Follow these steps everytime you want to commit your work.\n\n\n\n\nLaunch the GitHub desktop client. \n\n\n\n\nOn a Windows PC it should look something like the pic below.\n\n\n\n\n\nMake sure the correct repo is selected (topmost arrow)\n\n\n'Changes' will list all the files that have been changed since the last commit.       \n\n\n\n\n\n\n\n\nEnter a meaningful commit message - this is to help you remember what you have completed so far. Only you and the instructor will be able see this.\n\n\n\n\n\n\nClick 'Commit to Master'. You will also notice that in the 'Changes' box it will read '0 changed files'. \n\n\n\n\n\n\nNow we can upload the files to GitHub. Click 'Push Origin'.\n\n\n\n\n\n\n\nCongratuations you just committed your work to GitHub.\n\n\n\n\n\n\n\n\nHow to check if homework has been submitted\n\n\nBelow are some of the ways you can check to make sure the homework has been successfully submitted.\n\n\nCheck via GitHub.com\n\n\n\n\nLogin to GitHub at \nhttps://github.com\n \n\n\nOnce you've logged in, look for 'Your Repositories' in the page and click on your 'IST263' repository.\n\n\nClicking on the repo will bring you to the repo details page. Click on the 'Commits' tab to see when the latest commit was made.\n\n\n\n\nCheck on GitHub desktop application\n\n\nLaunch your GitHub desktop application, select your repository from the list. Then click on 'History' to see your commit history. The latest commit should show in there.\n\n\nCommit Email\n\n\nI have setup a custom notification to email me and you (the person submitting the homework) when a commit is posted. This should be instantaneous and mostly reliable.\n\n\n\n\nPulling homework feedback & points\n\n\nThe instructor has cloned every student's course folder on his workstation as well. That allows him to view and evaluate your committed work. After the homework is evaluated he will add notes/comments to your file(s) and assign the homework points.\n\n\n\nFollow these steps to pull the homework points & feedback\n\n\n\n\n\n\nLaunch the GitHub desktop client. \n\n\n\n\n\n\nIt should look something like the pic below. Select your class repo by clicking on it.\n\n\n\n\n\n\n\nClick 'Pull Origin' or 'Sync'. You can also click on 'Repository' -> 'Pull' from the application menu bar.\n\n\n\n\n\n\nClick on 'History' tab to see that changes posted by the Instructor. \n\n\n\n\n\n\n\nIf a feedback was posted to a HTML file you'll need to open that file in VS Code or Notepad++ to see the comments. If a grade was assigned look for a file 'grades.txt' in the homework folder for that week.\n\n\n\n\n\n\nIf the home due date hasn't passed you can revise the homework and resubmit.\n\n\n\n\n\n\n\n\nResolving Conflicts\n\n\nWith this pulling and pushing of code there is bound to be conflicts. Conflicts arise when you try to push code into GitHub but there are changes to the code on GitHub in the same module/vicinity which have been posted by the Instructor. \n\n\nAvoiding this is the best fix. As a rule of thumb you should always 'pull' the latest code from GitHub prior to any coding session. At the end of the every coding session you should commit and push your code.\n\n\nNow that you have a conflict lets figure out how to resolve it.\n\n\n\n\n\n\nI assume you have committed your code but you got the error while trying to push the changes to GitHub.\n\n\n\n\n\n\nThe pic below shows how a file gets modified when a conflict appears.\n\n\n\nText between '<<<<<< HEAD', '========' and '>>>>>> origin/master' represents the conflict in the file between the local repository versus the remote server aka GitHub. \n\n\n\n\n\n\nYou now have to review the file and choose how the text/code should appear by deleting/editing the text.\n\n\n\n\n\n\nMake sure you remove the lines that have the above symbols.\n\n\n\n\n\n\nRepeat steps 2 and 3 for each conflict that's reported.\n\n\n\n\n\n\nOnce you have reviewed and resolved all conflicts follow the steps to Commit and Push code as you would normally do.",
+            "title": "Submit Homework & Pull Feedback"
+        },
+        {
+            "location": "/submit-howto/#submittingcommitting-your-homework",
+            "text": "I assume you have done and saved your work in the class folder. Follow these steps everytime you want to commit your work.   Launch the GitHub desktop client.    On a Windows PC it should look something like the pic below.   Make sure the correct repo is selected (topmost arrow)  'Changes' will list all the files that have been changed since the last commit.            Enter a meaningful commit message - this is to help you remember what you have completed so far. Only you and the instructor will be able see this.    Click 'Commit to Master'. You will also notice that in the 'Changes' box it will read '0 changed files'.     Now we can upload the files to GitHub. Click 'Push Origin'.    Congratuations you just committed your work to GitHub.",
+            "title": "Submitting/Committing your homework"
+        },
+        {
+            "location": "/submit-howto/#how-to-check-if-homework-has-been-submitted",
+            "text": "Below are some of the ways you can check to make sure the homework has been successfully submitted.",
+            "title": "How to check if homework has been submitted"
+        },
+        {
+            "location": "/submit-howto/#check-via-githubcom",
+            "text": "Login to GitHub at  https://github.com    Once you've logged in, look for 'Your Repositories' in the page and click on your 'IST263' repository.  Clicking on the repo will bring you to the repo details page. Click on the 'Commits' tab to see when the latest commit was made.",
+            "title": "Check via GitHub.com"
+        },
+        {
+            "location": "/submit-howto/#check-on-github-desktop-application",
+            "text": "Launch your GitHub desktop application, select your repository from the list. Then click on 'History' to see your commit history. The latest commit should show in there.",
+            "title": "Check on GitHub desktop application"
+        },
+        {
+            "location": "/submit-howto/#commit-email",
+            "text": "I have setup a custom notification to email me and you (the person submitting the homework) when a commit is posted. This should be instantaneous and mostly reliable.",
+            "title": "Commit Email"
+        },
+        {
+            "location": "/submit-howto/#pulling-homework-feedback-points",
+            "text": "The instructor has cloned every student's course folder on his workstation as well. That allows him to view and evaluate your committed work. After the homework is evaluated he will add notes/comments to your file(s) and assign the homework points.  Follow these steps to pull the homework points & feedback    Launch the GitHub desktop client.     It should look something like the pic below. Select your class repo by clicking on it.    Click 'Pull Origin' or 'Sync'. You can also click on 'Repository' -> 'Pull' from the application menu bar.    Click on 'History' tab to see that changes posted by the Instructor.     If a feedback was posted to a HTML file you'll need to open that file in VS Code or Notepad++ to see the comments. If a grade was assigned look for a file 'grades.txt' in the homework folder for that week.    If the home due date hasn't passed you can revise the homework and resubmit.",
+            "title": "Pulling homework feedback &amp; points"
+        },
+        {
+            "location": "/submit-howto/#resolving-conflicts",
+            "text": "With this pulling and pushing of code there is bound to be conflicts. Conflicts arise when you try to push code into GitHub but there are changes to the code on GitHub in the same module/vicinity which have been posted by the Instructor.   Avoiding this is the best fix. As a rule of thumb you should always 'pull' the latest code from GitHub prior to any coding session. At the end of the every coding session you should commit and push your code.  Now that you have a conflict lets figure out how to resolve it.    I assume you have committed your code but you got the error while trying to push the changes to GitHub.    The pic below shows how a file gets modified when a conflict appears.  \nText between '<<<<<< HEAD', '========' and '>>>>>> origin/master' represents the conflict in the file between the local repository versus the remote server aka GitHub.     You now have to review the file and choose how the text/code should appear by deleting/editing the text.    Make sure you remove the lines that have the above symbols.    Repeat steps 2 and 3 for each conflict that's reported.    Once you have reviewed and resolved all conflicts follow the steps to Commit and Push code as you would normally do.",
+            "title": "Resolving Conflicts"
+        },
+        {
+            "location": "/projects/individual/",
+            "text": "Individual Project - Due Week 10\n\n\nThis assignment is intended to demonstrate your level of mastery of the course material. You will have a total of 10 weeks to complete the project with deliverables that are due almost every week. Refer to the \nMeeting Milestones\n section for details.\n\n\nWhat is the individual project?\n\n\nYour goal is to design and develop a website for a topic of interest to you. The website needs to have a minimum of 6 pages with atleast 3 different layouts. An ideal topic will have the following qualities\n\n\n\n\nContent on the topic is readily available\n\n\nEasy to find images, video and other multimedia resources\n\n\nSomething that you can showcase during an internship or job interview\n\n\n\n\nHow to submit website & other deliverables?\n\n\nSimilar to you weekly assignments, the project and all deliberables must be submitted via GitHub. Project that is emailed or submitted via Blackboard will receive 0 points.\n\n\nWhat is the grading rubrik for this project?\n\n\nThis project has a total point value of 35. This is divided as follows\n\n\n\n\n\n\n\n\n\u00a0\n\n\nCriteria\n\n\nMax. Points\n\n\n\n\n\n\n\n\n\n\n1\n\n\nMeeting milestones (tracked via GitHub)\n\n\n8\n\n\n\n\n\n\n2\n\n\nWireframes\n\n\n5\n\n\n\n\n\n\n3\n\n\nResource & Code Organization\n\n\n10\n\n\n\n\n\n\n4\n\n\nFinal Website\n\n\n10\n\n\n\n\n\n\n5\n\n\nDemo/Review with Instructor\n\n\n2\n\n\n\n\n\n\n\n\nMore information on each of the above criteria is below.\n\n\nMeeting Milestones\n\n\nThis project is intended to be completed in weekly sprints/chunks. You are expected to commit weekly work or updates into GitHub. There should be at a minimum of 1 weekly commit starting at Week 3 before the final project is complete. Below is the list of project milestones.\n\n\n\n\n\n\n\n\nDue By\n\n\nMilestone\n\n\nDeliverable(s)\n\n\n\n\n\n\n\n\n\n\nWeek 2 - 3\n\n\nCome up with a website topic\n\n\nSubmit half page project proposal\n\n\n\n\n\n\nWeek 3 - 5\n\n\nResearch and collect website content and graphic media (images, video, etc.)\n\n\nYou can collect the content in a MS. Word doc or text file. If you are using copyrighted images and/or video make sure you cite them accordingly.\n\n\n\n\n\n\nWeek 4 - 6\n\n\nCreate, Submit and Revise Wireframes\n\n\nWireframes\n\n\n\n\n\n\nWeek 5 - 10\n\n\nImplement/Code the website\n\n\nWebsite\n\n\n\n\n\n\n\n\nNot meeting milestones will seriously jeopradize your chances of completely the project in the desired timeline. It will also cost you points. \n\n\nWireframes\n\n\nThese are the project blue prints. You will use these as guides to implement the web pages. There are vast number of tools you can use to create wireframes. We will talk more about wireframes during class starting around Week 4.\n\n\nResource & Code Organization\n\n\nHere we look at your coding practices. Good code and resource organization makes for an efficient website, and also increases efficiency during debug, and updates. The metrics used to evaluate this criteria are\n\n\n\n\nRun through W3C Validator aka WAG compliancy\n\n\nAptly named web pages, images \n\n\nWell organized folder structure \n\n\nWell organized CSS \n\n\nWell organized HTML\n\n\n\n\nEach criteria is worth 2 points each.\n\n\nFinal Website\n\n\nWe will be looking at the following in your final website.\n\n\n\n\nLayout\n\n\nColor Schemes\n\n\nUse of external frameworks and/or libraries\n\n\nResponsiveness \n\n\n\n\nDemo/Review with Instructor\n\n\nThis is your chance to meet with the instructor one-on-one to discuss and review your website. You are encouraged to use this opportunity to highlight any specific part of the process and/or the website. \n\n\nYour \nproject grade will be assigned\n during this meeting.",
+            "title": "Individual Project"
+        },
+        {
+            "location": "/projects/individual/#individual-project-due-week-10",
+            "text": "This assignment is intended to demonstrate your level of mastery of the course material. You will have a total of 10 weeks to complete the project with deliverables that are due almost every week. Refer to the  Meeting Milestones  section for details.",
+            "title": "Individual Project - Due Week 10"
+        },
+        {
+            "location": "/projects/individual/#what-is-the-individual-project",
+            "text": "Your goal is to design and develop a website for a topic of interest to you. The website needs to have a minimum of 6 pages with atleast 3 different layouts. An ideal topic will have the following qualities   Content on the topic is readily available  Easy to find images, video and other multimedia resources  Something that you can showcase during an internship or job interview",
+            "title": "What is the individual project?"
+        },
+        {
+            "location": "/projects/individual/#how-to-submit-website-other-deliverables",
+            "text": "Similar to you weekly assignments, the project and all deliberables must be submitted via GitHub. Project that is emailed or submitted via Blackboard will receive 0 points.",
+            "title": "How to submit website &amp; other deliverables?"
+        },
+        {
+            "location": "/projects/individual/#what-is-the-grading-rubrik-for-this-project",
+            "text": "This project has a total point value of 35. This is divided as follows     \u00a0  Criteria  Max. Points      1  Meeting milestones (tracked via GitHub)  8    2  Wireframes  5    3  Resource & Code Organization  10    4  Final Website  10    5  Demo/Review with Instructor  2     More information on each of the above criteria is below.",
+            "title": "What is the grading rubrik for this project?"
+        },
+        {
+            "location": "/projects/individual/#meeting-milestones",
+            "text": "This project is intended to be completed in weekly sprints/chunks. You are expected to commit weekly work or updates into GitHub. There should be at a minimum of 1 weekly commit starting at Week 3 before the final project is complete. Below is the list of project milestones.     Due By  Milestone  Deliverable(s)      Week 2 - 3  Come up with a website topic  Submit half page project proposal    Week 3 - 5  Research and collect website content and graphic media (images, video, etc.)  You can collect the content in a MS. Word doc or text file. If you are using copyrighted images and/or video make sure you cite them accordingly.    Week 4 - 6  Create, Submit and Revise Wireframes  Wireframes    Week 5 - 10  Implement/Code the website  Website     Not meeting milestones will seriously jeopradize your chances of completely the project in the desired timeline. It will also cost you points.",
+            "title": "Meeting Milestones"
+        },
+        {
+            "location": "/projects/individual/#wireframes",
+            "text": "These are the project blue prints. You will use these as guides to implement the web pages. There are vast number of tools you can use to create wireframes. We will talk more about wireframes during class starting around Week 4.",
+            "title": "Wireframes"
+        },
+        {
+            "location": "/projects/individual/#resource-code-organization",
+            "text": "Here we look at your coding practices. Good code and resource organization makes for an efficient website, and also increases efficiency during debug, and updates. The metrics used to evaluate this criteria are   Run through W3C Validator aka WAG compliancy  Aptly named web pages, images   Well organized folder structure   Well organized CSS   Well organized HTML   Each criteria is worth 2 points each.",
+            "title": "Resource &amp; Code Organization"
+        },
+        {
+            "location": "/projects/individual/#final-website",
+            "text": "We will be looking at the following in your final website.   Layout  Color Schemes  Use of external frameworks and/or libraries  Responsiveness",
+            "title": "Final Website"
+        },
+        {
+            "location": "/projects/individual/#demoreview-with-instructor",
+            "text": "This is your chance to meet with the instructor one-on-one to discuss and review your website. You are encouraged to use this opportunity to highlight any specific part of the process and/or the website.   Your  project grade will be assigned  during this meeting.",
+            "title": "Demo/Review with Instructor"
+        },
+        {
+            "location": "/projects/group-project/",
+            "text": "Group Project / Adv. Topic Presentations\n\n\nProject Ideas\n\n\n\n\n~~CSS3 Animations~~\n\n\n~~Web Accessibility Guidelines (WAG)~~\n\n\nLESS\n\n\n~~Content Management Systems (CMS)~~\n\n\n~~Advanced Boostrap Components~~\n\n\n~~Advanced Boostrap Components~~\n\n\n~~Making design(s) responsive~~\n\n\n~~Making design(s) responsive~~\n\n\nChrome Dev Console: User guide  \n\n\n\n\nThe group project presentations will be on \nDec 4 & Dec 6, 2017\n\n\nProject Groups\n\n\n\n\n\n\n\n\nGroup #\n\n\nMembers\n\n\nTopic\n\n\nPresentation\n\n\n\n\n\n\n\n\n\n\n1.\n\n\nJen, Heidi & Garrett\n\n\nCSS3 Animations\n\n\nDec 6\n\n\n\n\n\n\n2.\n\n\nMason & Jason\n\n\nAdvanced Boostrap Components\n\n\nDec 6\n\n\n\n\n\n\n3.\n\n\nJulia, Cerinn & Christopher\n\n\nMaking design(s) responsive\n\n\nDec 4\n\n\n\n\n\n\n4.\n\n\nSharon, Amanda & Taj\n\n\nMaking design(s) responsive\n\n\nDec 4\n\n\n\n\n\n\n5.\n\n\nJustin & Nick\n\n\nAdvanced Boostrap Components\n\n\nDec 4\n\n\n\n\n\n\n6.\n\n\nShruti, Ivanny & Justin\n\n\nWAG\n\n\nDec 4\n\n\n\n\n\n\n7.\n\n\nTyler, Steven & Diminov\n\n\nCMS\n\n\nDec 6\n\n\n\n\n\n\n\n\nIn this assignment you will be working in groups of 3 where you will \n\n\n\n\nResearch an advanced topic, \n\n\nCreate a one or two page website and \n\n\nGive a 15 minute presentation to your peers in class. \n\n\n\n\nA list of advanced topics will be announced in class during week 10. Each group will have the opportunity to pick their topic of interest via a random lottery on Week 11. You have the freedom to come up with your own topic. In such instances the topic will have to be discussed with and approved by the instructor.\n\n\nEach group will get their own GitHub repo/folder to facilitate collaboration. You will be submitting your project work via this repo/folder.\n\n\nWhat is the grading rubrik for this project?\n\n\nThis project has a total point value of 20. This is divided as follows\n\n\n\n\n\n\n\n\n\u00a0\n\n\nCriteria\n\n\nMax. Points\n\n\n\n\n\n\n\n\n\n\n1.\n\n\nCollaborative  Development\n\n\n10\n\n\n\n\n\n\n2.\n\n\nFinal Website\n\n\n5\n\n\n\n\n\n\n3.\n\n\nPeer Presentation\n\n\n5\n\n\n\n\n\n\n\n\nMore information on each of the above criteria is below.\n\n\nCollaborative Development\n\n\nApart from testing your independent learning skills this project gives you the opportunity to collobrate and work as a team. You will have 3 weeks to \n\n\n\n\nResearch, \n\n\nDesign and implement a website and \n\n\nPrepare for the presentation. \n\n\n\n\nYou can accomplish all that if you collaborate and divide the work. \n\n\nYour individual contributions will be assessed based on the commit history in your GitHub project repo. \n\n\nWebsite\n\n\nYour website at a minimum should have the following\n\n\n\n\nBrief introduction to the topic\n\n\nReferences to external resources for further reading\n\n\nExample code(s) and/or use case(s)\n\n\nShort video tutorials (if applicable)\n\n\nLimitations when applicable\n\n\n\n\nRefer to \nIndividual Project - Website Grading Criteria\n for information on how the website will be evaluated.\n\n\nPresentation\n\n\nThis is your chance to present on the topic you have researched, and also showcase your website. You will be graded on\n\n\n\n\nEffective communication of topic \n\n\nShowcase an use case or example code\n\n\nAnswering any questions\n\n\n\n\nA member from each group will be randomly chosen to make the main presentation. Other group members are more than welcome to assist when they see fit.",
+            "title": "Group Project"
+        },
+        {
+            "location": "/projects/group-project/#group-project-adv-topic-presentations",
+            "text": "",
+            "title": "Group Project / Adv. Topic Presentations"
+        },
+        {
+            "location": "/projects/group-project/#project-ideas",
+            "text": "~~CSS3 Animations~~  ~~Web Accessibility Guidelines (WAG)~~  LESS  ~~Content Management Systems (CMS)~~  ~~Advanced Boostrap Components~~  ~~Advanced Boostrap Components~~  ~~Making design(s) responsive~~  ~~Making design(s) responsive~~  Chrome Dev Console: User guide",
+            "title": "Project Ideas"
+        },
+        {
+            "location": "/projects/group-project/#the-group-project-presentations-will-be-on-dec-4-dec-6-2017",
+            "text": "",
+            "title": "The group project presentations will be on Dec 4 &amp; Dec 6, 2017"
+        },
+        {
+            "location": "/projects/group-project/#project-groups",
+            "text": "Group #  Members  Topic  Presentation      1.  Jen, Heidi & Garrett  CSS3 Animations  Dec 6    2.  Mason & Jason  Advanced Boostrap Components  Dec 6    3.  Julia, Cerinn & Christopher  Making design(s) responsive  Dec 4    4.  Sharon, Amanda & Taj  Making design(s) responsive  Dec 4    5.  Justin & Nick  Advanced Boostrap Components  Dec 4    6.  Shruti, Ivanny & Justin  WAG  Dec 4    7.  Tyler, Steven & Diminov  CMS  Dec 6     In this assignment you will be working in groups of 3 where you will    Research an advanced topic,   Create a one or two page website and   Give a 15 minute presentation to your peers in class.    A list of advanced topics will be announced in class during week 10. Each group will have the opportunity to pick their topic of interest via a random lottery on Week 11. You have the freedom to come up with your own topic. In such instances the topic will have to be discussed with and approved by the instructor.  Each group will get their own GitHub repo/folder to facilitate collaboration. You will be submitting your project work via this repo/folder.",
+            "title": "Project Groups"
+        },
+        {
+            "location": "/projects/group-project/#what-is-the-grading-rubrik-for-this-project",
+            "text": "This project has a total point value of 20. This is divided as follows     \u00a0  Criteria  Max. Points      1.  Collaborative  Development  10    2.  Final Website  5    3.  Peer Presentation  5     More information on each of the above criteria is below.",
+            "title": "What is the grading rubrik for this project?"
+        },
+        {
+            "location": "/projects/group-project/#collaborative-development",
+            "text": "Apart from testing your independent learning skills this project gives you the opportunity to collobrate and work as a team. You will have 3 weeks to    Research,   Design and implement a website and   Prepare for the presentation.    You can accomplish all that if you collaborate and divide the work.   Your individual contributions will be assessed based on the commit history in your GitHub project repo.",
+            "title": "Collaborative Development"
+        },
+        {
+            "location": "/projects/group-project/#website",
+            "text": "Your website at a minimum should have the following   Brief introduction to the topic  References to external resources for further reading  Example code(s) and/or use case(s)  Short video tutorials (if applicable)  Limitations when applicable   Refer to  Individual Project - Website Grading Criteria  for information on how the website will be evaluated.",
+            "title": "Website"
+        },
+        {
+            "location": "/projects/group-project/#presentation",
+            "text": "This is your chance to present on the topic you have researched, and also showcase your website. You will be graded on   Effective communication of topic   Showcase an use case or example code  Answering any questions   A member from each group will be randomly chosen to make the main presentation. Other group members are more than welcome to assist when they see fit.",
+            "title": "Presentation"
+        },
+        {
+            "location": "/question-bank/",
+            "text": "The mid-term exam questions will be picked from this question bank. As part of SAGE each student will be required to post 1-2 questions that they think should be on the mid-term from that week's topic.\n\n\nI will compile and update the list every week.\n\n\nWeek 1 - Anatomy of the Web\n\n\n\n\nWhat is the difference between HTTP & HTTPS?\n\n\nWhat does URL stand for?\n\n\nWhat are the benefits of using HTTPS?\n\n\nWhat is the difference between the web and the internet?\n\n\nWhat role does DNS play in the Internet?\n\n\nWhat does status code 400 mean?\n\n\nWhat is an IP address?\n\n\nWhat is HTTP and what purpose does it serve?\n\n\nWhat is a sub-domain? What is a top-level domain (TLD)?\n\n\nWhat is hypertext?\n\n\nWhat is a web server?\n\n\n\n\nWeek 2\n\n\n\n\nWhen someone types in the address of a website into a browser, how does the browser know the right IP address to send a request to?\n\n\nWhat is the difference between an element and a tag in HTML?\n\n\nWhat are the components of HTML ? What are HTML tags?\n\n\nWhat is the difference between a tag and an element?\n\n\nWhat are the cornerstone technologies of the WWW?\n\n\nWhat does HTML stand for? and how is it different than CSS? (what do both of them do?)\n\n\nWhat is the difference between HTML and CSS?\n\n\nWhat are the different purposes of HTML, CSS and Javascript?\n\n\n\n\nWeek 3\n\n\n\n\nWhat HTML tag will produce a list with bullets but no numbers or letters?\n\n\nWhat tag is used to make links?\n\n\nWhat is the difference between external and internal links?\n\n\nWhat are the elements needed to markup a table in HTML?\n\n\nWhat is the difference between HTML and CSS?\n\n\nWhat does href stand for? How is it used?\n\n\nWhat tag do you use to insert an image? What's the purpose of the 'alt' attribute?\n\n\nWhat is an internal page anchor?\n\n\nWhat is semantic HTML?\n\n\n\n\nWeek 4\n\n\n\n\nDescribe the benefits of an external style sheet compared to an internal/embedded style sheet.\n\n\nQ: Identify the css selector, property and value in: A: p {font-family: Helvetica, \"Trebuchet MS\", Verdana, sans-serif;}\n\n\nWhat are internet cookies?\n\n\nWhat does CSS stand for, and what is the difference between an internal CSS and an external CSS.\n\n\nWhat does CSS stand for?\n\n\nWhat is a DOM tree?\n\n\n\n\nWeek 5\n\n\n\n\nWhat is the purpose of wireframing a website before designing it?\n\n\nWhat is the difference between a block and inline element? \n\n\nWhat is the first step of developing a website?\n\n\nWhat are the three types of web structures?\n\n\nWhat is the difference between a classname and an id in CSS?\n\n\n\n\nWeek 6\n\n\nWeek 7\n\n\nWeek 8",
+            "title": "Question Bank"
+        },
+        {
+            "location": "/question-bank/#week-1-anatomy-of-the-web",
+            "text": "What is the difference between HTTP & HTTPS?  What does URL stand for?  What are the benefits of using HTTPS?  What is the difference between the web and the internet?  What role does DNS play in the Internet?  What does status code 400 mean?  What is an IP address?  What is HTTP and what purpose does it serve?  What is a sub-domain? What is a top-level domain (TLD)?  What is hypertext?  What is a web server?",
+            "title": "Week 1 - Anatomy of the Web"
+        },
+        {
+            "location": "/question-bank/#week-2",
+            "text": "When someone types in the address of a website into a browser, how does the browser know the right IP address to send a request to?  What is the difference between an element and a tag in HTML?  What are the components of HTML ? What are HTML tags?  What is the difference between a tag and an element?  What are the cornerstone technologies of the WWW?  What does HTML stand for? and how is it different than CSS? (what do both of them do?)  What is the difference between HTML and CSS?  What are the different purposes of HTML, CSS and Javascript?",
+            "title": "Week 2"
+        },
+        {
+            "location": "/question-bank/#week-3",
+            "text": "What HTML tag will produce a list with bullets but no numbers or letters?  What tag is used to make links?  What is the difference between external and internal links?  What are the elements needed to markup a table in HTML?  What is the difference between HTML and CSS?  What does href stand for? How is it used?  What tag do you use to insert an image? What's the purpose of the 'alt' attribute?  What is an internal page anchor?  What is semantic HTML?",
+            "title": "Week 3"
+        },
+        {
+            "location": "/question-bank/#week-4",
+            "text": "Describe the benefits of an external style sheet compared to an internal/embedded style sheet.  Q: Identify the css selector, property and value in: A: p {font-family: Helvetica, \"Trebuchet MS\", Verdana, sans-serif;}  What are internet cookies?  What does CSS stand for, and what is the difference between an internal CSS and an external CSS.  What does CSS stand for?  What is a DOM tree?",
+            "title": "Week 4"
+        },
+        {
+            "location": "/question-bank/#week-5",
+            "text": "What is the purpose of wireframing a website before designing it?  What is the difference between a block and inline element?   What is the first step of developing a website?  What are the three types of web structures?  What is the difference between a classname and an id in CSS?",
+            "title": "Week 5"
+        },
+        {
+            "location": "/question-bank/#week-6",
+            "text": "",
+            "title": "Week 6"
+        },
+        {
+            "location": "/question-bank/#week-7",
+            "text": "",
+            "title": "Week 7"
+        },
+        {
+            "location": "/question-bank/#week-8",
+            "text": "",
+            "title": "Week 8"
+        }
+    ]
+}
