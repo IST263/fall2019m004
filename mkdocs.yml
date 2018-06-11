@@ -1,12 +1,11 @@
-site_name: IST 263, Fall 2017 - M005
+site_name: IST 263, Fall 2018 - M004
 theme: cinder
-copyright: Copyright 2017 by Avinash Kadaji
+copyright: Copyright 2017 - 2018 by Avinash Kadaji
 google_analytics:
   - UA-105238264-1
   - auto
   
 pages:
-- Home: 'index.md'
 - Syllabus: 'syllabus.md'
 - Weekly Schedule:
   - Week 1 : 'schedule/week01.md'

@@ -10,7 +10,7 @@ After this week you should be able to
 
 ---  
 
-## Monday - Course Overview 
+## Part 1.1 - Course Overview 
 
 We will go over the course syllabus. We will spend some time discussing strategies to succeed in this class. Finally, if you haven't setup your computer we will do that. 
 
@@ -20,8 +20,15 @@ We will go over the course syllabus. We will spend some time discussing strategi
 
 ---
 
+## Lab
 
-## Wednesday - Anatomy of the Web ##
+- ???
+- ???   
+
+
+---
+
+## Part 1.2 - Anatomy of the Web ##
 
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
@@ -47,4 +54,5 @@ We will go over the course syllabus. We will spend some time discussing strategi
 2. Make sure you can login to SAGE at [https://sage.syr.edu](https://sage.syr.edu)
 3. Review the class syllabus
 3. Review the [Individual Project](/projects/individual/) assignment
+4. Create your resume in MS-Word or Pages
 

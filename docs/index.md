@@ -1,48 +1,39 @@
-# Welcome to IST 263, Section M005
-Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & deadlines listed in this website are applicable only to Section M005 students.**
-
-The [group project topics](projects/group-project.md) area now posted.
-
-
-### The group project presentations will be on **Dec 4 & Dec 6, 2017**  ###
-
+# Welcome to IST 263, Section M004
+Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & deadlines listed in this website are applicable only to Section M004 students.**
 
 ---
 
-## Weekly Schedule
+## Schedule Overview
 
 
- Week # | Learning Outcomes, Readings & Homework Due
- -------------  |
-[Week 1](schedule/week01.md) | [How does the web work?](schedule/week01.md)
-[Week 2](schedule/week02.md) | [HTML](schedule/week02.md)
-[Week 3](schedule/week03.md) | [More HTML](schedule/week03.md)
-[Week 4](schedule/week04.md) | [Introduction to CSS](schedule/week04.md)
-[Week 5](schedule/week05.md) | [Web Development Lifecycle](schedule/week05.md)
-[Week 6](schedule/week06.md) | [CSS Layouts ](schedule/week06.md)
-[Week 7](schedule/week07.md) | [Guest Lecture & Responsive Design](schedule/week07.md)
-[Week 8](schedule/week08.md) | [Midterm Exam, HTML Forms](schedule/week08.md)
-[Week 9](schedule/week09.md) | [Bootstrap](schedule/week09.md)
-[Week 10](schedule/week10.md) | [JavaScript](schedule/week10.md)
-Week 11 | Javascript Basics
-Week 12 | Intro. to jQuery
-Week 13 | Thanksgiving Break - No Classes
-[Week 14](schedule/week14.md) | [More JScript, Google Charts, Guest Presentation](schedule/week14.md)
-Week 15 | Group Presentations
+ Week # | Date | Learning Outcomes, Readings & Homework Due 
+ -------------  |-------------  |   
+[Week 1](schedule/week01.md) | 08/29 | [Course Introduction & How does the web work?](schedule/week01.md)
+[Week 2](schedule/week02.md) | 09/05 | [HTML](schedule/week02.md)
+[Week 3](schedule/week03.md) | 09/12 | [More HTML](schedule/week03.md)
+[Week 4](schedule/week04.md) | 09/19 | [Introduction to CSS](schedule/week04.md)
+[Week 5](schedule/week05.md) | 09/26 | [Web Development Lifecycle](schedule/week05.md)
+[Week 6](schedule/week06.md) | 10/03 | [CSS Layouts ](schedule/week06.md)
+[Week 7](schedule/week07.md) | 10/10 | [Responsive Design](schedule/week07.md)
+[Week 8](schedule/week08.md) | 10/17 | [Midterm Exam, HTML Forms](schedule/week08.md)
+[Week 9](schedule/week09.md) | 10/24 | [Bootstrap](schedule/week09.md)
+[Week 10](schedule/week10.md) | 10/31 | [More Bootstrap](schedule/week10.md)
+Week 11 | 11/07 | CSS Pre-Processors SASS, LESS, Javascript Basics
+Week 12 | 11/14 | Individual Projects Due, Intro. to jQuery
+Week 13 | 11/21 | Thanksgiving Break - No Classes
+[Week 14](schedule/week14.md) | 11/28 | [More JScript, Google Charts](schedule/week14.md)
+Week 15 | 12/05 | Content Management Systems
+Week 16 | 12/?? | Group Presentations
 
-
-<!-- [Week 9](schedule/week09.md) | [CSS Frameworks](schedule/week09.md) -->
 
 ## Office Hours
-Hinds Hall, Room 239, Tuesday 3:00pm - 5:00pm  
-Or   
-Email me at akadajis at syr dot edu for appointments
+Hinds Hall, Room 239, TBD 
 
 
 
 ## Classroom & Meeting Times
-Hinds Hall, Room 011   
-Monday & Wednesday 12:45pm - 2:05pm
+Hinds Hall, Room 111   
+Wednesday 05:15pm - 8:00pm
 
 <!--
 ## Questions / Discussions / Contacting the Instructor

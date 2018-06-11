@@ -7,15 +7,8 @@ After this week you should be able to
 - Create, edit and view hypertext documents
 
 ---
-## Monday
 
- Labor Day, No class
-
-
----  
-
-
-## Wednesday - HTML
+## Part 2.1 - HTML
 
 #### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
@@ -27,9 +20,26 @@ After this week you should be able to
     - [Introduction](https://www.w3schools.com/html/html_intro.asp)
 
 #### Class Slides 
-- [Week 2 Slides](/slides/ist263-w2.pdf)
+- [Week 2.1 Slides](/slides/ist263-w2.pdf)
 
 ---  
+
+## Lab
+
+- Create first HTML page
+- Submit via GitHub
+
+---
+
+## Part 2.2 - More HTML, Docker & Git Review
+
+- More Activity
+    - Create an 'About Me' page
+    - Create a page 'My Classes' 
+        - List all classes you are currently taking
+        - Add Instructor information
+---
+
 
 ## Homework due this week, Points Worth - 1.00 ##
 

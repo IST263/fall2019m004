@@ -5,64 +5,6 @@ I will compile and update the list every week.
 
 ## Week 1 - Anatomy of the Web
 
-- What is the difference between HTTP & HTTPS?
-- What does URL stand for?
-- What are the benefits of using HTTPS?
-- What is the difference between the web and the internet?
-- What role does DNS play in the Internet?
-- What does status code 400 mean?
-- What is an IP address?
-- What is HTTP and what purpose does it serve?
-- What is a sub-domain? What is a top-level domain (TLD)?
-- What is hypertext?
-- What is a web server?
+- Your questions will be added here  
 
 ## Week 2
-
-- When someone types in the address of a website into a browser, how does the browser know the right IP address to send a request to?
-- What is the difference between an element and a tag in HTML?
-- What are the components of HTML ? What are HTML tags?
-- What is the difference between a tag and an element?
-- What are the cornerstone technologies of the WWW?
-- What does HTML stand for? and how is it different than CSS? (what do both of them do?)
-- What is the difference between HTML and CSS?
-- What are the different purposes of HTML, CSS and Javascript?
-
-
-## Week 3  
-
-- What HTML tag will produce a list with bullets but no numbers or letters?
-- What tag is used to make links?
-- What is the difference between external and internal links?
-- What are the elements needed to markup a table in HTML?
-- What is the difference between HTML and CSS?
-- What does href stand for? How is it used?
-- What tag do you use to insert an image? What's the purpose of the 'alt' attribute?
-- What is an internal page anchor?
-- What is semantic HTML?
-
-
-## Week 4
-
-- Describe the benefits of an external style sheet compared to an internal/embedded style sheet.
-- Q: Identify the css selector, property and value in: A: p {font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;}
-- What are internet cookies?
-- What does CSS stand for, and what is the difference between an internal CSS and an external CSS.
-- What does CSS stand for?
-- What is a DOM tree?
-
-
-## Week 5
-
-- What is the purpose of wireframing a website before designing it?
-- What is the difference between a block and inline element? 
-- What is the first step of developing a website?
-- What are the three types of web structures?
-- What is the difference between a classname and an id in CSS?
-
-
-## Week 6
-
-## Week 7
-
-## Week 8
