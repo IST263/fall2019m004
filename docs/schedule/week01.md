@@ -10,40 +10,39 @@ After this week you should be able to
 
 ---  
 
-## Part 1.1 - Course Overview 
+## Pre-Class Reading
+
+- <a href="https://launchschool.com/books/http/read/background" target="_blank">Background of the web</a>
+
+
+## Class Slides
+
+#### Part 1.1 - Course Overview 
 
 We will go over the course syllabus. We will spend some time discussing strategies to succeed in this class. Finally, if you haven't setup your computer we will do that. 
 
-#### Class Slides 
-
 - [Week 1.1 Slides](/slides/ist263-w1-1.pdf)
 
----
 
-## Lab
+#### Group Activity / Lab
 
-- ???
-- ???   
+- Identify 2 habits of successful students
+- Identify 2 habits of effective instructors
+- Identify 2 habits of un-successful students
+- Identify 2 habits of un-effective instructors
 
 
----
+#### Part 1.2 - Anatomy of the Web ##
 
-## Part 1.2 - Anatomy of the Web ##
-
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
-
-- Pre-Class
-    - <a href="https://launchschool.com/books/http/read/background" target="_blank">Background of the web</a>
-- Post-Class
-    - <a href="https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm" target="_blank">Web - Basic Concepts</a>
-    - <a target="_blank" href="https://www.tutorialspoint.com/web_developers_guide/web_how_it_works.htm">How does the web work?</a>
-    - <a target="_blank" href="https://www.youtube.com/watch?v=scWj1BMRHUA">Video - The Web is not the Net</a>
-
-#### Class Slides 
 - [Week 1.2 Slides](/slides/ist263-w1-2.pdf)
 
----  
 
+## Post-Class
+- <a href="https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm" target="_blank">Web - Basic Concepts</a>
+- <a target="_blank" href="https://www.tutorialspoint.com/web_developers_guide/web_how_it_works.htm">How does the web work?</a>
+- <a target="_blank" href="https://www.youtube.com/watch?v=scWj1BMRHUA">Video - The Web is not the Net</a>
+
+---  
 
 ## Homework due this week ###
 

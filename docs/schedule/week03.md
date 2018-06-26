@@ -1,4 +1,4 @@
-# Week 3 
+# Week 3, More HTML 
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
@@ -8,44 +8,35 @@ After this week you should be able to
 
 ---  
 
+## Pre-Class Reading
 
-## Monday - More HTML 
+- [Marking up a letter](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter)
+- [HTML Overview](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
-- Pre-Class
-    - [HTML Overview](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+## Class Slides 
 
-- Post-Class    
-    - [HTML Tags](https://www.w3schools.com/tags/default.asp). Pick any 5 tags from the list and learn more about them.
-    - [HTML Tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-    - [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp)
-
-#### Class Slides 
+#### Part 3.1  
 
 - [Week 3.1 Slides](/slides/ist263-w3-1.pdf)
 
 
-### Homework Due next class  
+#### Group Activity / Lab
 
+- 3 students will be randomly chosen to present on a HTML tag
 
-5 students will be randomly chosen to present on a HTML tag
-
-
----  
-## Wednesday - HTML Hands-on Exercises
-
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
-
-- Pre-Class  
-    - [Marking up a letter](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter)
-
-- Post-Class
-    -  Review past reading materials, and class notes
-
-#### Class Slides 
+#### Part 3.2 More Coding Exercises
 
 - [Week 3.2 Slides](/slides/ist263-w3-2.pdf)
+
+#### Group Activity / Lab
+
+- Markup Letter with HTML
+
+## Post-Class Reading
+- [HTML Tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp)
+
 
 ---   
 

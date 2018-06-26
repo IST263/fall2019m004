@@ -18,10 +18,10 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 [Week 8](schedule/week08.md) | 10/17 | [Midterm Exam, HTML Forms](schedule/week08.md)
 [Week 9](schedule/week09.md) | 10/24 | [Bootstrap](schedule/week09.md)
 [Week 10](schedule/week10.md) | 10/31 | [More Bootstrap](schedule/week10.md)
-Week 11 | 11/07 | CSS Pre-Processors SASS, LESS, Javascript Basics
-Week 12 | 11/14 | Individual Projects Due, Intro. to jQuery
+Week 11 | 11/07 | Web Accessibility Guidelines, CSS Pre-Processors
+Week 12 | 11/14 | Individual Projects Due, SASS, LESS 
 Week 13 | 11/21 | Thanksgiving Break - No Classes
-[Week 14](schedule/week14.md) | 11/28 | [More JScript, Google Charts](schedule/week14.md)
+[Week 14](schedule/week14.md) | 11/28 | [Javascript Basics, Intro. to jQuery](schedule/week14.md)
 Week 15 | 12/05 | Content Management Systems
 Week 16 | 12/?? | Group Presentations
 

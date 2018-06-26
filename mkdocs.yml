@@ -6,6 +6,7 @@ google_analytics:
   - auto
   
 pages:
+- Home: 'index.md'
 - Syllabus: 'syllabus.md'
 - Weekly Schedule:
   - Week 1 : 'schedule/week01.md'

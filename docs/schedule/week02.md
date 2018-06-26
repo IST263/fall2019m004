@@ -1,44 +1,46 @@
-# Week 2
+# Week 2, HTML
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
 - Describe HTML
-- Create, edit and view hypertext documents
+- Use basic HTML tags to create, edit hypertext documents
+- Use Git to submit your work
 
 ---
 
-## Part 2.1 - HTML
+## Pre-Class Reading
+- [HTML Background](http://ryanstutorials.net/html-tutorial/html-background.php)
 
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
 
-- Pre-Class
-    - [HTML Background](http://ryanstutorials.net/html-tutorial/html-background.php)
 
-- Post-Class
-    - [HTML5](https://www.w3schools.com/html/)
-    - [Introduction](https://www.w3schools.com/html/html_intro.asp)
+## Class Slides 
 
-#### Class Slides 
+#### Part 2.1 - HTML
+
 - [Week 2.1 Slides](/slides/ist263-w2.pdf)
 
----  
-
-## Lab
+#### Group Activity / Lab
 
 - Create first HTML page
 - Submit via GitHub
 
----
-
-## Part 2.2 - More HTML, Docker & Git Review
+#### Part 2.2 - More HTML, Docker & Git Review
 
 - More Activity
     - Create an 'About Me' page
     - Create a page 'My Classes' 
         - List all classes you are currently taking
         - Add Instructor information
----
+
+
+## Post-Class  
+
+- [HTML Tags](https://www.w3schools.com/tags/default.asp). Pick any 5 tags from the list and learn more about them.
+- [HTML5](https://www.w3schools.com/html/)
+- [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
+
+---  
 
 
 ## Homework due this week, Points Worth - 1.00 ##
