@@ -49,6 +49,7 @@ After this week you should be able to
 3. Create your resume in MS Word or as a PDF.
     - Copy it into the homework folder in Week 02 
 3. [Commit to git and Push to GitHub](/submit-howto/#submittingcommitting-your-homework)
+4. Get ready for next week's presentation
 
 
 

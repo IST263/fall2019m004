@@ -10,8 +10,8 @@ After this week you should be able to
 
 ## Pre-Class Reading
 
+- [HTML Tags](https://www.w3schools.com/tags/default.asp). Pick any 5 tags from the list and learn more about them.
 - [Marking up a letter](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter)
-- [HTML Overview](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 
 ## Class Slides 
@@ -31,7 +31,7 @@ After this week you should be able to
 
 #### Group Activity / Lab
 
-- Markup Letter with HTML
+- Markup Letter with HTML ??Write Instructions
 
 ## Post-Class Reading
 - [HTML Tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
