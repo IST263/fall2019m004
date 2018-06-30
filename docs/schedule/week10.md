@@ -1,38 +1,38 @@
-# Week 10
+# Week 10, HTML Forms
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
-- Describe how Javascript can be used to make the web page interactive
-
----  
-## Monday -  Intro. to Javascript 
-
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
-
-- Pre-Class  
-    - [JS Overview](http://www.afterhoursprogramming.com/tutorial/JavaScript/Overview/)  
-        
-- Post-Class  
-    - [DOM Events List](https://www.w3schools.com/jsref/dom_obj_event.asp)
-    - [JS Introduction](http://www.afterhoursprogramming.com/tutorial/JavaScript/Introduction/)  
+- Describe how HTML forms work
+- Know when to use GET or POST
 
 
-#### Class Slides 
+## Pre-Class Reading
+- [Getting Started with Forms](https://www.w3schools.com/html/html_forms.asp)
 
+## Class Slides
+
+#### Part 10.1 - HTML Forms
 - [Week 10.1 Slides](/slides/ist263-w10-1.pdf)
 
----  
-## Wednesday -  Indv. Project Troubleshooting  
+#### Group Activity / Lab
+- Create user registration form
+- HTML5 form fields
 
-We will dedicate class to help troubleshoot your project.
+#### Part 10.2 - GET or POST 
+- [Week 10.2 Slides](/slides/ist263-w10-2.pdf)
 
+
+#### Group Activity / Lab
+- Handle user registration
+- File Uploads
+
+## Post-Class Reading
+- [MDN, Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
 
 ---  
 
 ## Homework due this week ###
-1. **Individual project is due in GitHub by midnight Saturday**
+1. Work on your individual project, commit update to GitHub
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class
-
-

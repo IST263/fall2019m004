@@ -42,4 +42,5 @@ After this week you should be able to
 1. Implement one of the 2 templates that you can find in `week-06/Wednesday/` as HTML files
 4. Commit homework to GitHub
 5. Complete SAGE survey (you will receive an email when the window opens)
+1. Get ready for the exam
 6. Do the pre-class reading for next class

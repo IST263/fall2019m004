@@ -1,41 +1,45 @@
-# Week 8
+# Week 8, Boostrap Content & Layout
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
-- Use HTML Forms
-- Start to use Bootstrap CSS Components
+- Use Bootstrap to format content
+- Create simple layouts with Bootstrap
 
----  
-## Monday -  Midterm Exam & HTML Forms
 
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
+## Pre-Class Reading
+- [Getting Started with Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+- [W3Schools Tutorial](https://www.w3schools.com/bootstrap4/)
 
-- Pre-Class
-    - [HTML Forms, Introduction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
+## Class Slides
 
-- Post-Class
-    - [HTML5 Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/HTML5_updates)
+#### Part 8.1 - Bootstrap Content
+- [Week 8.1 Slides](/slides/ist263-w8-2.pdf)
 
-#### Class Slides 
-- [Week 8.1 Slides](/slides/ist263-w8-1.pdf)
-
----  
-<!-- 
-## Wednesday - Bootstrap (BS)
-
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
-
-- Pre-Class
-    - [BS, Get Started](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
-
-- Post-Class
-    - [BS, Jumbotron](https://www.w3schools.com/bootstrap/bootstrap_jumbotron_header.asp)
-    - [BS, Starter Samples]([Week 8](schedule/week08.md) | [Midterm Exam, HTML Forms](schedule/week08.md))
+#### Group Activity / Lab
+- Complete the webpage in lab/lab1.html
+- Define questions to add classes to do
+    - bold,
+    - alignment
+    - colors
+    - box border
+    - lists
     
-#### Class Slides 
+#### Part 8.2 - Bootstrap Layout
 - [Week 8.2 Slides](/slides/ist263-w8-2.pdf)
--->
+
+
+#### Group Activity / Lab
+- Complete the webpage in lab/lab2.html
+- Define questions to add classes to do
+    - different grids
+    - vertical align
+    - responsive
+
+## Post-Class Reading
+- [Bootstrap Typography](https://getbootstrap.com/docs/4.1/content/typography/)
+- [Bootstrap Text](https://getbootstrap.com/docs/4.1/utilities/text/)
+- [Boostrap Colors](https://getbootstrap.com/docs/4.1/utilities/colors/)
 
 ---  
 
