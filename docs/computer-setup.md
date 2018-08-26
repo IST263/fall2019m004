@@ -57,7 +57,7 @@ This final step will walk you through downloading the class folder aka `repo` fr
 
 ** These first 5 steps will create your course folder/repo on GitHub **
 
-1. Click the link [POST LINK HERE] to get started.
+1. Click the link [https://classroom.github.com/a/NEH56j6G](https://classroom.github.com/a/NEH56j6G) to get started.
 
 2. You will be asked to signin with your GitHub username and password if you are not signed in. 
 
