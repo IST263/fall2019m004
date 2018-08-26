@@ -3,6 +3,14 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 
 ---
 
+## First Steps  ##
+
+
+- [Review Syllabus](./syllabus)
+- [Get your computer ready](./computer-setup)
+
+---  
+
 ## Schedule Overview
 
 
