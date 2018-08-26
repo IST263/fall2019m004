@@ -56,7 +56,7 @@ I have setup a custom notification to email me and you (the person submitting th
 ---  
 
 ## Pulling homework feedback & points
-    The instructor has cloned every student's course folder on his workstation as well. That allows him to view and evaluate your committed work. After the homework is evaluated he will add notes/comments to your file(s) and assign the homework points. 
+    I have cloned every student's course folder on my workstation. This allows me to review and comment on your work. After the homework is evaluated I will add notes/comments to your file(s) and assign the homework points. 
 
 Follow these steps to pull the homework points & feedback
 

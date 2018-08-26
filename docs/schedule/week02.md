@@ -25,14 +25,10 @@ After this week you should be able to
 - Create first HTML page
 - Submit via GitHub
 
-#### Part 2.2 - More HTML, Docker & Git Review
+#### Part 2.2 - More HTML, Git Review
 
+- More HTML
 - More Activity
-    - Create an 'About Me' page
-    - Create a page 'My Classes' 
-        - List all classes you are currently taking
-        - Add Instructor information
-
 
 ## Post-Class  
 
@@ -43,11 +39,10 @@ After this week you should be able to
 ---  
 
 
-## Homework due this week, Points Worth - 1.00 ##
+## Homework due this week ##
 
 2. List the new terminologies you learnt this week, see in your course folder under `week-02/homework`
-3. Create your resume in MS Word or as a PDF.
-    - Copy it into the homework folder in Week 02 
+3. Markup your resume in HTML
 3. [Commit to git and Push to GitHub](/submit-howto/#submittingcommitting-your-homework)
 4. Get ready for next week's presentation
 

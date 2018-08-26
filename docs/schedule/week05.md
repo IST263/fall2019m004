@@ -1,4 +1,4 @@
-# Week 5, Site & Page Layout
+# Week 5, Web Dev Life-cycle
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
@@ -17,11 +17,11 @@ After this week you should be able to
 
 
 
-#### Part 5.2 Web Page Layout
+#### Part 5.2 CSS Selectors <!-- Web Page Layout -->
 - [Week 5.2 Slides](/slides/ist263-w5-2.pdf)
 
 #### Group Activity / Lab
-- Implement wireframes (use placeholder.it)
+- Checkout the readme file in the `week-05/labs` folder
 
 
 ## Post-Class Reading
@@ -31,12 +31,10 @@ After this week you should be able to
 - [awwwards.com](http://awwwards.com)
 - [dribbble.com](http://dribbble.com)
 
-    <!-- - [CSS Layouts](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout) -->
-
 
 ---  
 
 ## Homework due this week ###
-1. Look through the samples in the your course folder to understand 'float'
+1. Create wireframes for your individual project
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class

@@ -7,7 +7,6 @@ google_analytics:
   
 pages:
 - Home: 'index.md'
-- Syllabus: 'syllabus.md'
 - Weekly Schedule:
   - Week 1 : 'schedule/week01.md'
   - Week 2 : 'schedule/week02.md'
@@ -21,10 +20,10 @@ pages:
   - Week 10 : 'schedule/week10.md'
   - Week 11 : 'schedule/week11.md'   
   - Week 14 : 'schedule/week14.md'       
-- FAQ:
+- About: 
+  - Syllabus: 'syllabus.md'
   - Getting your Computer Ready: 'computer-setup.md'
   - Submit Homework & Pull Feedback: 'submit-howto.md'
-- Projects:
   - Individual Project: 'projects/individual.md'
-  - Group Project: 'projects/group-project.md'
 - Question Bank: 'question-bank.md'
+

@@ -44,25 +44,20 @@ Follow these steps to configure your computer
 
 2. Installing GitHub Desktop Client
     - Go to <a href="https://desktop.github.com" target="_blank">desktop.github.com</a>
-    - Download the program installer for your version of the OS. 
+    - Download the program installer appropriate for your version of the OS. 
     - Once the download is complete, launch it and follow the steps to install it
-    - After it is installed click on 'Sign into GitHub' and enter you GitHub username and password that you created in Step 1
+    - After it is installed, launch it and click on 'Sign into GitHub' and enter you GitHub username and password that you created in Step 1
     - In the 'Configure Git' screen enter your Name and Email and click 'Continue'
     - Click 'Finish' to complete GitHub & Git installation
 
-3. You need now login into the GitHub Desktop client.
-    - Launch GitHub client
-    - Under the 'File' menu click on 'Options'
-    - Click 'Sign in'
 
+## 3. Setup Class Folder aka Repo ***on GitHub***
 
-## 3. Setup Class Folder aka Repo on GitHub
-
-This final step will walk you through downloading the class folder/repo from GitHub.     
+This final step will walk you through downloading the class folder aka `repo` from GitHub.     
 
 ** These first 5 steps will create your course folder/repo on GitHub **
 
-1. Click the link [https://goo.gl/d7Ke5i](https://goo.gl/d7Ke5i) to get started.
+1. Click the link [POST LINK HERE] to get started.
 
 2. You will be asked to signin with your GitHub username and password if you are not signed in. 
 
@@ -78,7 +73,7 @@ This final step will walk you through downloading the class folder/repo from Git
 6. Copy the Repo URL
 ![Alt](/images/github-accept-assignment-part6.png "GitHub Project Accept Page 6")
 
-## 4. Setup or Cloning Class Folder on your laptop
+## 4. Setup or Cloning Class Folder ***on your laptop***
 ** These final steps will walk you through downloading the course folder from GitHub onto your computer **
 
 1. Launch the Github Client that you have installed on your computer

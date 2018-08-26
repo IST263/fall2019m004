@@ -38,7 +38,7 @@ After this week you should be able to
     
 --- 
 
-## Homework due this week, Points worth 5 ###
+## Homework due this week ###
 1. Copy the resume you created last week into `Week-04/homework`
 2. Style your resume with CSS using an external CSS file
 3. Use a Google font

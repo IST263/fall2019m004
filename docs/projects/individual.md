@@ -1,12 +1,12 @@
 
-# Individual Project - Due Week 10
+# Individual Project - Due before Midnight 11/14/2018
 
 This assignment is intended to demonstrate your level of mastery of the course material. You will have a total of 10 weeks to complete the project with deliverables that are due almost every week. Refer to the [Meeting Milestones](#meeting-milestones) section for details.
 
 
 ### What is the individual project? ###
 
-Your goal is to design and develop a website for a topic of interest to you. The website needs to have a minimum of 6 pages with atleast 3 different layouts. An ideal topic will have the following qualities
+Your goal is to design and develop a website on a topic that interests you. The website needs to have a minimum of 6 pages with atleast 3 different layouts. An ideal topic will have the following qualities
 
 - Content on the topic is readily available
 - Easy to find images, video and other multimedia resources
@@ -22,11 +22,11 @@ This project has a total point value of 35. This is divided as follows
 
  &nbsp; | Criteria | Max. Points 
 ------------ | -------------  |
-1 | Meeting milestones (tracked via GitHub) | 8   
+1 | Meeting milestones (tracked via GitHub) | 5   
 2 | Wireframes | 5
 3 | Resource & Code Organization | 10
-4 | Final Website | 10   
-5 | Demo/Review with Instructor | 2   
+4 | Final Website | 15   
+5 | Demo/Review with Instructor | 5   
 
 More information on each of the above criteria is below.
 
@@ -41,9 +41,9 @@ This project is intended to be completed in weekly sprints/chunks. You are expec
 Week 2 - 3 | Come up with a website topic | Submit half page project proposal
 Week 3 - 5 | Research and collect website content and graphic media (images, video, etc.) | You can collect the content in a MS. Word doc or text file. If you are using copyrighted images and/or video make sure you cite them accordingly.
 Week 4 - 6 | Create, Submit and Revise Wireframes | Wireframes 
-Week 5 - 10 | Implement/Code the website | Website
+Week 6 - 12 | Implement/Code/Revise the website | Website
 
-Not meeting milestones will seriously jeopradize your chances of completely the project in the desired timeline. It will also cost you points. 
+Not meeting milestones will seriously jeopradize your chances to complete the project in the desired timeline. It will also cost you points. 
 
 ### Wireframes ###
 
@@ -59,8 +59,6 @@ Here we look at your coding practices. Good code and resource organization makes
 - Well organized CSS 
 - Well organized HTML
 
-Each criteria is worth 2 points each.
-
 ### Final Website ###
 We will be looking at the following in your final website.
 
@@ -74,4 +72,4 @@ We will be looking at the following in your final website.
 
 This is your chance to meet with the instructor one-on-one to discuss and review your website. You are encouraged to use this opportunity to highlight any specific part of the process and/or the website. 
 
-Your **project grade will be assigned** during this meeting.
+This is a good chance to discuss the process, and highlight any specific modules.

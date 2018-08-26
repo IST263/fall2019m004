@@ -1,10 +1,14 @@
+# Syllabus
+----  
+
+
 ## Course Objectives 
 In this course will be explore the principles for construction and publication of multimedia documents for the World Wide Web. We will incorporate a user-based approach to planning, design, implementation, and management in distributed network environments, with an entrepreneurial focus.
 
 
 ## Classroom & Meeting Times
-Hinds Hall, Room 011   
-Monday & Wednesday 12:45pm - 2:05pm
+Hinds Hall, Room 111 
+Wednesday 5:15pm - 8:00pm
 
 
 ## Learning Outcomes
@@ -20,17 +24,7 @@ After successfully completing this course you will be able to
 ## Course Schedule  
 
 
- Week # | Topic Covered
- -------------  |
-1 - 2 | Anatomy of the Web
-2 - 3 | HTML Basics
-3 - 4 | CSS Basics
-4 - 7 | Wireframes, Layout & Frameworks
-8 | Midterm Exam
-8 - 11 | Frameworks, Javascript, jQuery
-10 | Individual Project Due
-11 - 13 | Advanced Topics
-14 | Group Presentations
+[See schedule listed on front page](/#schedule-overview)
 
 ## Textbook
 Readings in this course will be assigned from a variety of sources including textbooks,
@@ -45,40 +39,34 @@ Because there are several course objectives I will assess your performance on se
 
 &nbsp; | BB Code | Total Points
  -------------  | | 
-Class / Forum Participation | CPP + CPP Lost | 10
+Midterm Exam | MTE | 20
+[Individual Project](projects/individual/) | INDVPRJ | 40
 Weekly Assignments | W* | 20 
-Midterm Exam | MTE | 15
-[Individual Project](projects/individual/) | INDVPRJ | 35
-[Final Group Project](projects/group-project/) | GRPPRJ | 20  
+Class Contribution | CC | 20
+SAGE | SG | 0
 | | 100
-
-
-### Class / Forum Participation
-You will be asked to summarize topics in class on a regular basis. That combined with
-thoughtful questions and responses in class and in the digital forum will count towards
-participation points.
 
 
 ### Midterm Exam
 This will be a closed book exam. This is used to evaluate your recall and understanding
 of course material, as well as your ability to apply it to new situations.
 
+
+### Individual Project
+This project will be due around week 12 and will be a culmination of everything learnt
+from week 1 - 11. You will be required to work parts of it each week starting week 1.
+
+
 ### Weekly Assignments
 Most weeks you will have some form of assignment. It could be summarizing some
 reading material, and/or writing HTML/CSS/Javascript.  
 - Each assignment will be weighted differently.  
-- All weekly assignments are due by midnight (EST) Saturday of the week they are assigned.  
+- All weekly assignments are due by midnight (EST) Sunday of the week they are assigned.  
 - Assignments should be submitted via Git. Anything emailed or sent via Blackboard will receive a zero.  
 
-### Individual Project
-This project will be due around week 10 and will be a culmination of everything learnt
-from week 1 - 10. You will be required to work parts of it each week starting week 1.
 
-
-### Final / Group Project
-You are encouraged to work in groups (up to 3) to complete the final project. Each
-group will be required to give one 10 minute presentation on an advanced topic along
-with creating a one HTML page overview. Details will be discussed in class.
+### Class Contribution
+These 20 points are there to motivate you to do more than just come to class. Asking questions, responding to other people's questions, insightful thoughts, etc all add up to class contibution. 
 
 
 ### SAGE - Self Assessment
@@ -89,6 +77,7 @@ others in the class My hope is that this will help you by continuously reminding
 the actions that make for success.  
 NOTE: NONE of the information submitted in these reports will be used in the
 determination of your grade - so be honest with yourself and me.
+
 
 ### Final Grade Calculation  
 
@@ -141,17 +130,10 @@ provided.
 This course will use GitHub Classroom https://classroom.github.com/ for exchanging
 source code.
 
-Gitter (https://gitter.im/IST-263-M005) will serve as the course forum/message board/
-collaboration space. Both are free services. Registered students will receive an
-invitation to join within the first week of class.
 
 ### Integrated Development Environment (IDE)
 This course will require the use of an IDE. Based on your notebook operating system
-select one from the list below.
-
-Mac | Windows
--------------  |
-Coda (Free Version) or VS Code | Notepad++ or VS Code
+select one from the list below. Visit the [instructions and setup page] (about/computer-setup.md) to learn more.
 
 ## A Strategy for Success
 - Do the assigned reading for the week before the week begins  

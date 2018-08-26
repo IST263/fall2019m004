@@ -47,11 +47,10 @@ We will go over the course syllabus. We will spend some time discussing strategi
 ## Homework due this week ###
 
 1. If you haven't already done it - get your computer ready for class.
-    - [Install an IDE](/computer-setup/#integrated-development-environment-ide)
+    - [Install the IDE](/computer-setup/#integrated-development-environment-ide)
     - [Install & Configure git & gitHub](/computer-setup/#git-github)
     - Sign into class discussion forum on [Gitter](https://gitter.im/iSchool-Syracuse-IST-263/F17-M005)
 2. Make sure you can login to SAGE at [https://sage.syr.edu](https://sage.syr.edu)
 3. Review the class syllabus
 3. Review the [Individual Project](/projects/individual/) assignment
-4. Create your resume in MS-Word or Pages
 
