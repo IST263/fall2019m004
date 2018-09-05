@@ -5,6 +5,12 @@ I will compile and update the list every week.
 
 ## Week 1 - Anatomy of the Web
 
-- Your questions will be added here  
+- Define the terms internet, the web. 
+- Explain the difference between the internet and the web.  
+- Explain the purpose of the browser
+- What is the difference between: "http" & "https" ?
+- What is W3C? and what purpose does it serve?
+- What is the difference between back-end programming and front-end programming?
 
-## Week 2
+
+## Week 2 - HTML
