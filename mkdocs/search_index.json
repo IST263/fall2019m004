@@ -907,12 +907,12 @@
         },
         {
             "location": "/question-bank/",
-            "text": "The mid-term exam questions will be picked from this question bank. As part of SAGE each student will be required to post 1-2 questions that they think should be on the mid-term from that week's topic.\n\n\nI will compile and update the list every week.\n\n\nWeek 1 - Anatomy of the Web\n\n\n\n\nDefine the terms internet, the web. \n\n\nExplain the difference between the internet and the web.  \n\n\nWhat is the difference between: \"http\" & \"https\" ?\n\n\nWhat does W3C do?\n\n\nWhat is the difference between back-end programming and front-end programming?\n\n\n\n\nWeek 2 - HTML",
+            "text": "The mid-term exam questions will be picked from this question bank. As part of SAGE each student will be required to post 1-2 questions that they think should be on the mid-term from that week's topic.\n\n\nI will compile and update the list every week.\n\n\nWeek 1 - Anatomy of the Web\n\n\n\n\nDefine the terms internet, the web. \n\n\nExplain the difference between the internet and the web.  \n\n\nExplain the purpose of the browser\n\n\nWhat is the difference between: \"http\" & \"https\" ?\n\n\nWhat is W3C? and what purpose does it serve?\n\n\nWhat is the difference between back-end programming and front-end programming?\n\n\n\n\nWeek 2 - HTML",
             "title": "Question Bank"
         },
         {
             "location": "/question-bank/#week-1-anatomy-of-the-web",
-            "text": "Define the terms internet, the web.   Explain the difference between the internet and the web.    What is the difference between: \"http\" & \"https\" ?  What does W3C do?  What is the difference between back-end programming and front-end programming?",
+            "text": "Define the terms internet, the web.   Explain the difference between the internet and the web.    Explain the purpose of the browser  What is the difference between: \"http\" & \"https\" ?  What is W3C? and what purpose does it serve?  What is the difference between back-end programming and front-end programming?",
             "title": "Week 1 - Anatomy of the Web"
         },
         {
