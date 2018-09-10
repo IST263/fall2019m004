@@ -14,3 +14,11 @@ I will compile and update the list every week.
 
 
 ## Week 2 - HTML
+
+- What are the components of an HTML page?
+- What are the differences between HTML, CSS, and JavaScript?
+- What is the purpose of HTML?
+- What elements should a basic HTML page consist of?
+- What is the purpose of the head, and body tags?
+- Give an example of a tag, element, attribute
+- What does an HMTL element consist of?
