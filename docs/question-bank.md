@@ -22,3 +22,11 @@ I will compile and update the list every week.
 - What is the purpose of the head, and body tags?
 - Give an example of a tag, element, attribute
 - What does an HMTL element consist of?
+
+## Week 3 - More HTML
+
+- Give an example each of how to use ./ and ../ 
+- What is a web crawler? Why are they important
+- What is the main difference between an absolute and relative path?
+- What is SEO?
+- What is the difference between an ordered and unordered list?
