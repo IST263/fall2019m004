@@ -907,7 +907,7 @@
         },
         {
             "location": "/question-bank/",
-            "text": "The mid-term exam questions will be picked from this question bank. As part of SAGE each student will be required to post 1-2 questions that they think should be on the mid-term from that week's topic.\n\n\nI will compile and update the list every week.\n\n\nWeek 1 - Anatomy of the Web\n\n\n\n\nDefine the terms internet, the web. \n\n\nExplain the difference between the internet and the web.  \n\n\nExplain the purpose of the browser\n\n\nWhat is the difference between: \"http\" & \"https\" ?\n\n\nWhat is W3C? and what purpose does it serve?\n\n\nWhat is the difference between back-end programming and front-end programming?\n\n\n\n\nWeek 2 - HTML\n\n\n\n\nWhat are the components of an HTML page?\n\n\nWhat are the differences between HTML, CSS, and JavaScript?\n\n\nWhat is the purpose of HTML?\n\n\nWhat elements should a basic HTML page consist of?\n\n\nWhat is the purpose of the head, and body tags?\n\n\nGive an example of a tag, element, attribute\n\n\nWhat does an HMTL element consist of?",
+            "text": "The mid-term exam questions will be picked from this question bank. As part of SAGE each student will be required to post 1-2 questions that they think should be on the mid-term from that week's topic.\n\n\nI will compile and update the list every week.\n\n\nWeek 1 - Anatomy of the Web\n\n\n\n\nDefine the terms internet, the web. \n\n\nExplain the difference between the internet and the web.  \n\n\nExplain the purpose of the browser\n\n\nWhat is the difference between: \"http\" & \"https\" ?\n\n\nWhat is W3C? and what purpose does it serve?\n\n\nWhat is the difference between back-end programming and front-end programming?\n\n\n\n\nWeek 2 - HTML\n\n\n\n\nWhat are the components of an HTML page?\n\n\nWhat are the differences between HTML, CSS, and JavaScript?\n\n\nWhat is the purpose of HTML?\n\n\nWhat elements should a basic HTML page consist of?\n\n\nWhat is the purpose of the head, and body tags?\n\n\nGive an example of a tag, element, attribute\n\n\nWhat does an HMTL element consist of?\n\n\n\n\nWeek 3 - More HTML\n\n\n\n\nGive an example each of how to use ./ and ../ \n\n\nWhat is a web crawler? Why are they important\n\n\nWhat is the main difference between an absolute and relative path?\n\n\nWhat is SEO?\n\n\nWhat is the difference between an ordered and unordered list?",
             "title": "Question Bank"
         },
         {
@@ -919,6 +919,11 @@
             "location": "/question-bank/#week-2-html",
             "text": "What are the components of an HTML page?  What are the differences between HTML, CSS, and JavaScript?  What is the purpose of HTML?  What elements should a basic HTML page consist of?  What is the purpose of the head, and body tags?  Give an example of a tag, element, attribute  What does an HMTL element consist of?",
             "title": "Week 2 - HTML"
+        },
+        {
+            "location": "/question-bank/#week-3-more-html",
+            "text": "Give an example each of how to use ./ and ../   What is a web crawler? Why are they important  What is the main difference between an absolute and relative path?  What is SEO?  What is the difference between an ordered and unordered list?",
+            "title": "Week 3 - More HTML"
         }
     ]
 }
