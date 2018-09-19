@@ -187,7 +187,7 @@
         },
         {
             "location": "/schedule/week04/",
-            "text": "Week 4, CSS\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nDescribe CSS\n\n\nWrite CSS to style hypertext documents\n\n\nUse Chrome Developer console\n\n\n\n\n\n\nPre-Class Reading\n\n\n\n\nCSS Introduction\n\n\nSelectors\n\n\n\n\nClass Slides\n\n\nPart 4.1 CSS Introduction\n\n\n\n\nWeek 4.1 Slides\n\n\n\n\nGroup Activty / Lab\n\n\n\n\nLook through given lab file and answer questions\n\n\n\n\nPart 4.2 More CSS\n\n\n\n\nWeek 4.2 Slides\n\n\n\n\nGroup Activty / Lab\n\n\n\n\nFormat the letter from last week\n\n\n\n\nPost-Class Reading\n\n\n\n\nCSS Tutorial on MDN\n\n\nHow CSS works\n\n\nWeb Fonts\n\n\nBox Model\n. Look through the sample files and experiment with CSS short-hand    \n\n\n\n\n\n\nHomework due this week\n\n\n\n\nCopy the resume you created last week into \nWeek-04/homework\n\n\nStyle your resume with CSS using an external CSS file\n\n\nUse a Google font\n\n\nMake the resume colorful, use a color scheme from coolors. Get creative\n\n\nCommit homework to GitHub.\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class",
+            "text": "Week 4, CSS\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nDescribe CSS\n\n\nWrite CSS to style hypertext documents\n\n\nUse Chrome Developer console\n\n\n\n\n\n\nPre-Class Reading\n\n\n\n\nCSS Introduction\n\n\nSelectors\n\n\n\n\nClass Slides\n\n\nPart 4.1 CSS Introduction\n\n\n\n\nWeek 4.1 Slides\n\n\n\n\nGroup Activty / Lab\n\n\n\n\nLook through given lab file and answer questions\n\n\n\n\nPart 4.2 More CSS\n\n\n\n\nWeek 4.2 Slides\n\n\n\n\nGroup Activty / Lab\n\n\n\n\nFormat the letter from last week\n\n\n\n\nPost-Class Reading\n\n\n\n\nCSS Tutorial on MDN\n\n\nHow CSS works\n\n\nWeb Fonts\n\n\nBox Model\n. Look through the sample files and experiment with CSS short-hand    \n\n\nCSS Reference\n\n\n\n\n\n\nHomework due this week\n\n\n\n\nCopy the resume you created last week into \nWeek-04/homework\n\n\nStyle your resume with CSS using an external CSS file\n\n\nUse a Google font\n\n\nMake the resume colorful, use a color scheme from coolors. Get creative\n\n\nCommit homework to GitHub.\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class",
             "title": "Week 4"
         },
         {
@@ -232,7 +232,7 @@
         },
         {
             "location": "/schedule/week04/#post-class-reading",
-            "text": "CSS Tutorial on MDN  How CSS works  Web Fonts  Box Model . Look through the sample files and experiment with CSS short-hand",
+            "text": "CSS Tutorial on MDN  How CSS works  Web Fonts  Box Model . Look through the sample files and experiment with CSS short-hand      CSS Reference",
             "title": "Post-Class Reading"
         },
         {
