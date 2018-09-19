@@ -34,6 +34,7 @@ After this week you should be able to
 - [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
 - [Web Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
 - [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model). Look through the sample files and experiment with CSS short-hand    
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
     
 --- 
