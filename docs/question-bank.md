@@ -30,3 +30,13 @@ I will compile and update the list every week.
 - What is the main difference between an absolute and relative path?
 - What is SEO?
 - What is the difference between an ordered and unordered list?
+- What is a semantic HTML? Give an example  
+
+
+## Week 4 - CSS  
+
+- What does CSS stand for and what does it do for HTML?
+- What is the difference between an internal stylesheet and an external stylesheet? 
+- What is a CSS declaration? 
+- Can you write CSS in an HTML document?
+- What is a Document Object Model?
