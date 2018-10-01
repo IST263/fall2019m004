@@ -3,8 +3,9 @@
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
-- Describe responsive design
-- Use a simple CSS framework
+- Describe the box model
+- Describe how the browser paints the page
+- Describe Block & Inline elements
 
 ---  
 
@@ -17,12 +18,17 @@ After this week you should be able to
 ## Class Slides
 
 #### Part 6.1 - CSS Grids
-- [Week 6.1 Slides](/slides/ist263-w6-1.pdf)
+- [Week 6.1 Slides](/slides/ist263-w6-1-1.pdf)
 
 #### Group Activity / Lab
 - Implement Grid System in your resume
 
 
+## Homework
+- There is no graded HW due this week
+- Work on your individual project
+
+<!-- 
 #### Part 6.2 - Responsive Design
 - [Week 6.2 Slides](/slides/ist263-w6-2.pdf)
 
@@ -36,6 +42,7 @@ After this week you should be able to
 - [Responsive Design - Demo 1](https://www.w3schools.com/w3css/tryw3css_templates_architect.htm)
 - [Responsive Design - Demo 2](https://www.w3schools.com/w3css/tryw3css_templates_architect.htm)
 
+
 ---
 ## Homework due this week, Points worth 5  
 
@@ -44,3 +51,4 @@ After this week you should be able to
 5. Complete SAGE survey (you will receive an email when the window opens)
 1. Get ready for the exam
 6. Do the pre-class reading for next class
+-->

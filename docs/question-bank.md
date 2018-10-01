@@ -44,3 +44,9 @@ I will compile and update the list every week.
 - What is a CSS declaration? 
 - Can you write CSS in an HTML document?
 - What is a Document Object Model?
+
+## Week 5 - CSS
+
+- What is semantic HTML? Give 2 examples
+- What is the purpose of wireframes?
+- How do wireframes help web developers?
