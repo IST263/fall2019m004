@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to IST 263, Section M004\n\n\nWelcome to Intro. to Front-end Web Development at the iSchool. \nDue dates & deadlines listed in this website are applicable only to Section M004 students.\n\n\n\n\nFirst Steps\n\n\n\n\nReview Syllabus\n\n\nGet your computer ready\n\n\n\n\n\n\nSchedule Overview\n\n\n\n\n\n\n\n\nWeek #\n\n\nDate\n\n\nTopics Covered\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\n08/29\n\n\nCourse Introduction & How does the web work?\n\n\n\n\n\n\nWeek 2\n\n\n09/05\n\n\nHTML\n\n\n\n\n\n\nWeek 3\n\n\n09/12\n\n\nMore HTML\n\n\n\n\n\n\nWeek 4\n\n\n09/19\n\n\nIntroduction to CSS\n\n\n\n\n\n\nWeek 5\n\n\n09/26\n\n\nWeb Dev. Lifecycle, CSS Selectors\n\n\n\n\n\n\nWeek 6\n\n\n10/03\n\n\nCSS Selectors, Box Model\n\n\n\n\n\n\nWeek 7\n\n\n10/10\n\n\nMid-term Exam, CSS Frameworks\n\n\n\n\n\n\nWeek 8\n\n\n10/17\n\n\nBootstrap Content, & Layout\n\n\n\n\n\n\nWeek 9\n\n\n10/24\n\n\nBootstrap Components\n\n\n\n\n\n\nWeek 10\n\n\n10/31\n\n\nHTML Forms\n\n\n\n\n\n\nWeek 11\n\n\n11/07\n\n\nWeb Content Accessibility, Guest Lecture By Sharon Trerise\n\n\n\n\n\n\nWeek 12\n\n\n11/14\n\n\nContent Management Systems, \nIndividual Project Due\n\n\n\n\n\n\nWeek 13\n\n\n11/21\n\n\nThanksgiving Break - No Classes\n\n\n\n\n\n\nWeek 14\n\n\n11/28\n\n\nJavascript Basics, Intro. to jQuery\n\n\n\n\n\n\nWeek 15\n\n\n12/05\n\n\nCSS Pre-Processors. To Gulp, Grunt or WebPack\n\n\n\n\n\n\nWeek 16\n\n\n12/??\n\n\nHmmmm...\n\n\n\n\n\n\n\n\nOffice Hours\n\n\nHinds Hall, Room 239, Thursday 4:30 - 5:30pm. You can also meet me in my office by appointment.\n\n\nClassroom & Meeting Times\n\n\nHinds Hall, Room 111 \n\nWednesday 05:15pm - 8:00pm\n\n\nAbout the Instructor\n\n\nMr. Kadaji is currently the Associate Director of Information Systems at Syracuse University Project Advance (SUPA). He joined SUPA in 2005 when he was hired to design a program management system, a project that soon grew into a full-time commitment. Today, he is responsible for the design, development and maintenance of Project Advance\u2019s registration, records, billing, and administrative systems. Among the programs he has launched are Syllabus Maker and an Evaluation and Assessment (IES) tool. \n\n\n\nMr. Kadaji is also the co-founder and CTO of Canusia Solutions Inc., a software company based in Syracuse, NY that provides program management systems to higher educational institutions all over the US.",
+            "text": "Welcome to IST 263, Section M004\n\n\nWelcome to Intro. to Front-end Web Development at the iSchool. \nDue dates & deadlines listed in this website are applicable only to Section M004 students.\n\n\n\n\nFirst Steps\n\n\n\n\nReview Syllabus\n\n\nGet your computer ready\n\n\n\n\n\n\nSchedule Overview\n\n\n\n\n\n\n\n\nWeek #\n\n\nDate\n\n\nTopics Covered\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\n08/29\n\n\nCourse Introduction & How does the web work?\n\n\n\n\n\n\nWeek 2\n\n\n09/05\n\n\nHTML\n\n\n\n\n\n\nWeek 3\n\n\n09/12\n\n\nMore HTML\n\n\n\n\n\n\nWeek 4\n\n\n09/19\n\n\nIntroduction to CSS\n\n\n\n\n\n\nWeek 5\n\n\n09/26\n\n\nWeb Dev. Lifecycle, CSS Selectors\n\n\n\n\n\n\nWeek 6\n\n\n10/03\n\n\nCSS Selectors, Box Model\n\n\n\n\n\n\nWeek 7\n\n\n10/10\n\n\nMid-term Exam, CSS Frameworks\n\n\n\n\n\n\nWeek 8\n\n\n10/17\n\n\nResponsive Layout & Bootstrap Content\n\n\n\n\n\n\nWeek 9\n\n\n10/24\n\n\nBootstrap Components\n\n\n\n\n\n\nWeek 10\n\n\n10/31\n\n\nHTML Forms\n\n\n\n\n\n\nWeek 11\n\n\n11/07\n\n\nWeb Content Accessibility, Guest Lecture By Sharon Trerise\n\n\n\n\n\n\nWeek 12\n\n\n11/14\n\n\nContent Management Systems, \nIndividual Project Due\n\n\n\n\n\n\nWeek 13\n\n\n11/21\n\n\nThanksgiving Break - No Classes\n\n\n\n\n\n\nWeek 14\n\n\n11/28\n\n\nJavascript Basics, Intro. to jQuery\n\n\n\n\n\n\nWeek 15\n\n\n12/05\n\n\nCSS Pre-Processors. To Gulp, Grunt or WebPack\n\n\n\n\n\n\nWeek 16\n\n\n12/??\n\n\nHmmmm...\n\n\n\n\n\n\n\n\nOffice Hours\n\n\nHinds Hall, Room 239, Thursday 4:30 - 5:30pm. You can also meet me in my office by appointment.\n\n\nClassroom & Meeting Times\n\n\nHinds Hall, Room 111 \n\nWednesday 05:15pm - 8:00pm\n\n\nAbout the Instructor\n\n\nMr. Kadaji is currently the Associate Director of Information Systems at Syracuse University Project Advance (SUPA). He joined SUPA in 2005 when he was hired to design a program management system, a project that soon grew into a full-time commitment. Today, he is responsible for the design, development and maintenance of Project Advance\u2019s registration, records, billing, and administrative systems. Among the programs he has launched are Syllabus Maker and an Evaluation and Assessment (IES) tool. \n\n\n\nMr. Kadaji is also the co-founder and CTO of Canusia Solutions Inc., a software company based in Syracuse, NY that provides program management systems to higher educational institutions all over the US.",
             "title": "Home"
         },
         {
@@ -17,7 +17,7 @@
         },
         {
             "location": "/#schedule-overview",
-            "text": "Week #  Date  Topics Covered      Week 1  08/29  Course Introduction & How does the web work?    Week 2  09/05  HTML    Week 3  09/12  More HTML    Week 4  09/19  Introduction to CSS    Week 5  09/26  Web Dev. Lifecycle, CSS Selectors    Week 6  10/03  CSS Selectors, Box Model    Week 7  10/10  Mid-term Exam, CSS Frameworks    Week 8  10/17  Bootstrap Content, & Layout    Week 9  10/24  Bootstrap Components    Week 10  10/31  HTML Forms    Week 11  11/07  Web Content Accessibility, Guest Lecture By Sharon Trerise    Week 12  11/14  Content Management Systems,  Individual Project Due    Week 13  11/21  Thanksgiving Break - No Classes    Week 14  11/28  Javascript Basics, Intro. to jQuery    Week 15  12/05  CSS Pre-Processors. To Gulp, Grunt or WebPack    Week 16  12/??  Hmmmm...",
+            "text": "Week #  Date  Topics Covered      Week 1  08/29  Course Introduction & How does the web work?    Week 2  09/05  HTML    Week 3  09/12  More HTML    Week 4  09/19  Introduction to CSS    Week 5  09/26  Web Dev. Lifecycle, CSS Selectors    Week 6  10/03  CSS Selectors, Box Model    Week 7  10/10  Mid-term Exam, CSS Frameworks    Week 8  10/17  Responsive Layout & Bootstrap Content    Week 9  10/24  Bootstrap Components    Week 10  10/31  HTML Forms    Week 11  11/07  Web Content Accessibility, Guest Lecture By Sharon Trerise    Week 12  11/14  Content Management Systems,  Individual Project Due    Week 13  11/21  Thanksgiving Break - No Classes    Week 14  11/28  Javascript Basics, Intro. to jQuery    Week 15  12/05  CSS Pre-Processors. To Gulp, Grunt or WebPack    Week 16  12/??  Hmmmm...",
             "title": "Schedule Overview"
         },
         {
@@ -332,7 +332,7 @@
         },
         {
             "location": "/schedule/week07/",
-            "text": "Week 7, Exam + CSS Frameworks\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nDescribe benefits of using a CSS Framework\n\n\n\n\n\n\nClass Slides\n\n\nPart 7.1 - Exam\n\n\nPart 7.2 - CSS Frameworks\n\n\n\n\nWeek 7.2 Slides\n\n\n\n\nPost-Class\n\n\n\n\nBootstrap Introduction\n\n\n\n\n\n\nHomework due this week\n\n\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class",
+            "text": "Week 7, Exam + CSS Frameworks\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nDescribe benefits of using a CSS Framework\n\n\n\n\n\n\nClass Slides\n\n\nPart 7.1 - Exam\n\n\nPart 7.2 - CSS Frameworks\n\n\n\n\nWeek 7.2 Slides\n\n\n\n\nPost-Class\n\n\n\n\nBootstrap Introduction\n\n\n\n\n\n\nHomework due this week\n\n\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nLook through homework/readme.txt for this week's homework\n\n\nDo the pre-class reading for next class",
             "title": "Week 7"
         },
         {
@@ -367,22 +367,22 @@
         },
         {
             "location": "/schedule/week07/#homework-due-this-week",
-            "text": "Complete SAGE survey (you will receive an email when the window opens)  Do the pre-class reading for next class",
+            "text": "Complete SAGE survey (you will receive an email when the window opens)  Look through homework/readme.txt for this week's homework  Do the pre-class reading for next class",
             "title": "Homework due this week"
         },
         {
             "location": "/schedule/week08/",
-            "text": "Week 8, Boostrap Content & Layout\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nUse Bootstrap to format content\n\n\nCreate simple layouts with Bootstrap\n\n\n\n\nPre-Class Reading\n\n\n\n\nGetting Started with Bootstrap\n\n\nW3Schools Tutorial\n\n\n\n\nClass Slides\n\n\nPart 8.1 - Bootstrap Content\n\n\n\n\nWeek 8.1 Slides\n\n\n\n\nGroup Activity / Lab\n\n\n\n\nComplete the webpage in lab/lab1.html\n\n\nDefine questions to add classes to do\n\n\nbold,\n\n\nalignment\n\n\ncolors\n\n\nbox border\n\n\nlists\n\n\n\n\n\n\n\n\nPart 8.2 - Bootstrap Layout\n\n\n\n\nWeek 8.2 Slides\n\n\n\n\nGroup Activity / Lab\n\n\n\n\nComplete the webpage in lab/lab2.html\n\n\nDefine questions to add classes to do\n\n\ndifferent grids\n\n\nvertical align\n\n\nresponsive\n\n\n\n\n\n\n\n\nPost-Class Reading\n\n\n\n\nBootstrap Typography\n\n\nBootstrap Text\n\n\nBoostrap Colors\n\n\n\n\n\n\nHomework due this week\n\n\n\n\nWork on your individual project, commit update to GitHub\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class",
+            "text": "Week 8, Responsive Design & Boostrap\n\n\n\u00a0Learning Outcomes\n\n\nAfter this week you should be able to \n\n\n\n\nMake simple responsive layout\n\n\nUse Bootstrap to format content\n\n\nCreate simple layouts with Bootstrap\n\n\n\n\nPre-Class Reading\n\n\n\n\nGetting Started with Bootstrap\n\n\nW3Schools Tutorial\n\n\n\n\nClass Slides\n\n\nPart 8.1 - Responsive Layout\n\n\n\n\nWeek 8.1 Slides\n\n\n\n\nGroup Activity / Lab\n\n\n\n\nRefer to readme.txt in week-08/labs\n\n\n\n\nPart 8.2 - Bootstrap Content\n\n\n\n\nWeek 8.2 Slides\n\n\n\n\n\n\n\n\n\n\n\nPost-Class Reading\n\n\n\n\nBootstrap Typography\n\n\nBootstrap Text\n\n\nBoostrap Colors\n\n\n\n\n\n\nHomework due this week\n\n\n\n\nWork on your individual project, commit update to GitHub\n\n\nComplete SAGE survey (you will receive an email when the window opens)\n\n\nDo the pre-class reading for next class",
             "title": "Week 8"
         },
         {
-            "location": "/schedule/week08/#week-8-boostrap-content-layout",
+            "location": "/schedule/week08/#week-8-responsive-design-boostrap",
             "text": "",
-            "title": "Week 8, Boostrap Content &amp; Layout"
+            "title": "Week 8, Responsive Design &amp; Boostrap"
         },
         {
             "location": "/schedule/week08/#learning-outcomes",
-            "text": "After this week you should be able to    Use Bootstrap to format content  Create simple layouts with Bootstrap",
+            "text": "After this week you should be able to    Make simple responsive layout  Use Bootstrap to format content  Create simple layouts with Bootstrap",
             "title": "&nbsp;Learning Outcomes"
         },
         {
@@ -396,24 +396,19 @@
             "title": "Class Slides"
         },
         {
-            "location": "/schedule/week08/#part-81-bootstrap-content",
+            "location": "/schedule/week08/#part-81-responsive-layout",
             "text": "Week 8.1 Slides",
-            "title": "Part 8.1 - Bootstrap Content"
+            "title": "Part 8.1 - Responsive Layout"
         },
         {
             "location": "/schedule/week08/#group-activity-lab",
-            "text": "Complete the webpage in lab/lab1.html  Define questions to add classes to do  bold,  alignment  colors  box border  lists",
+            "text": "Refer to readme.txt in week-08/labs",
             "title": "Group Activity / Lab"
         },
         {
-            "location": "/schedule/week08/#part-82-bootstrap-layout",
+            "location": "/schedule/week08/#part-82-bootstrap-content",
             "text": "Week 8.2 Slides",
-            "title": "Part 8.2 - Bootstrap Layout"
-        },
-        {
-            "location": "/schedule/week08/#group-activity-lab_1",
-            "text": "Complete the webpage in lab/lab2.html  Define questions to add classes to do  different grids  vertical align  responsive",
-            "title": "Group Activity / Lab"
+            "title": "Part 8.2 - Bootstrap Content"
         },
         {
             "location": "/schedule/week08/#post-class-reading",
