@@ -1,8 +1,9 @@
-# Week 8, Boostrap Content & Layout
+# Week 8, Responsive Design & Boostrap
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
+- Make simple responsive layout
 - Use Bootstrap to format content
 - Create simple layouts with Bootstrap
 
@@ -13,18 +14,17 @@ After this week you should be able to
 
 ## Class Slides
 
-#### Part 8.1 - Bootstrap Content
-- [Week 8.1 Slides](/slides/ist263-w8-2.pdf)
+#### Part 8.1 - Responsive Layout
+- [Week 8.1 Slides](/slides/responsive-design.pdf)
+
 
 #### Group Activity / Lab
-- Complete the webpage in lab/lab1.html
-- Define questions to add classes to do
-    - bold,
-    - alignment
-    - colors
-    - box border
-    - lists
-    
+- Refer to readme.txt in week-08/labs
+
+#### Part 8.2 - Bootstrap Content
+- [Week 8.2 Slides](/slides/ist263-w8-2.pdf)
+
+<!--
 #### Part 8.2 - Bootstrap Layout
 - [Week 8.2 Slides](/slides/ist263-w8-2.pdf)
 
@@ -35,6 +35,7 @@ After this week you should be able to
     - different grids
     - vertical align
     - responsive
+-->    
 
 ## Post-Class Reading
 - [Bootstrap Typography](https://getbootstrap.com/docs/4.1/content/typography/)

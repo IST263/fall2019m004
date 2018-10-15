@@ -23,7 +23,7 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 [Week 5](schedule/week05.md) | 09/26 | [Web Dev. Lifecycle, CSS Selectors](schedule/week05.md)
 [Week 6](schedule/week06.md) | 10/03 | [CSS Selectors, Box Model](schedule/week06.md)
 [Week 7](schedule/week07.md) | 10/10 | [Mid-term Exam, CSS Frameworks](schedule/week07.md)
-[Week 8](schedule/week08.md) | 10/17 | [Bootstrap Content, & Layout](schedule/week08.md)
+[Week 8](schedule/week08.md) | 10/17 | [Responsive Layout & Bootstrap Content](schedule/week08.md)
 [Week 9](schedule/week09.md) | 10/24 | [Bootstrap Components](schedule/week09.md)
 [Week 10](schedule/week10.md) | 10/31 | [HTML Forms](schedule/week10.md)
 [Week 11](schedule/week11.md) | 11/07 | [Web Content Accessibility, Guest Lecture By Sharon Trerise](schedule/week11.md)

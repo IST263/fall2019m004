@@ -23,4 +23,5 @@ After this week you should be able to
 ## Homework due this week 
 
 5. Complete SAGE survey (you will receive an email when the window opens)
+7. Look through homework/readme.txt for this week's homework
 6. Do the pre-class reading for next class
