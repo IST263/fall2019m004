@@ -9,6 +9,7 @@ After this week you should be able to
 
 
 ## Pre-Class Reading
+- 
 - [Getting Started with Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 - [W3Schools Tutorial](https://www.w3schools.com/bootstrap4/)
 
