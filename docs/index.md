@@ -25,8 +25,7 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 [Week 7](schedule/week07.md) | 10/10 | [Mid-term Exam, CSS Frameworks](schedule/week07.md)
 [Week 8](schedule/week08.md) | 10/17 | [Responsive Layout & Bootstrap Content](schedule/week08.md)
 Week 9 | 10/24 | HTML Forms
-[Week 10](schedule/week09.md) | 10/31 | [Bootstrap Components](schedule/week09.md)
-
+[Week 10](schedule/week09.md) | 10/31 | [Bootstrap Components](schedule/week09.md)  
 [Week 11](schedule/week11.md) | 11/07 | [Web Content Accessibility, Guest Lecture By Sharon Trerise](schedule/week11.md)
 Week 12 | 11/14 | Content Management Systems, **Individual Project Due**
 Week 13 | 11/21 | Thanksgiving Break - No Classes
