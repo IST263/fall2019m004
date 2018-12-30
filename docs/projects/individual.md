@@ -1,12 +1,12 @@
 
-# Individual Project - Due before Midnight 11/14/2018
+# Individual Project - Due 04/19/2018 23:59:59
 
-This assignment is intended to demonstrate your level of mastery of the course material. You will have a total of 10 weeks to complete the project with deliverables that are due almost every week. Refer to the [Meeting Milestones](#meeting-milestones) section for details.
+This assignment is intended to demonstrate your level of mastery of the course material. You will have a total of 12 weeks to complete the project with deliverables that are due almost every week. Refer to the [Meeting Milestones](#meeting-milestones) section for details.
 
 
 ### What is the individual project? ###
 
-Your goal is to design and develop a website on a topic that interests you. The website needs to have a minimum of 6 pages with atleast 3 different layouts. An ideal topic will have the following qualities
+Your goal is to design and develop a website on a topic that interests you. The website needs to have a minimum of 3 pages with unique layouts. An ideal topic will have the following qualities
 
 - Content on the topic is readily available
 - Easy to find images, video and other multimedia resources
@@ -14,59 +14,64 @@ Your goal is to design and develop a website on a topic that interests you. The 
 
 
 ### How to submit website & other deliverables? ###
-Similar to you weekly assignments, the project and all deliberables must be submitted via GitHub. Project that is emailed or submitted via Blackboard will receive 0 points.
+Similar to you weekly assignments, the project and all deliberables must be submitted via GitHub. Project documents that is emailed or submitted via Blackboard will receive 0 points.
 
-### What is the grading rubrik for this project? ###
+### Grading rubrik and Project Milestones ###
 
-This project has a total point value of 35. This is divided as follows
+This project has a total point value of 50. This is divided as follows
 
- &nbsp; | Criteria | Max. Points 
+ Due By | Deliverable(s) | Max. Points 
 ------------ | -------------  |
-1 | Meeting milestones (tracked via GitHub) | 5   
-2 | Wireframes | 5
-3 | Resource & Code Organization | 10
-4 | Final Website | 15   
-5 | Demo/Review with Instructor | 5   
+End of Week 2 | Project Idea | 2 
+End of Week 4 | Project Media + Sitemap | 3 
+End of Week 6 | 3 Wireframes | 5 
+End of Week 8 | Implementation v1 - Semantic Markup | 5
+End of Week 10 | Implementation v2 - With CSS | 15
+End of Week 13 | Implementation v3 - With Bootstrap | 20  
 
 More information on each of the above criteria is below.
 
 
-### Meeting Milestones ###
+### Project Idea ###
 
-This project is intended to be completed in weekly sprints/chunks. You are expected to commit weekly work or updates into GitHub. There should be at a minimum of 1 weekly commit starting at Week 3 before the final project is complete. Below is the list of project milestones.
+Submit a half page proposal (50 - 100 words) describing the main idea behind your project. You should also include some information about what you intend to have in the different pages. 
 
+### Project Media + Sitemap ###
 
- Due By | Milestone | Deliverable(s) 
------------- | -------------  |
-Week 2 - 3 | Come up with a website topic | Submit half page project proposal
-Week 3 - 5 | Research and collect website content and graphic media (images, video, etc.) | You can collect the content in a MS. Word doc or text file. If you are using copyrighted images and/or video make sure you cite them accordingly.
-Week 4 - 6 | Create, Submit and Revise Wireframes | Wireframes 
-Week 6 - 12 | Implement/Code/Revise the website | Website
+In your `project` folder create a separate sub-folder to collect the media you intend to include in your website. Media can be images, links to videos, audio files and content. You can paste the links in a MS-Word document or a regular text file. Some of the content that you find on the internet can be copyrighted so make sure you also save the source information.  
 
-Not meeting milestones will seriously jeopradize your chances to complete the project in the desired timeline. It will also cost you points. 
+Submit a [Sitemap](https://www.wikihow.com/Create-a-Site-Map-in-Microsoft-Word) for your project. Even though you only need 3 unique pages you can list more sub-pages as needed.
 
 ### Wireframes ###
 
 These are the project blue prints. You will use these as guides to implement the web pages. There are vast number of tools you can use to create wireframes. We will talk more about wireframes during class starting around Week 4.
+If you need inspiration try the following sites  
+- [dribbble.com](http://dribbble.com)  
+- [awwwards](http://awwwards.com)
 
-### Resource & Code Organization ###
+### v1 with Semantic Markup ###
 
-Here we look at your coding practices. Good code and resource organization makes for an efficient website, and also increases efficiency during debug, and updates. The metrics used to evaluate this criteria are
+Semantic markup ensure search engines and bots can parse through your site content and identify imporant block. In this phase you are required to
 
-- Run through W3C Validator aka WAG compliancy
-- Aptly named web pages, images 
-- Well organized folder structure 
-- Well organized CSS 
-- Well organized HTML
+- Create skeleton html pages with proper file names
+- Include content in pages and markup using appropriate tags
+- Verify the validity of HTML using [W3C Validator](https://validator.w3.org/)
 
-### Final Website ###
-We will be looking at the following in your final website.
 
-- Layout
-- Color Schemes
-- Use of external frameworks and/or libraries
-- Responsiveness 
+### v2 using Basic CSS ###
 
+You can now start thinking about adding CSS to implement the wireframes. You will most likely be adding and/or removing HTML markup that you submitted previously. That is totally fine. Before you start including CSS it is recommended that you have
+
+- An idea of the color scheme you intend on using in the site.
+
+### v3 using Bootstrap ###
+
+In this phase you are required to enchance your website by using a CSS framework like Bootstrap. By the end of the this phase your site should be
+
+- Responsive. You can check for validity at [W3C Mobile Checker](http://mobile.css-validator.org/)
+- All pages should have valid HTML markup
+- Run through WAVE tool and should have 0 errors
+- You should research and use advanced Bootstrap componenents or JS plugins
 
 ### Demo/Review with Instructor ###
 

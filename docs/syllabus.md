@@ -6,11 +6,6 @@
 In this course will be explore the principles for construction and publication of multimedia documents for the World Wide Web. We will incorporate a user-based approach to planning, design, implementation, and management in distributed network environments, with an entrepreneurial focus.
 
 
-## Classroom & Meeting Times
-Hinds Hall, Room 111 
-Wednesday 5:15pm - 8:00pm
-
-
 ## Learning Outcomes
 After successfully completing this course you will be able to  
 
@@ -39,10 +34,11 @@ Because there are several course objectives I will assess your performance on se
 
 &nbsp; | BB Code | Total Points
  -------------  | | 
-Midterm Exam | MTE | 20
-[Individual Project](projects/individual/) | INDVPRJ | 40
+Midterm Exam | MTE | 12
+Pre-Class Summary | PCM | 8 (0.5 for each class)
+[Individual Project](projects/individual/) | INDVPRJ | 50
 Weekly Assignments | W* | 20 
-Class Contribution | CC | 20
+Class Contribution | CC | 10
 SAGE | SG | 0
 | | 100
 
@@ -53,8 +49,8 @@ of course material, as well as your ability to apply it to new situations.
 
 
 ### Individual Project
-This project will be due around week 12 and will be a culmination of everything learnt
-from week 1 - 11. You will be required to work parts of it each week starting week 1.
+This project will be due around week 13 and will be a culmination of everything learnt
+from week 1 - 13. You will be required to work parts of it each week starting week 2.
 
 
 ### Weekly Assignments
@@ -66,7 +62,7 @@ reading material, and/or writing HTML/CSS/Javascript.
 
 
 ### Class Contribution
-These 20 points are there to motivate you to do more than just come to class. Asking questions, responding to other people's questions, insightful thoughts, etc all add up to class contibution. 
+These 10 points are there to motivate you to do more than just come to class. Asking questions, responding to other people's questions, insightful thoughts, etc all add up to class contibution. 
 
 
 ### SAGE - Self Assessment
@@ -110,7 +106,7 @@ password.
 
 
 ### Late Work
-GitHub timestamps all submitted work. Any work submitted late will be evaluated but no
+Git commits timestamps all submitted work. Any work submitted late will be evaluated but no
 points will be awarded. Refer to Section ‘Weekly Assignments’ in Page 3 that discusses
 assignment submission.
 
@@ -126,7 +122,7 @@ don’t own a notebook computer you can borrow one from the iSchool using your S
 You will be expected to install software on your notebook computer. Instructions will be
 provided.
 
-### GitHub & Gitter
+### GitHub
 This course will use GitHub Classroom https://classroom.github.com/ for exchanging
 source code.
 

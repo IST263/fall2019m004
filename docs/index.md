@@ -1,5 +1,5 @@
-# Welcome to IST 263, Section M004
-Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & deadlines listed in this website are applicable only to Section M004 students.**
+# Welcome to IST 263
+Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & deadlines listed in this website are applicable only to Section M005 students.**
 
 ---
 
@@ -16,32 +16,31 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 
  Week # | Date | Topics Covered 
  -------------  |-------------  |   
-[Week 1](schedule/week01.md) | 08/29 | [Course Introduction & How does the web work?](schedule/week01.md)
-[Week 2](schedule/week02.md) | 09/05 | [HTML](schedule/week02.md)
-[Week 3](schedule/week03.md) | 09/12 | [More HTML](schedule/week03.md)
-[Week 4](schedule/week04.md) | 09/19 | [Introduction to CSS](schedule/week04.md)
-[Week 5](schedule/week05.md) | 09/26 | [Web Dev. Lifecycle, CSS Selectors](schedule/week05.md)
-[Week 6](schedule/week06.md) | 10/03 | [CSS Selectors, Box Model](schedule/week06.md)
-[Week 7](schedule/week07.md) | 10/10 | [Mid-term Exam, CSS Frameworks](schedule/week07.md)
-[Week 8](schedule/week08.md) | 10/17 | [Responsive Layout & Bootstrap Content](schedule/week08.md)
-Week 9 | 10/24 | HTML Forms
-[Week 10](schedule/week09.md) | 10/31 | [Bootstrap Components](schedule/week09.md)  
-[Week 11](schedule/week11.md) | 11/07 | [Web Content Accessibility, Guest Lecture By Sharon Trerise](schedule/week11.md)
-Week 12 | 11/14 | Content Management Systems, **Individual Project Due**
-Week 13 | 11/21 | Thanksgiving Break - No Classes
-[Week 14](schedule/week14.md) | 11/28 | [Javascript Basics, Intro. to jQuery](schedule/week14.md)
-Week 15 | 12/05 | CSS Pre-Processors. To Gulp, Grunt or WebPack
-Week 16 | 12/?? | Hmmmm...
+[Week 1](schedule/week01.md) | 01/15 and 01/17 | [Course Introduction & How does the web work?](schedule/week01.md)
+[Week 2](schedule/week02.md) | 01/22 and 01/24 | [HTML](schedule/week02.md)
+[Week 3](schedule/week03.md) | 01/29 and 01/31 | [More HTML](schedule/week03.md)
+[Week 4](schedule/week04.md) | 02/05 and 02/07 | [Introduction to CSS](schedule/week04.md)
+[Week 5](schedule/week05.md) | 02/12 and 02/14 | [Web Dev. Lifecycle, CSS Selectors](schedule/week05.md)
+[Week 6](schedule/week06.md) | 02/19 and 02/21 | [CSS Selectors, Box Model](schedule/week06.md)
+[Week 7](schedule/week07.md) | 02/26 and 02/28 | [Mid-term Exam, CSS Frameworks](schedule/week07.md)
+[Week 8](schedule/week08.md) | 03/05 and 03/07 | [Responsive Layout & Bootstrap Content](schedule/week08.md)
+Week 9 | 03/11 - 03/16 | Spring Break, No classes
+[Week 10](schedule/week09.md) | 03/19 and 03/21 | [Bootstrap Components](schedule/week09.md)  
+[Week 11](schedule/week11.md) | 03/26 and 03/28 | [Web Content Accessibility](schedule/week11.md)
+[Week 12](schedule/week14.md) | 04/02 and 04/04 | [Javascript Basics, Intro. to jQuery](schedule/week14.md)
+Week 13 | 04/09 and 04/11 | Content Management Systems
+Week 13 | 04/16 and 04/18 | **Individual Project Due**
+Week 14 | 04/23 and 04/25 | Package Managers
+Week 15 | 04/30 | Special Topic
 
 
 ## Office Hours
-Hinds Hall, Room 239, Thursday 4:30 - 5:30pm. You can also meet me in my office by appointment.
+400 Ostrom Ave, Room 218, Thursday 4:30 - 5:30pm. If you cannot make it during my regular office hours please email for an appointment.
 
 
 
 ## Classroom & Meeting Times
-Hinds Hall, Room 111   
-Wednesday 05:15pm - 8:00pm
+Hinds Hall, Room 117, TuTh 11:00 - 12:20
 
 ## About the Instructor
 

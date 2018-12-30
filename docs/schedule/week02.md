@@ -1,4 +1,4 @@
-# Week 2, HTML
+# Week 02, HTML
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
@@ -9,42 +9,53 @@ After this week you should be able to
 
 ---
 
-## Pre-Class Reading
+
+
+
+## 02.01 - HTML
+
+#### Pre-Class Reading
 - [HTML Background](http://ryanstutorials.net/html-tutorial/html-background.php)
 
+#### Class Slides 
 
-
-## Class Slides 
-
-#### Part 2.1 - HTML
-
-- [Week 2.1 Slides](/slides/ist263-w2.pdf)
+- [Week 02.01 Slides](/slides/ist263-w2.pdf)
 
 #### Group Activity / Lab
 
 - Create first HTML page
 - Submit via GitHub
 
-#### Part 2.2 - More HTML, Git Review
 
-- More HTML
-- More Activity
+#### Post-Class  
 
-## Post-Class  
-
-- [HTML Tags](https://www.w3schools.com/tags/default.asp). Pick any 5 tags from the list and learn more about them.
 - [HTML5](https://www.w3schools.com/html/)
-- [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
 
 ---  
+## 02.02 - More HTML, Git Review  
+
+We will cover more HTML tags, and spend some time learning about Git.
+
+#### Class Slides 
+
+- No slides 
+
+#### Post-Class  
+
+- [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
+- [HTML Tags](https://www.w3schools.com/tags/default.asp). Learn about the following tags
+    - dl, dt  
+    - abbr  
+    - address 
+    - blockquote 
+
 
 
 ## Homework due this week ##
 
-2. List the new terminologies you learnt this week, see in your course folder under `week-02/homework`
-3. Markup your resume in HTML
-3. [Commit to git and Push to GitHub](/submit-howto/#submittingcommitting-your-homework)
-4. Get ready for next week's presentation
+Look in the class folder under `week-02/02/after-class/index.html`
+
+
 
 
 

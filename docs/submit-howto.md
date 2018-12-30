@@ -6,7 +6,7 @@ The steps in this page describe how to submit your homework, and pull homework g
 
 Couple of things to keep in mind
 
-* You can submit aka commit your work as often as you want. 
+* You can submit and should aka commit your work as often as you want. 
 * I encourage you to commit your work everytime you work on it even if you have  partially finished it. 
 * Committing code onto GitHub will ensure that there is a backup of your work
 * Git will ONLY track your work that is done in the course folder you have setup

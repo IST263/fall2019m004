@@ -1,4 +1,4 @@
-# Week 3, More HTML 
+# Week 03
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
@@ -8,38 +8,36 @@ After this week you should be able to
 
 ---  
 
-## Pre-Class Reading
+## 03.01 
 
-- [HTML Tags](https://www.w3schools.com/tags/default.asp). Pick any 5 tags from the list and learn more about them.
-- [Marking up a letter](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter)
+#### Pre-Class Reading
 
+- [Links](https://ryanstutorials.net/html-tutorial/html-links.php)
 
-## Class Slides 
-
-#### Part 3.1  
+#### Class Slides 
 
 - [Week 3.1 Slides](/slides/ist263-w3-1.pdf)
 
+#### Post Class Reading  
+
+- [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp)
+- [HTML Tags](https://www.w3schools.com/tags/default.asp). Browse through the list and pick a couple of tags to learn more about them.
+
+---  
+
+## 03.02 
 
 #### Group Activity / Lab
 
-- Our solar system
+- Our solar system. See details in your class' `week-03/02/labs` folder
 
-#### Part 3.2 More Coding Exercises
-
-- Markup Letter with HTML
 
 ## Post-Class Reading
 - [HTML Tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp)
 
 
 ---   
 
 ## Homework due this week ###
 
-1. List the new terminologies you learnt this week, see in your course folder under `week-03/homework`
-2. Look for details in week-03/homework/readme.txt
-4. Commit homework to GitHub.
-5. Complete SAGE survey (you will receive an email when the window opens)
-6. Do the pre-class reading for next class
+Look in the class folder under `week-03/02/after-class/index.html`
