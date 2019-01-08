@@ -17,7 +17,7 @@ After this week you should be able to
 - [Week 4.1 Slides](/slides/ist263-w4-1.pdf)
 
 #### Group Activty / Lab
-- Look through given lab file and answer questions
+- Look for details in the `labs` folder for this week
 
 #### Post-Class Reading  
 - [CSS Tutorial on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
@@ -34,14 +34,12 @@ After this week you should be able to
 - [Week 4.2 Slides](/slides/ist263-w4-2.pdf)
 
 #### Group Activty / Lab
-- Format the letter from last week
+- Format the letter from Week02
 
 #### Post-Class Reading
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model). Look through the sample files and experiment with CSS short-hand    
     
---- 
-
-## Homework due this week ##
+#### Homework due this week ##
 
 Look in the class folder under `week-04/02/after-class/index.html`

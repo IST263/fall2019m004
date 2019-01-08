@@ -51,7 +51,7 @@ We will cover more HTML tags, and spend some time learning about Git.
 
 
 
-## Homework due this week ##
+#### Homework due this week ##
 
 Look in the class folder under `week-02/02/after-class/index.html`
 

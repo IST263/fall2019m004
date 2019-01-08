@@ -2,6 +2,12 @@ The mid-term exam questions will be picked from this question bank. As part of S
 
 I will compile and update the list every week.
 
+# Spring 2019
+
+< Questions will go here >
+
+---  
+# Fall 2018
 
 ## Week 1 - Anatomy of the Web
 
@@ -44,9 +50,3 @@ I will compile and update the list every week.
 - What is a CSS declaration? 
 - Can you write CSS in an HTML document?
 - What is a Document Object Model?
-
-## Week 5 - CSS
-
-- What is semantic HTML? Give 2 examples
-- What is the purpose of wireframes?
-- How do wireframes help web developers?

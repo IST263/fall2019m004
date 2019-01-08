@@ -40,7 +40,7 @@ We will go over the course syllabus. We will spend some time discussing strategi
 - <a target="_blank" href="https://www.youtube.com/watch?v=scWj1BMRHUA">Video - The Web is not the Net</a>
 
 
-## Homework due this week ###
+#### Homework due this week ###
 
 Look in the class folder under `Week01/02/after-class/index.html`
 
