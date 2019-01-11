@@ -62,16 +62,16 @@ This final step will walk you through downloading the class folder aka `repo` fr
 2. You will be asked to signin with your GitHub username and password if you are not signed in. 
 
 3. You will see a page like the one shown below. Click on 'Accept this assignment'.
-![Alt](/images/github-accept-assignment-part1.png "GitHub Project Accept Page 1")
+![Alt](../images/github-accept-assignment-part1.png "GitHub Project Accept Page 1")
 
 4. That will take you to a page like this.
-![Alt](/images/github-accept-assignment-part2.png "GitHub Project Accept Page 2")
+![Alt](../images/github-accept-assignment-part2.png "GitHub Project Accept Page 2")
 
 5. Clicking on the link (yours will be similar) will bring to a page like this. If you see this you are almost there.  
-![Alt](/images/github-accept-assignment-part3.png "GitHub Project Accept Page 3")
+![Alt](../images/github-accept-assignment-part3.png "GitHub Project Accept Page 3")
 
 6. Copy the Repo URL
-![Alt](/images/github-accept-assignment-part6.png "GitHub Project Accept Page 6")
+![Alt](../images/github-accept-assignment-part6.png "GitHub Project Accept Page 6")
 
 ## 4. Setup or Cloning Class Folder ***on your laptop***
 ** These final steps will walk you through downloading the course folder from GitHub onto your computer **
@@ -81,11 +81,11 @@ This final step will walk you through downloading the class folder aka `repo` fr
 2. After the client has launched, click on the 'Clone a repository' button. You can also click on 'File' -> 'Clone Repository'  
 
 3. Paste the URL you copied in step 3.6 into the box.
-![Alt](/images/github-accept-assignment-part7.png "GitHub Project Accept Page 7")
+![Alt](../images/github-accept-assignment-part7.png "GitHub Project Accept Page 7")
 
 4. Local Path refers to the folder on your computer where you want the course folder to reside. Click 'Choose' and browse to say your 'My Documents' folder
 
 5. Click 'Clone'
 
 6. Good work. You are done...cloning the class repo.
-![Alt](/images/github-accept-assignment-part8.png "GitHub Project Accept Page 8")
+![Alt](../images/github-accept-assignment-part8.png "GitHub Project Accept Page 8")
