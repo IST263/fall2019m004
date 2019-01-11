@@ -57,7 +57,7 @@ This final step will walk you through downloading the class folder aka `repo` fr
 
 ** These first 5 steps will create your course folder/repo on GitHub **
 
-1. Click the link < insert link here > to get started.
+1. Click the link <a href='{{github.assignment_url}}' target='_blank'>{{github.assignment_url}}</a> to get started.
 
 2. You will be asked to signin with your GitHub username and password if you are not signed in. 
 

@@ -4,7 +4,8 @@ copyright: Copyright by Avinash Kadaji
 google_analytics:
   - UA-105238264-1
   - auto
-  
+extra_css:
+  - "css/ist263.css"
 pages:
 - Home: 'index.md'
 - Weekly Schedule:
@@ -27,3 +28,10 @@ pages:
   - Individual Project: 'projects/individual.md'
 - Question Bank: 'question-bank.md'
 
+
+plugins:
+  - markdownextradata
+
+extra:
+  github:
+    assignment_url: https://classroom.github.com/a/ueGpuaz0

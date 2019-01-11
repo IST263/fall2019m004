@@ -35,7 +35,7 @@ Week 16 | 04/30 | Special Topic
 
 
 ## Office Hours
-400 Ostrom Ave, Room 218, Thursday 4:30 - 5:30pm. If you cannot make it during my regular office hours please email for an appointment.
+Hinds Hall 239, Thursday 5 - 6pm. If you cannot make it during my regular office hours please email for an appointment.
 
 
 
