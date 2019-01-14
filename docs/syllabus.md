@@ -35,10 +35,10 @@ Because there are several course objectives I will assess your performance on se
 &nbsp; | BB Code | Total Points
  -------------  | | 
 Midterm Exam | MTE | 12
-Pre-Class Summary | PCM | 8 (0.5 for each class)
-[Individual Project](projects/individual/) | INDVPRJ | 50
+Pre-Class Summary | PCM | 8 (0.25 for each class)
 Weekly Assignments | W* | 20 
 Class Contribution | CC | 10
+[Individual Project](/projects/individual/) | INDVPRJ | 50
 SAGE | SG | 0
 | | 100
 
@@ -46,11 +46,6 @@ SAGE | SG | 0
 ### Midterm Exam
 This will be a closed book exam. This is used to evaluate your recall and understanding
 of course material, as well as your ability to apply it to new situations.
-
-
-### Individual Project
-This project will be due around week 13 and will be a culmination of everything learnt
-from week 1 - 13. You will be required to work parts of it each week starting week 2.
 
 
 ### Weekly Assignments
@@ -63,6 +58,11 @@ reading material, and/or writing HTML/CSS/Javascript.
 
 ### Class Contribution
 These 10 points are there to motivate you to do more than just come to class. Asking questions, responding to other people's questions, insightful thoughts, etc all add up to class contibution. 
+
+
+### Individual Project
+This project will be due around week 13 and will be a culmination of everything learnt
+from week 1 - 13. You will be required to work parts of it each week starting week 2.
 
 
 ### SAGE - Self Assessment
@@ -78,18 +78,18 @@ determination of your grade - so be honest with yourself and me.
 ### Final Grade Calculation  
 
 
-Grade | Points Earned
--------------  |
-A | > 95
-A- | 91 - 95
-B+ | 86 - 90
-B | 81 - 85
-B- | 76 - 80
-C+ | 71 - 75
-C | 66 - 70
-C- | 61 - 65
-D | 56 - 60
-F | < 56
+&nbsp; | Grade | Points Earned |
+--| -----------  |
+Mastery | A | > 95
+&nbsp; | A- | 91 - 95
+&nbsp; | B+ | 86 - 90
+Intermediate | B | 81 - 85
+&nbsp; | B- | 76 - 80
+&nbsp; | C+ | 71 - 75
+Satisfactory | C | 66 - 70
+&nbsp; | C- | 61 - 65
+&nbsp; | D | 56 - 60
+&nbsp; | F | < 56
 
 
 ### Attendance
