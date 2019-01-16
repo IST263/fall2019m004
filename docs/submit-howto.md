@@ -1,6 +1,6 @@
 The steps in this page describe how to submit your homework, and pull homework grades and comments. 
 
-<div style="font-size: 1.3em; width: 100%; text-align: center; font-weight: bold">Make sure you have completed ALL the steps to <a href="./computer-setup/">Getting your computer ready</a>.</div>  
+<div style="font-size: 1.3em; width: 100%; text-align: center; font-weight: bold">Make sure you have completed ALL the steps to <a href="../computer-setup/">Getting your computer ready</a>.</div>  
 
 &nbsp;
 
