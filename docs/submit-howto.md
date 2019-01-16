@@ -1,6 +1,6 @@
 The steps in this page describe how to submit your homework, and pull homework grades and comments. 
 
-<div style="font-size: 1.3em; width: 100%; text-align: center; font-weight: bold">Make sure you have completed ALL the steps to <a href="/computer-setup/">Getting your computer ready</a>.</div>  
+<div style="font-size: 1.3em; width: 100%; text-align: center; font-weight: bold">Make sure you have completed ALL the steps to <a href="./computer-setup/">Getting your computer ready</a>.</div>  
 
 &nbsp;
 
@@ -19,7 +19,7 @@ I assume you have done and saved your work in the class folder. Follow these ste
 
 1. Launch the GitHub desktop client. 
 2. On a Windows PC it should look something like the pic below.
-![Alt](/images/github-commit-assignment-part1.png "GitHub Commit Page 1")
+![Alt](./images/github-commit-assignment-part1.png "GitHub Commit Page 1")
     * Make sure the correct repo is selected (topmost arrow)
     * 'Changes' will list all the files that have been changed since the last commit.       
     
@@ -28,7 +28,7 @@ I assume you have done and saved your work in the class folder. Follow these ste
 4. Click 'Commit to Master'. You will also notice that in the 'Changes' box it will read '0 changed files'. 
 
 5. Now we can upload the files to GitHub. Click 'Push Origin'.
-![Alt](/images/github-commit-assignment-part2.png "GitHub Commit Page 2")
+![Alt](./images/github-commit-assignment-part2.png "GitHub Commit Page 2")
 
 6. Congratuations you just committed your work to GitHub.
 
