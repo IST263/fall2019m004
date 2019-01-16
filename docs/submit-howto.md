@@ -63,12 +63,12 @@ Follow these steps to pull the homework points & feedback
 1. Launch the GitHub desktop client. 
 
 2. It should look something like the pic below. Select your class repo by clicking on it.
-![Alt](/images/github-pull-assignment-part1.png "GitHub Pull Page 1")
+![Alt](./images/github-pull-assignment-part1.png "GitHub Pull Page 1")
 
 3. Click 'Pull Origin' or 'Sync'. You can also click on 'Repository' -> 'Pull' from the application menu bar.
 
 4. Click on 'History' tab to see that changes posted by the Instructor. 
-![Alt](/images/github-pull-assignment-part2.png "GitHub Pull Page 2")
+![Alt](./images/github-pull-assignment-part2.png "GitHub Pull Page 2")
 
 5. If a feedback was posted to a HTML file you'll need to open that file in VS Code or Notepad++ to see the comments. If a grade was assigned look for a file 'grades.txt' in the homework folder for that week.
 
@@ -87,7 +87,7 @@ Now that you have a conflict lets figure out how to resolve it.
 1. I assume you have committed your code but you got the error while trying to push the changes to GitHub.
 
 2. The pic below shows how a file gets modified when a conflict appears.  
-![Alt](/images/github-resolve-conflict.png "GitHub Resolve Conflict")
+![Alt](./images/github-resolve-conflict.png "GitHub Resolve Conflict")
 Text between '<<<<<< HEAD', '========' and '>>>>>> origin/master' represents the conflict in the file between the local repository versus the remote server aka GitHub. 
 
 3. You now have to review the file and choose how the text/code should appear by deleting/editing the text.
