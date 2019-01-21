@@ -14,7 +14,7 @@ After this week you should be able to
 
 #### Class Slides  
 
-- [Week 4.1 Slides](/slides/ist263-w4-1.pdf)
+- [Week 4.1 Slides](./slides/ist263-w4-1.pdf)
 
 #### Group Activty / Lab
 - Look for details in the `labs` folder for this week
@@ -31,7 +31,7 @@ After this week you should be able to
 - [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)  
 
 #### Class Slides
-- [Week 4.2 Slides](/slides/ist263-w4-2.pdf)
+- [Week 4.2 Slides](./slides/ist263-w4-2.pdf)
 
 #### Group Activty / Lab
 - Format the letter from Week02

@@ -17,7 +17,7 @@ We will go over the course syllabus. We will spend some time discussing strategi
 
 #### Slides
 
-- [Week 01.01 Slides](/slides/ist263-w1-1.pdf)
+- [Week 01.01 Slides](./slides/ist263-w1-1.pdf)
 
 
 #### Group Activity / Lab
@@ -32,7 +32,7 @@ We will go over the course syllabus. We will spend some time discussing strategi
 - <a href="https://launchschool.com/books/http/read/background" target="_blank">Background of the web</a>
 
 #### Slides  
-- [Week 01.02 Slides](/slides/ist263-w1-2.pdf)
+- [Week 01.02 Slides](./slides/ist263-w1-2.pdf)
 
 #### Post Class Readings
 - <a href="https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm" target="_blank">Web - Basic Concepts</a>

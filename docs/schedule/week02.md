@@ -19,7 +19,7 @@ After this week you should be able to
 
 #### Class Slides 
 
-- [Week 02.01 Slides](/slides/ist263-w2.pdf)
+- [Week 02.01 Slides](./slides/ist263-w2.pdf)
 
 #### Group Activity / Lab
 
