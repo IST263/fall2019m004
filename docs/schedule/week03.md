@@ -16,7 +16,7 @@ After this week you should be able to
 
 #### Class Slides 
 
-- [Week 3.1 Slides](./slides/ist263-w3-1.pdf)
+- [Week 3.1 Slides](../../slides/ist263-w3-1.pdf)
 
 #### Post Class Reading  
 
