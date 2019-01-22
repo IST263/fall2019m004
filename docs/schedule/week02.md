@@ -36,6 +36,9 @@ After this week you should be able to
 
 We will cover more HTML tags, and spend some time learning about Git.
 
+#### Pre-class Reading
+- [HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)  
+
 #### Class Slides 
 
 - No slides 

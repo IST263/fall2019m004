@@ -18,13 +18,14 @@ After this week you should be able to
 
 - [Week 3.1 Slides](../../slides/ist263-w3-1.pdf)
 
-#### Post Class Reading  
-
-- [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp)
 
 ---  
 
 ## 03.02 
+
+#### Post Class Reading  
+
+- [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp)  
 
 #### Group Activity / Lab
 
