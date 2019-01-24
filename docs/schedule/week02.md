@@ -39,6 +39,10 @@ We will cover more HTML tags, and spend some time learning about Git.
 #### Pre-class Reading
 - [HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)  
 
+#### Resources
+
+- [VS Code: Live Reload](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)  
+
 #### Class Slides 
 
 - No slides 
