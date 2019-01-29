@@ -15,3 +15,15 @@ I will compile and update the list every week.
 - Explain the purpose of the browser
 - List the cornerstone technologies of the WWW
 - What is the difference between back-end programming and front-end programming?
+
+## Week 2 - HTML
+
+- What must be declared in the first line of all HTML documents? DocType Name a Tag and an Element.
+- What is metadata? Give an example of a tag that uses metadata
+- What are the cornerstone technologoies of the web?
+- What is the difference between a HEAD and BODY tag
+- What is the difference between a tag and an element
+- What is the purpose of HTML, CSS and JS
+- What is the purpose of DOCTYPE?
+- List one of the recommended use case of the H1 tag?
+- Give an example of a nested tag
