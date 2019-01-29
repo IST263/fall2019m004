@@ -23,7 +23,7 @@ After this week you should be able to
 
 ## 03.02 
 
-#### Post Class Reading  
+#### Pre Class Reading  
 
 - [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp)  
 
