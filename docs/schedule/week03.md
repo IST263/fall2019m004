@@ -26,6 +26,7 @@ After this week you should be able to
 #### Pre Class Reading  
 
 - [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp)  
+- For this class' summary tell me something that is still confusing
 
 #### Group Activity / Lab
 

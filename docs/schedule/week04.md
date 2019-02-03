@@ -11,6 +11,7 @@ After this week you should be able to
 ## 04.01 Intro. to CSS  
 #### Pre-Class Reading
 - [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)
+- Review the file `week-04/01/index.html` in your course folder
 
 #### Class Slides  
 
@@ -28,7 +29,9 @@ After this week you should be able to
 ## 04.02 More CSS
 
 #### Pre-Class Reading  
-- [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)  
+<!-- - [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)  -->
+- [CSS Borders](https://www.w3schools.com/css/css_border.asp)  
+- Review the file `week-04/02/index.html` in your course folder
 
 #### Class Slides
 - [Week 4.2 Slides](../../slides/ist263-w4-2.pdf)
@@ -42,4 +45,4 @@ After this week you should be able to
     
 #### Homework due this week ##
 
-Look in the class folder under `week-04/02/after-class/index.html`
+Look in the class folder under `week-04/02/index.html`

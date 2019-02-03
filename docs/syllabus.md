@@ -52,7 +52,7 @@ of course material, as well as your ability to apply it to new situations.
 Most weeks you will have some form of assignment. It could be summarizing some
 reading material, and/or writing HTML/CSS/Javascript.  
 - Each assignment will be weighted differently.  
-- All weekly assignments are due by midnight (EST) Sunday of the week they are assigned.  
+- All weekly assignments are due by Saturday 11:59PM of the week they are assigned.  
 - Assignments should be submitted via Git. Anything emailed or sent via Blackboard will receive a zero.  
 
 
