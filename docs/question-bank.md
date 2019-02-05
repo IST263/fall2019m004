@@ -27,3 +27,13 @@ I will compile and update the list every week.
 - What is the purpose of DOCTYPE?
 - List one of the recommended use case of the H1 tag?
 - Give an example of a nested tag
+
+
+Week 3
+
+- What is the difference between a relative link and a global link?
+- Why are the 'alt' and 'title' attributes important in `image` and `a` tags respectively?
+- What does the attribute `href` used for?
+- What is the purpose of the `main` and `footer` tags?
+- What are the notations `./` and `../`? Give an example of how they should be used
+- What is the significance of `index.html`? 
