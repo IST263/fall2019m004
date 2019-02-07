@@ -12,7 +12,7 @@ After this week you should be able to
 - [Web Development Life Cycle](http://cs.tsu.edu/ghemri/CS117/ClassNotes/Web%20Development%20Life%20Cycle_small.htm)
 
 #### Class Slides  
-- [Week 5.1 Slides](/slides/ist263-w5-1.pdf)
+- [Week 5.1 Slides](../../slides/ist263-w5-1.pdf)
 
 
 #### Group Activty / Lab
@@ -29,7 +29,7 @@ After this week you should be able to
 ## 05.02 CSS Selectors 
 
 #### Class Slides  
-- [Week 5.2 Slides](/slides/ist263-w5-2.pdf)
+- [Week 5.2 Slides](../../slides/ist263-w5-2.pdf)
 
 #### Group Activty / Lab
 - Look for details in the `labs` folder for this week
