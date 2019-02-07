@@ -1,4 +1,4 @@
-# Week 5, Web Dev Life-cycle
+# Week 05
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
@@ -7,34 +7,37 @@ After this week you should be able to
 - Implement webpage layouts from wireframes using CSS & HTML
 
 
-## Pre-Class Reading
+## 05.01 Web-Dev. Lifecycle   
+#### Pre-Class Reading
 - [Web Development Life Cycle](http://cs.tsu.edu/ghemri/CS117/ClassNotes/Web%20Development%20Life%20Cycle_small.htm)
-- [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model)
 
-## Class Slides
-#### Part 5.1 Document & Website Structure  
+#### Class Slides  
 - [Week 5.1 Slides](/slides/ist263-w5-1.pdf)
 
 
-
-#### Part 5.2 CSS Selectors <!-- Web Page Layout -->
-- [Week 5.2 Slides](/slides/ist263-w5-2.pdf)
-
-#### Group Activity / Lab
-- Checkout the readme file in the `week-05/labs` folder
+#### Group Activty / Lab
+- No lab this class
 
 
-## Post-Class Reading
-- [Website Development Process](https://xbsoftware.com/blog/website-development-process-full-guide/)
+#### Post-Class Reading
 - [Good Website Design Principles](https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/)
-- [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
 - [awwwards.com](http://awwwards.com)
 - [dribbble.com](http://dribbble.com)
 
+---
 
----  
+## 05.02 CSS Selectors 
 
-## Homework due this week ###
-1. Create wireframes for your individual project
-5. Complete SAGE survey (you will receive an email when the window opens)
-6. Do the pre-class reading for next class
+#### Class Slides  
+- [Week 5.2 Slides](/slides/ist263-w5-2.pdf)
+
+#### Group Activty / Lab
+- Look for details in the `labs` folder for this week
+
+#### Post-Class Reading
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model). Look through the sample files and experiment with CSS short-hand    
+    
+#### Homework due this week ##
+
+Look in the class folder under `week-05/02/index.html`
