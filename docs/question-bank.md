@@ -29,7 +29,7 @@ I will compile and update the list every week.
 - Give an example of a nested tag
 
 
-Week 3
+## Week 3
 
 - What is the difference between a relative link and a global link?
 - Why are the 'alt' and 'title' attributes important in `image` and `a` tags respectively?
@@ -37,3 +37,12 @@ Week 3
 - What is the purpose of the `main` and `footer` tags?
 - What are the notations `./` and `../`? Give an example of how they should be used
 - What is the significance of `index.html`? 
+
+## Week 4
+
+- List 3 different units of measurements in CSS. Give an example for each
+- Name and describe the three different ways to apply CSS to an HTML document. Give examples
+- Why is CSS "cascading" ?
+- What are the three cornerstones for the WWW? What is the purpose of each cornerstone?
+- What is a CSS selector? 
+- What is the difference between internal and external CSS, and which do you think is preferable and why?
