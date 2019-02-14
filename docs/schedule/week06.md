@@ -1,32 +1,36 @@
-# Week 6, CSS Grids
+# Week 6, Basic Layouts using CSS
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
 - Describe the box model
 - Describe how the browser paints the page
-- Describe Block & Inline elements
+- Describe 'flex' model
 
 ---  
 
-## Self-Check
-- You should know how to define a basic CSS style
-- CSS Classes and IDs
-- Review last 2 week's materials if you need a refresher
+## 06.01
 
+#### Pre-class Reading
 
-## Class Slides
+Read upto and including the 'display property' section  
+- [https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)  
 
-#### Part 6.1 - CSS Grids
+#### Class Slides
+
 - [Week 6.1 Slides](/slides/ist263-w6-1-1.pdf)
 
 #### Group Activity / Lab
-- Implement Grid System in your resume
+- Implement the grid system template in the labs folder
 
 
-## Homework
-- There is no graded HW due this week
-- Work on your individual project
+
+## 06.02
+
+#### Pre-class Reading
+
+- [https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+
 
 <!-- 
 #### Part 6.2 - Responsive Design

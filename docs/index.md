@@ -21,7 +21,7 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 [Week 3](schedule/week03.md) | 01/29 and 01/31 | [More HTML](schedule/week03.md)
 [Week 4](schedule/week04.md) | 02/05 and 02/07 | [Introduction to CSS](schedule/week04.md)
 [Week 5](schedule/week05.md) | 02/12 and 02/14 | [Web Dev. Lifecycle, CSS Selectors](schedule/week05.md)
-[Week 6]<!-- (schedule/week06.md) --> | 02/19 and 02/21 | [Web Layouts & CSS] <!-- (schedule/week06.md) -->
+[Week 6](schedule/week06.md) | 02/19 and 02/21 | [Basic Layouts in CSS](schedule/week06.md)
 [Week 7]<!-- (schedule/week07.md) --> | 02/26 and 02/28 | [Mid-term Exam, CSS Frameworks] <!-- (schedule/week07.md) -->
 [Week 8]<!-- (schedule/week08.md) --> | 03/05 and 03/07 | [Responsive Layout & Bootstrap Content] <!-- (schedule/week08.md) -->
 Week 9 | 03/11 - 03/16 | Spring Break, No classes
