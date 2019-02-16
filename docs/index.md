@@ -21,17 +21,17 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 [Week 3](schedule/week03.md) | 01/29 and 01/31 | [More HTML](schedule/week03.md)
 [Week 4](schedule/week04.md) | 02/05 and 02/07 | [Introduction to CSS](schedule/week04.md)
 [Week 5](schedule/week05.md) | 02/12 and 02/14 | [Web Dev. Lifecycle, CSS Selectors](schedule/week05.md)
-[Week 6](schedule/week06.md) | 02/19 and 02/21 | [Basic Layouts in CSS](schedule/week06.md)
-[Week 7]<!-- (schedule/week07.md) --> | 02/26 and 02/28 | [Mid-term Exam, CSS Frameworks] <!-- (schedule/week07.md) -->
-[Week 8]<!-- (schedule/week08.md) --> | 03/05 and 03/07 | [Responsive Layout & Bootstrap Content] <!-- (schedule/week08.md) -->
+[Week 6](schedule/week06.md) | 02/19 and 02/21 | [Basic Layouts in CSS](schedule/week06.md) **Wireframes Due**
+[Week 7]<!-- (schedule/week07.md) --> | 02/26 and 02/28 | [Mid-term Exam, More CSS Layout] <!-- (schedule/week07.md) -->
+[Week 8]<!-- (schedule/week08.md) --> | 03/05 and 03/07 | [Responsive Design] <!-- (schedule/week08.md) --> **Semantic HTML Due**
 Week 9 | 03/11 - 03/16 | Spring Break, No classes
-[Week 10]<!-- (schedule/week09.md) --> | 03/19 and 03/21 | [Bootstrap Components] <!-- (schedule/week09.md)   -->
-[Week 11]<!-- (schedule/week11.md) --> | 03/26 and 03/28 | HTML Forms
-[Week 12]<!-- (schedule/week14.md) --> | 04/02 and 04/04 | [Web Content Accessibility] <!-- (schedule/week11.md) -->
-Week 13 | 04/09 and 04/11 | [Javascript Basics, Intro. to jQuery]<!-- (schedule/week14.md) -->
-Week 14 | 04/16 and 04/18 | Content Management Systems, **Individual Project Due**
-Week 15 | 04/23 and 04/25 | Package Managers
-Week 16 | 04/30 | Special Topic
+[Week 10]<!-- (schedule/week09.md) --> | 03/19 and 03/21 | HTML Forms, Web Content Accessibility **v2 Project Due**
+[Week 11]<!-- (schedule/week11.md) --> | 03/26 and 03/28 | [Intro. to Bootstrap] <!-- (schedule/week09.md)   -->
+[Week 12]<!-- (schedule/week14.md) --> | 04/02 and 04/04 |  [Bootstrap content] <!-- (schedule/week11.md) -->
+Week 13 | 04/09 and 04/11 | [Bootstrap Layouts + Components]<!-- (schedule/week14.md) -->
+Week 14 | 04/16 and 04/18 | [Project Help] **v3 Project Due**
+Week 15 | 04/23 and 04/25 | [Javascript Basics, Intro. to jQuery] 
+Week 16 | 04/30 | Content Management Systems, Package Managers
 
 
 ## Office Hours

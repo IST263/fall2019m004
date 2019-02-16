@@ -27,7 +27,7 @@ End of Week 4 | Project Media + Sitemap | 3
 End of Week 6 | 3 Wireframes | 5 
 End of Week 8 | Implementation v1 - Semantic Markup | 5
 End of Week 10 | Implementation v2 - With CSS | 15
-End of Week 13 | Implementation v3 - With Bootstrap | 20  
+End of Week 14 | Implementation v3 - With Bootstrap | 20  
 
 More information on each of the above criteria is below.
 
@@ -62,7 +62,11 @@ Semantic markup ensure search engines and bots can parse through your site conte
 
 You can now start thinking about adding CSS to implement the wireframes. You will most likely be adding and/or removing HTML markup that you submitted previously. That is totally fine. Before you start including CSS it is recommended that you have
 
-- An idea of the color scheme you intend on using in the site.
+An idea of the color scheme you intend on using in the site. By the end of this phase your site should 
+
+- All pages should have valid HTML markup
+- One of the page should be responsive. 
+- One of the page should pass the accessibility test (Use the free WAVE Chrome Extension)
 
 ### v3 using Bootstrap ###
 
