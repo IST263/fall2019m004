@@ -46,3 +46,10 @@ I will compile and update the list every week.
 - What are the three cornerstones for the WWW? What is the purpose of each cornerstone?
 - What is a CSS selector? 
 - What is the difference between internal and external CSS, and which do you think is preferable and why?
+
+## Week 5
+
+- What is the difference between a "class" and an "id?" How do you refer to a class and an id in CSS?
+- What is the purpose of a wireframe?
+- What are the phases of web development?
+- Describe UI, UX, Graphic Design
