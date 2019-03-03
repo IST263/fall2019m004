@@ -4,24 +4,37 @@
 After this week you should be able to 
 
 - Make simple responsive layout
-- Use Bootstrap to format content
-- Create simple layouts with Bootstrap
+- Discuss benefits of PWA
+---  
 
+## 08.01   
 
-## Pre-Class Reading
-- 
-- [Getting Started with Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
-- [W3Schools Tutorial](https://www.w3schools.com/bootstrap4/)
+#### Pre-Class Reading
+- [Viewport](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 
-## Class Slides
+#### Class Slides
 
-#### Part 8.1 - Responsive Layout
 - [Week 8.1 Slides](/slides/responsive-design.pdf)
 
+#### Group Activity / Lab
+- No lab this class
+
+#### Post-Class Reading
+- [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+
+## 08.02
+
+#### Pre-Class Reading  
+- [What is a Progressive Web App?](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Introduction)
 
 #### Group Activity / Lab
-- Refer to readme.txt in week-08/labs
+- Refer to readme.txt in week-08/02/labs
 
+#### Post-Class Reading
+- [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+
+<!--
 #### Part 8.2 - Bootstrap Content
 - [Week 8.2 Slides](/slides/ist263-w8-2.pdf)
 
@@ -36,7 +49,7 @@ After this week you should be able to
     - different grids
     - vertical align
     - responsive
--->    
+   
 
 ## Post-Class Reading
 - [Bootstrap Typography](https://getbootstrap.com/docs/4.1/content/typography/)
@@ -49,3 +62,4 @@ After this week you should be able to
 1. Work on your individual project, commit update to GitHub
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class
+--> 

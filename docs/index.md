@@ -22,14 +22,17 @@ Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & dea
 [Week 4](schedule/week04.md) | 02/05 and 02/07 | [Introduction to CSS](schedule/week04.md)
 [Week 5](schedule/week05.md) | 02/12 and 02/14 | [Web Dev. Lifecycle, CSS Selectors](schedule/week05.md)
 [Week 6](schedule/week06.md) | 02/19 and 02/21 | [Basic Layouts in CSS](schedule/week06.md) **Wireframes Due**
-[Week 7]<!-- (schedule/week07.md) --> | 02/26 and 02/28 | [Mid-term Exam, More CSS Layout] <!-- (schedule/week07.md) -->
-[Week 8]<!-- (schedule/week08.md) --> | 03/05 and 03/07 | [Responsive Design] <!-- (schedule/week08.md) --> **Semantic HTML Due**
+Week 7<!-- (schedule/week07.md) --> | 02/26 and 02/28 | Mid-term Exam, More CSS Layout <!-- (schedule/week07.md) -->
+[Week 8](schedule/week08.md) | 03/05 and 03/07 | [Responsive Design](schedule/week08.md)  
+**Project Deliverable** | 03/09/2019 11:59 PM | **Semantic HTML (v1)**  
 Week 9 | 03/11 - 03/16 | Spring Break, No classes
-[Week 10]<!-- (schedule/week09.md) --> | 03/19 and 03/21 | HTML Forms, Web Content Accessibility **v2 Project Due**
+[Week 10]<!-- (schedule/week09.md) --> | 03/19 and 03/21 | HTML Forms, Web Content Accessibility  
+**Project Deliverable** | 03/23/2019 11:59 PM | **v2 of Project Website**  
 [Week 11]<!-- (schedule/week11.md) --> | 03/26 and 03/28 | [Intro. to Bootstrap] <!-- (schedule/week09.md)   -->
 [Week 12]<!-- (schedule/week14.md) --> | 04/02 and 04/04 |  [Bootstrap content] <!-- (schedule/week11.md) -->
 Week 13 | 04/09 and 04/11 | [Bootstrap Layouts + Components]<!-- (schedule/week14.md) -->
-Week 14 | 04/16 and 04/18 | [Project Help] **v3 Project Due**
+Week 14 | 04/16 and 04/18 | [Project Help] 
+**Project Deliverable** | 04/20/2019 11:59 PM | **v3 of Project Website**  
 Week 15 | 04/23 and 04/25 | [Javascript Basics, Intro. to jQuery] 
 Week 16 | 04/30 | Content Management Systems, Package Managers
 
