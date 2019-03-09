@@ -37,7 +37,7 @@ Guest Lecture by Pam Thomas
 
 #### Class Slides  
 
-- [Week 10.1 Slides](/slides/ist263-w10-1.pdf)
+- [Week 10.1 Slides](../slides/ist263-w10-1.pdf)
 
 
 #### Post-Class Reading
