@@ -2,14 +2,14 @@
 Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & deadlines listed in this website are applicable only to Section M005 students.**
 
 ---
-
+<!-- 
 ## First Steps  ##
 
 
 - [Review Syllabus](./syllabus)
 - [Get your computer ready](./computer-setup)
 
----  
+---   -->
 
 ## Schedule Overview
 
@@ -26,7 +26,7 @@ Week 7<!-- (schedule/week07.md) --> | 02/26 and 02/28 | Mid-term Exam, More CSS 
 [Week 8](schedule/week08.md) | 03/05 and 03/07 | [Responsive Design](schedule/week08.md)  
 **Project Deliverable** | 03/09/2019 11:59 PM | **Semantic HTML (v1)**  
 Week 9 | 03/11 - 03/16 | Spring Break, No classes
-[Week 10]<!-- (schedule/week09.md) --> | 03/19 and 03/21 | HTML Forms, Web Content Accessibility  
+[Week 10](schedule/week11.md) | 03/19 and 03/21 | [Web Content Accessibility, HTML Forms](schedule/week11.md)
 **Project Deliverable** | 03/23/2019 11:59 PM | **v2 of Project Website**  
 [Week 11]<!-- (schedule/week11.md) --> | 03/26 and 03/28 | [Intro. to Bootstrap] <!-- (schedule/week09.md)   -->
 [Week 12]<!-- (schedule/week14.md) --> | 04/02 and 04/04 |  [Bootstrap content] <!-- (schedule/week11.md) -->

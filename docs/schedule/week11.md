@@ -1,4 +1,4 @@
-# Week 11, Web Accessibility
+# Week 10, Web Accessibility & HTML Forms
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
@@ -7,38 +7,42 @@ After this week you should be able to
 - Test page for WCAG2.0 compliancy
 - Describe ARIA
 
-<!-- 
-## Pre-Class Reading
-- [Getting Started with Forms](https://www.w3schools.com/html/html_forms.asp)
 
-#### Part 11.1 - WCAG 2.0
-- [Week 11.1 Slides](/slides/ist263-w11-1.pdf)
+## 10.01
 
-## Class Slides
---> 
+#### Pre-class Reading
+[Making website accessible](https://www.dreamhost.com/blog/make-your-website-accessible/)
+
+#### Class Slides  
+Guest Lecture by Pam Thomas
+
 
 #### Group Activity / Lab
 - Install WAVE Plugin [https://wave.webaim.org/extension/](https://wave.webaim.org/extension/)
-- WAVE
-- Check for Compliancy  
-
-<!-- 
-#### Part 11.2 - Possible Guest Lecture Sharon???
-- [Week 10.2 Slides](/slides/ist263-w10-2.pdf)
 
 
-#### Group Activity / Lab
-- Handle user registration
-- File Uploads
--->
-
-## Post-Class Reading
+#### Post-Class Reading
 - [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 - [WCAG2.0](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
 - [Section 508](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
 - [WebAIM Checklist](https://webaim.org/standards/wcag/checklist)
 
 ---  
+
+## 10.02
+
+#### Pre-class Reading
+- [Getting Started with Forms](https://www.w3schools.com/html/html_forms.asp)
+
+
+#### Class Slides  
+
+- [Week 10.1 Slides](/slides/ist263-w10-1.pdf)
+
+
+#### Post-Class Reading
+- [MDN, Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
+
 
 ## Homework due this week ###
 1. Work on your individual project, commit update to GitHub

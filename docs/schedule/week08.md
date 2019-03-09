@@ -17,7 +17,7 @@ After this week you should be able to
 - [Week 8.1 Slides](/slides/responsive-design.pdf)
 
 #### Group Activity / Lab
-- No lab this class
+- No lab this class 
 
 #### Post-Class Reading
 - [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
