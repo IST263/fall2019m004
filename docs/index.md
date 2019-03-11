@@ -1,15 +1,6 @@
 # Welcome to IST 263
 Welcome to Intro. to Front-end Web Development at the iSchool. **Due dates & deadlines listed in this website are applicable only to Section M005 students.**
 
----
-<!-- 
-## First Steps  ##
-
-
-- [Review Syllabus](./syllabus)
-- [Get your computer ready](./computer-setup)
-
----   -->
 
 ## Schedule Overview
 
@@ -26,15 +17,15 @@ Week 7<!-- (schedule/week07.md) --> | 02/26 and 02/28 | Mid-term Exam, More CSS 
 [Week 8](schedule/week08.md) | 03/05 and 03/07 | [Responsive Design](schedule/week08.md)  
 **Project Deliverable** | 03/09/2019 11:59 PM | **Semantic HTML (v1)**  
 Week 9 | 03/11 - 03/16 | Spring Break, No classes
-[Week 10](schedule/week11.md) | 03/19 and 03/21 | [Web Content Accessibility, HTML Forms](schedule/week11.md)
+[Week 10](schedule/week10.md) | 03/19 and 03/21 | [Web Content Accessibility, HTML Forms](schedule/week10.md)
 **Project Deliverable** | 03/23/2019 11:59 PM | **v2 of Project Website**  
-[Week 11]<!-- (schedule/week11.md) --> | 03/26 and 03/28 | [Intro. to Bootstrap] <!-- (schedule/week09.md)   -->
-[Week 12]<!-- (schedule/week14.md) --> | 04/02 and 04/04 |  [Bootstrap content] <!-- (schedule/week11.md) -->
-Week 13 | 04/09 and 04/11 | [Bootstrap Layouts + Components]<!-- (schedule/week14.md) -->
-Week 14 | 04/16 and 04/18 | [Project Help] 
+[Week 11](schedule/week11.md) | 03/26 and 03/28 | [Intro. to Bootstrap](schedule/week11.md)
+[Week 12](schedule/week12.md) | 04/02 and 04/04 |  [Bootstrap Components](schedule/week12.md)
+[Week 13](schedule/week13.md) | 04/09 and 04/11 | [Bootstrap Layouts]((schedule/week12.md))
+Week 14 | 04/16 and 04/18 | Project Help
 **Project Deliverable** | 04/20/2019 11:59 PM | **v3 of Project Website**  
-Week 15 | 04/23 and 04/25 | [Javascript Basics, Intro. to jQuery] 
-Week 16 | 04/30 | Content Management Systems, Package Managers
+[Week 15](schedule/week15.md) | 04/23 and 04/25 | [Javascript Basics, Intro. to jQuery](schedule/week15.md) 
+Week 16 | 04/30 | Content Management Systems
 
 
 ## Office Hours

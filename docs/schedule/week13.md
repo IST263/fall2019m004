@@ -1,38 +1,32 @@
-# Week 14
+# Week 13, BS4 Layouts / Grids
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
-- Use simple jQuery plugins
+- Incorporate Bootstrap grids in your web pages
+
+
+## 13.01
+
+#### Pre-class Reading
+[Grids](https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp)
+
+#### Class Pages  
+
+- [XS](https://www.w3schools.com/bootstrap4/bootstrap_grid_xsmall.asp)
+- [Sm](https://www.w3schools.com/bootstrap4/bootstrap_grid_small.asp)
+
+
 
 ---  
-## Monday -  More jQuery
 
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
+## 13.02
 
-- Pre-Class  
-    - Pre-Research on advanced topics
-        
-- Post-Class  
-        
-#### Class Slides 
+#### Pre-class Reading
+[Albums](https://getbootstrap.com/docs/4.3/examples/album/)
 
-- &lt; Not yet available &gt;
-
----  
-## Wednesday -  jQuery Plugins
-
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
-
-- Pre-Class
-    
-- Post-Class
-    
-#### Class Slides 
-- &lt; Not yet available &gt;
-
----  
 
 ## Homework due this week ###
+1. Work on your individual project, commit update to GitHub
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class

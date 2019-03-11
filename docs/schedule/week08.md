@@ -57,9 +57,9 @@ After this week you should be able to
 - [Boostrap Colors](https://getbootstrap.com/docs/4.1/utilities/colors/)
 
 ---  
+-->
 
 ## Homework due this week ###
-1. Work on your individual project, commit update to GitHub
+1. Semantic HTML for your individual project is due by midnight Saturday
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class
---> 

@@ -1,37 +1,36 @@
-# Week 12
+# Week 12, BS4 Components
 
 ## <i class="fa fa-star"></i>&nbsp;Learning Outcomes ###
 After this week you should be able to 
 
-- Write simple jQuery functions
+- Describe benefits of using Web Frameworks
+- Incorporate Bootstrap in your web pages
+
+
+## 12.01
+
+#### Pre-class Reading
+[BS Alerts](https://getbootstrap.com/docs/4.3/components/alerts/)
+
+#### Class Pages  
+
+- [Colors](https://getbootstrap.com/docs/4.3/utilities/colors/)
+- [Jumbotron](https://getbootstrap.com/docs/4.3/components/jumbotron/)
+
+
 
 ---  
-## Monday -  More jQuery Plugins
 
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
+## 12.02
 
-- Pre-Class  
-        
-- Post-Class  
-        
-#### Class Slides 
+#### Pre-class Reading
+[Jumbotron](https://getbootstrap.com/docs/4.3/examples/jumbotron/)
 
-- &lt; Not yet available &gt;
+#### Post-class Reading
+- [Examples](https://getbootstrap.com/docs/4.3/examples/)  
 
----  
-## Wednesday -  Final Project Help
-
-#### <i class="fa fa-book"></i>&nbsp;Reading List ###
-
-- Pre-Class
-    
-- Post-Class
-    
-#### Class Slides 
-- &lt; Not yet available &gt;
-
----  
 
 ## Homework due this week ###
+1. Work on your individual project, commit update to GitHub
 5. Complete SAGE survey (you will receive an email when the window opens)
 6. Do the pre-class reading for next class

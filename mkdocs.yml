@@ -18,8 +18,10 @@ pages:
   - Week 7 : 'schedule/week07.md'   
   - Week 8 : 'schedule/week08.md'     
   #- Week 9 : 'schedule/week09.md'   
-  - Week 10 : 'schedule/week11.md'
-  #- Week 11 : 'schedule/week11.md'   
+  - Week 10 : 'schedule/week10.md'
+  - Week 11 : 'schedule/week11.md'
+  - Week 12 : 'schedule/week12.md'   
+  - Week 13 : 'schedule/week13.md'   
   #- Week 14 : 'schedule/week14.md'       
 - About: 
   - Syllabus: 'syllabus.md'

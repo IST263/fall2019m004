@@ -53,9 +53,9 @@ If you need inspiration try the following sites
 
 Semantic markup ensure search engines and bots can parse through your site content and identify imporant block. In this phase you are required to
 
-- Create skeleton html pages with proper file names
-- Include content in pages and markup using appropriate tags
-- Verify the validity of HTML using [W3C Validator](https://validator.w3.org/)
+- Create skeleton html pages with proper file names (1 point)
+- Include content in pages and markup using appropriate tags (3 points)
+- Verify the validity of HTML using [W3C Validator](https://validator.w3.org/) (1 point)
 
 
 ### v2 using Basic CSS ###
@@ -67,6 +67,13 @@ An idea of the color scheme you intend on using in the site. By the end of this 
 - All pages should have valid HTML markup
 - One of the page should be responsive. 
 - One of the page should pass the accessibility test (Use the free WAVE Chrome Extension)
+
+  &nbsp; | Good | Okay | Hmmm |
+------------ | -------------  | -------------  |
+Well Written CSS | 5-4 | 3  | 2-0
+HTML Design + Layout | 6-4 | 3-2  | 2-0
+Responsive | 3 | 2  | 1-0
+WAVE Test | 1 | - | 0
 
 ### v3 using Bootstrap ###
 
