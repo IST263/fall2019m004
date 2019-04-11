@@ -1,5 +1,5 @@
 
-# Individual Project - Due 04/19/2018 23:59:59
+# Individual Project - Due 04/27/2018 23:59:59
 
 This assignment is intended to demonstrate your level of mastery of the course material. You will have a total of 12 weeks to complete the project with deliverables that are due almost every week. Refer to the [Meeting Milestones](#meeting-milestones) section for details.
 
@@ -83,6 +83,14 @@ In this phase you are required to enchance your website by using a CSS framework
 - All pages should have valid HTML markup
 - Run through WAVE tool and should have 0 errors
 - You should research and use advanced Bootstrap componenents or JS plugins
+- Apply your own customizations to site
+
+  &nbsp; | Good | Okay | Hmmm |
+------------ | -------------  | -------------  |
+Custom CSS | 5-4 | 3  | 2-0
+HTML Design + Layout using an external CSS framework | 6-4 | 3-2  | 2-0
+Responsive (2 points per page) | 6 | -  | -
+WAVE Test (1 point per page) | 3 | - | -
 
 ### Demo/Review with Instructor ###
 

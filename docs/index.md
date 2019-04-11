@@ -22,9 +22,9 @@ Week 9 | 03/11 - 03/16 | Spring Break, No classes
 [Week 11](schedule/week11.md) | 03/26 and 03/28 | [Intro. to Bootstrap](schedule/week11.md)
 [Week 12](schedule/week12.md) | 04/02 and 04/04 |  [Bootstrap Components](schedule/week12.md)
 [Week 13](schedule/week13.md) | 04/09 and 04/11 | [Bootstrap Layouts]((schedule/week12.md))
-Week 14 | 04/16 and 04/18 | Project Help
-**Project Deliverable** | 04/20/2019 11:59 PM | **v3 of Project Website**  
+Week 14 | 04/16 and 04/18 | Project Help 
 [Week 15](schedule/week15.md) | 04/23 and 04/25 | [Javascript Basics, Intro. to jQuery](schedule/week15.md) 
+**Project Deliverable** | 04/27/2019 11:59 PM | **v3 of Project Website** 
 Week 16 | 04/30 | Content Management Systems
 
 
