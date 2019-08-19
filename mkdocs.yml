@@ -1,4 +1,4 @@
-site_name: IST 263, Spring 2019 - M005
+site_name: IST 263, Fall 2019 - M004
 theme: cinder
 copyright: Copyright by Avinash Kadaji
 google_analytics:
@@ -36,4 +36,4 @@ plugins:
 
 extra:
   github:
-    assignment_url: https://classroom.github.com/a/ueGpuaz0
+    assignment_url: https://classroom.github.com/a/f_Sxqp2C

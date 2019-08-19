@@ -12,24 +12,7 @@ After this week you should be able to
 
 
 
-## 02.01 - HTML
-
-#### Pre-Class Reading
-- [HTML Background](http://ryanstutorials.net/html-tutorial/html-background.php)
-
-#### Class Slides 
-
-- [Week 02.01 Slides](../../slides/ist263-w2.pdf)
-
-#### Group Activity / Lab
-
-- Create first HTML page
-- Submit via GitHub
-
-
-#### Post-Class  
-
-- [HTML5](https://www.w3schools.com/html/)
+## 02.01 - No Class
 
 ---  
 ## 02.02 - More HTML, Git Review  

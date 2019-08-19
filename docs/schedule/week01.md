@@ -25,20 +25,26 @@ We will go over the course syllabus. We will spend some time discussing strategi
 - None
 
 ---  
-## 01.02 - Anatomy of the Web ##
+
+
+## 01.02 - HTML
 
 #### Pre-Class Reading
+- [HTML Background](http://ryanstutorials.net/html-tutorial/html-background.php)
 
-- <a href="https://launchschool.com/books/http/read/background" target="_blank">Background of the web</a>
+#### Class Slides 
 
-#### Slides  
-- [Week 01.02 Slides](../../slides/ist263-w1-2.pdf)
+- [Week 01.02 Slides](../../slides/ist263-w2.pdf)
 
-#### Post Class Readings
-- <a href="https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm" target="_blank">Web - Basic Concepts</a>
-- <a target="_blank" href="https://www.tutorialspoint.com/web_developers_guide/web_how_it_works.htm">How does the web work?</a>
-- <a target="_blank" href="https://www.youtube.com/watch?v=scWj1BMRHUA">Video - The Web is not the Net</a>
+#### Group Activity / Lab
 
+- Create first HTML page
+- Submit via GitHub
+
+
+#### Post-Class  
+
+- [HTML5](https://www.w3schools.com/html/)
 
 #### Homework due this week ###
 
